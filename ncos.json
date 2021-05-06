@@ -250,10 +250,10 @@
   {
     "command": "007 PCT",
     "sector": "NCO Supervisor",
-    "last_name": "Aryakia",
-    "first_name": "Mohammad",
+    "last_name": "Hughes",
+    "first_name": "William",
     "rank": "SGT",
-    "email": "mohammad.aryakia@nypd.org"
+    "email": "william.hughes2@nypd.org"
   },
   {
     "command": "009 PCT",
@@ -546,10 +546,10 @@
   {
     "command": "MTS PCT",
     "sector": "E",
-    "last_name": "Licul",
-    "first_name": "Kevin",
+    "last_name": "Snagg",
+    "first_name": "Christopher",
     "rank": "PO",
-    "email": "kevin.licul@nypd.org"
+    "email": "christophe.snagg@nypd.org"
   },
   {
     "command": "MTS PCT",
@@ -1066,10 +1066,10 @@
   {
     "command": "026 PCT",
     "sector": "A",
-    "last_name": "DeAbreu",
-    "first_name": "Ian",
+    "last_name": "Mata",
+    "first_name": "Eleodoro",
     "rank": "PO",
-    "email": "ian.deabreu@nypd.org"
+    "email": "eleodoro.mata@nypd.org"
   },
   {
     "command": "026 PCT",
@@ -1086,6 +1086,14 @@
     "first_name": "Freddy",
     "rank": "PO",
     "email": "freddy.tavares@nypd.org"
+  },
+  {
+    "command": "026 PCT",
+    "sector": "C",
+    "last_name": "DeAbreu",
+    "first_name": "Ian",
+    "rank": "PO",
+    "email": "ian.deabreu@nypd.org"
   },
   {
     "command": "026 PCT",
@@ -1138,18 +1146,18 @@
   {
     "command": "028 PCT",
     "sector": "C",
-    "last_name": "Lamonica",
-    "first_name": "Catherine",
-    "rank": "PO",
-    "email": "catherine.lamonica@nypd.org"
-  },
-  {
-    "command": "028 PCT",
-    "sector": "C",
     "last_name": "Robles",
     "first_name": "Brandon",
     "rank": "PO",
     "email": "brandon.robles@nypd.org"
+  },
+  {
+    "command": "028 PCT",
+    "sector": "C",
+    "last_name": "Zhang",
+    "first_name": "Xin",
+    "rank": "PO",
+    "email": "xin.zhang@nypd.org"
   },
   {
     "command": "028 PCT",
@@ -5137,6 +5145,14 @@
   },
   {
     "command": "113 PCT",
+    "sector": "A",
+    "last_name": "Roberts",
+    "first_name": "Sean",
+    "rank": "PO",
+    "email": "sean.roberts@nypd.org"
+  },
+  {
+    "command": "113 PCT",
     "sector": "B",
     "last_name": "Goico",
     "first_name": "Manuel",
@@ -5162,10 +5178,10 @@
   {
     "command": "113 PCT",
     "sector": "C",
-    "last_name": "Roberts",
-    "first_name": "Sean",
+    "last_name": "Phillips",
+    "first_name": "Logan",
     "rank": "PO",
-    "email": "sean.roberts@nypd.org"
+    "email": "logan.phillips@nypd.org"
   },
   {
     "command": "113 PCT",
