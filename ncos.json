@@ -450,18 +450,18 @@
   {
     "command": "013 PCT",
     "sector": "Housing - Strauss",
-    "last_name": "Francillon",
-    "first_name": "Marvin",
-    "rank": "PO",
-    "email": "marvin.francillon@nypd.org"
-  },
-  {
-    "command": "013 PCT",
-    "sector": "Housing - Strauss",
     "last_name": "Rubaine",
     "first_name": "Dusty",
     "rank": "PO",
     "email": "dusty.rubaine@nypd.org"
+  },
+  {
+    "command": "013 PCT",
+    "sector": "Housing - Strauss",
+    "last_name": "Sgroi",
+    "first_name": "Joseph",
+    "rank": "PO",
+    "email": "joseph.sgroi@nypd.org"
   },
   {
     "command": "013 PCT",
@@ -4106,10 +4106,10 @@
   {
     "command": "100 PCT",
     "sector": "B",
-    "last_name": "Richardson",
-    "first_name": "Keith",
+    "last_name": "Mellone",
+    "first_name": "Michael",
     "rank": "PO",
-    "email": "keith.richardson@nypd.org"
+    "email": "michael.mellone@nypd.org"
   },
   {
     "command": "100 PCT",
@@ -4138,18 +4138,18 @@
   {
     "command": "100 PCT",
     "sector": "Housing - Carlton Manor/ Hammel",
-    "last_name": "Candelaria",
-    "first_name": "Raynaldo",
+    "last_name": "Loboda",
+    "first_name": "Anna",
     "rank": "PO",
-    "email": "raynaldo.candelaria@nypd.org"
+    "email": "anna.loboda@nypd.org"
   },
   {
     "command": "100 PCT",
     "sector": "NCO Supervisor",
-    "last_name": "Turner",
-    "first_name": "Sean",
+    "last_name": "Jelcic",
+    "first_name": "Anthony",
     "rank": "SGT",
-    "email": "sean.turner@nypd.org"
+    "email": "anthony.jelcic@nypd.org"
   },
   {
     "command": "101 PCT",
@@ -4730,18 +4730,18 @@
   {
     "command": "107 PCT",
     "sector": "C",
-    "last_name": "Ahmed",
-    "first_name": "Shawqi",
-    "rank": "PO",
-    "email": "shawqi.ahmed@nypd.org"
-  },
-  {
-    "command": "107 PCT",
-    "sector": "C",
     "last_name": "Asadi",
     "first_name": "Akmal",
     "rank": "PO",
     "email": "akmal.asadi@nypd.org"
+  },
+  {
+    "command": "107 PCT",
+    "sector": "C",
+    "last_name": "Yepes",
+    "first_name": "Fabian",
+    "rank": "PO",
+    "email": "fabian.yepes@nypd.org"
   },
   {
     "command": "107 PCT",
