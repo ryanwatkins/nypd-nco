@@ -1865,14 +1865,6 @@
   },
   {
     "command": "044 PCT",
-    "sector": "Housing - Highbridge",
-    "last_name": "Marrero",
-    "first_name": "Judith",
-    "rank": "PO",
-    "email": "judith.marrero@nypd.org"
-  },
-  {
-    "command": "044 PCT",
     "sector": "NCO Supervisor",
     "last_name": "Bowman",
     "first_name": "Michael",
@@ -2350,14 +2342,6 @@
     "first_name": "Vincent",
     "rank": "SGT",
     "email": "vincent.caprino@nypd.org"
-  },
-  {
-    "command": "052 PCT",
-    "sector": "A",
-    "last_name": "Mullarkey",
-    "first_name": "Thomas",
-    "rank": "PO",
-    "email": "thomas.mullarkey@nypd.org"
   },
   {
     "command": "052 PCT",
