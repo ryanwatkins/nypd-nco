@@ -1945,14 +1945,6 @@
   },
   {
     "command": "046 PCT",
-    "sector": "C",
-    "last_name": "Lara",
-    "first_name": "Rafael",
-    "rank": "PO",
-    "email": "rafael.lara@nypd.org"
-  },
-  {
-    "command": "046 PCT",
     "sector": "D",
     "last_name": "Maxwell",
     "first_name": "April",
@@ -2253,7 +2245,7 @@
     "last_name": "Rodriguez",
     "first_name": "Joseph",
     "rank": "PO",
-    "email": "joseph.rodriguez@nypd.org"
+    "email": "joseph.rodriguez4@nypd.org"
   },
   {
     "command": "050 PCT",
