@@ -52,7 +52,7 @@
     "sector": "D",
     "last_name": "Dermody",
     "first_name": "Donald",
-    "rank": "PO",
+    "rank": "DET",
     "email": "donald.dermody@nypd.org"
   },
   {
@@ -378,14 +378,6 @@
   {
     "command": "013 PCT",
     "sector": "A",
-    "last_name": "Lebron",
-    "first_name": "Andrew",
-    "rank": "PO",
-    "email": "andrew.lebron@nypd.org"
-  },
-  {
-    "command": "013 PCT",
-    "sector": "A",
     "last_name": "Rodriguez",
     "first_name": "Manuel",
     "rank": "PO",
@@ -461,7 +453,7 @@
     "last_name": "Nikishin",
     "first_name": "Ivan",
     "rank": "SGT",
-    "email": "ivan .nikishin@nypd.org"
+    "email": "ivan.nikishin@nypd.org"
   },
   {
     "command": "MTS PCT",
@@ -1188,7 +1180,7 @@
     "sector": "B",
     "last_name": "Kim",
     "first_name": "Eric",
-    "rank": "PO",
+    "rank": "DET",
     "email": "eric.kim2@nypd.org"
   },
   {
@@ -1252,7 +1244,7 @@
     "sector": "B",
     "last_name": "Westendorf",
     "first_name": "Jon",
-    "rank": "PO",
+    "rank": "DET",
     "email": "jon.westendorf@nypd.org"
   },
   {
@@ -1270,14 +1262,6 @@
     "first_name": "Jonathan",
     "rank": "PO",
     "email": "jonathan.narvaez@nypd.org"
-  },
-  {
-    "command": "032 PCT",
-    "sector": "D",
-    "last_name": "Ocasio",
-    "first_name": "Miguel",
-    "rank": "PO",
-    "email": "miguel.ocasio@nypd.org"
   },
   {
     "command": "032 PCT",
@@ -1324,7 +1308,7 @@
     "sector": "B",
     "last_name": "Valerio",
     "first_name": "Emmanuel",
-    "rank": "PO",
+    "rank": "DET",
     "email": "emmanuel.valerio@nypd.org"
   },
   {
@@ -1396,7 +1380,7 @@
     "sector": "B",
     "last_name": "Polster",
     "first_name": "Bryan",
-    "rank": "PO",
+    "rank": "DET",
     "email": "bryan.polster@nypd.org"
   },
   {
@@ -1668,7 +1652,7 @@
     "sector": "B",
     "last_name": "Luna",
     "first_name": "Jennifer",
-    "rank": "PO",
+    "rank": "DET",
     "email": "jennifer.luna@nypd.org"
   },
   {
@@ -2244,7 +2228,7 @@
     "sector": "A",
     "last_name": "Rodriguez",
     "first_name": "Joseph",
-    "rank": "PO",
+    "rank": "DET",
     "email": "joseph.rodriguez4@nypd.org"
   },
   {
@@ -2460,7 +2444,7 @@
     "sector": "B",
     "last_name": "Costarella",
     "first_name": "Thomas",
-    "rank": "PO",
+    "rank": "DET",
     "email": "thomas.costarella@nypd.org"
   },
   {
@@ -2636,7 +2620,7 @@
     "sector": "D",
     "last_name": "Tomacruz",
     "first_name": "Timi",
-    "rank": "PO",
+    "rank": "DET",
     "email": "timi.tomacruz@nypd.org"
   },
   {
@@ -2756,7 +2740,7 @@
     "sector": "C",
     "last_name": "Luna",
     "first_name": "Barry",
-    "rank": "PO",
+    "rank": "DET",
     "email": "barry.luna@nypd.org"
   },
   {
@@ -3020,7 +3004,7 @@
     "sector": "B",
     "last_name": "Montielbarrera",
     "first_name": "Leonardo",
-    "rank": "PO",
+    "rank": "DET",
     "email": "leonardo.montielbarrera@nypd.org"
   },
   {
@@ -3180,7 +3164,7 @@
     "sector": "C",
     "last_name": "Stephens",
     "first_name": "Adaryll",
-    "rank": "PO",
+    "rank": "DET",
     "email": "adaryll.stephens@nypd.org"
   },
   {
@@ -3268,7 +3252,7 @@
     "sector": "D",
     "last_name": "Delgado",
     "first_name": "Horacio",
-    "rank": "PO",
+    "rank": "DET",
     "email": "horacio.delgado@nypd.org"
   },
   {
@@ -4132,7 +4116,7 @@
     "sector": "Housing - Arvene / Ocean Bay / Beach 41st",
     "last_name": "Conti",
     "first_name": "Michael",
-    "rank": "PO",
+    "rank": "DET",
     "email": "michael.conti@nypd.org"
   },
   {
@@ -4476,7 +4460,7 @@
     "sector": "D",
     "last_name": "Vivar",
     "first_name": "Vicente",
-    "rank": "PO",
+    "rank": "DET",
     "email": "vicente.vivar@nypd.org"
   },
   {
@@ -4588,7 +4572,7 @@
     "sector": "Resorts World Casino",
     "last_name": "Maderik",
     "first_name": "John",
-    "rank": "PO",
+    "rank": "DET",
     "email": "john.maderik@nypd.org"
   },
   {
@@ -5324,7 +5308,7 @@
     "sector": "Housing - Cassidy/ Jersey St/ Richmond Terrace",
     "last_name": "Gillespie",
     "first_name": "Mary",
-    "rank": "PO",
+    "rank": "DET",
     "email": "mary.gillespie@nypd.org"
   },
   {
