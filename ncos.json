@@ -108,7 +108,7 @@
     "sector": "C",
     "last_name": "Campaign",
     "first_name": "William",
-    "rank": "PO",
+    "rank": "DET",
     "email": "william.campaign@nypd.org"
   },
   {
@@ -660,7 +660,7 @@
     "sector": "C",
     "last_name": "Vogel",
     "first_name": "Alyssa",
-    "rank": "DTS",
+    "rank": "DET",
     "email": "alyssa.vogel@nypd.org"
   },
   {
@@ -908,7 +908,7 @@
     "sector": "C",
     "last_name": "Smith",
     "first_name": "Kerriann",
-    "rank": "PO",
+    "rank": "DET",
     "email": "kerriann.smith@nypd.org"
   },
   {
@@ -2060,7 +2060,7 @@
     "sector": "A",
     "last_name": "McLoughlin",
     "first_name": "John",
-    "rank": "PO",
+    "rank": "DET",
     "email": "john.mcloughlin@nypd.org"
   },
   {
@@ -3036,7 +3036,7 @@
     "sector": "D",
     "last_name": "Trim",
     "first_name": "Denzil",
-    "rank": "PO",
+    "rank": "DET",
     "email": "denzil.trim@nypd.org"
   },
   {
@@ -3340,7 +3340,7 @@
     "sector": "A",
     "last_name": "Staffa",
     "first_name": "Daniel",
-    "rank": "PO",
+    "rank": "DET",
     "email": "daniel.staffa@nypd.org"
   },
   {
@@ -4196,7 +4196,7 @@
     "sector": "A",
     "last_name": "Gonzalez",
     "first_name": "Fabio",
-    "rank": "PO",
+    "rank": "DET",
     "email": "fabio.gonzalez@nypd.org"
   },
   {
@@ -4340,7 +4340,7 @@
     "sector": "B",
     "last_name": "Santos",
     "first_name": "Maria",
-    "rank": "PO",
+    "rank": "DET",
     "email": "maria.santos@nypd.org"
   },
   {
@@ -5508,7 +5508,7 @@
     "sector": "C",
     "last_name": "Baniqued",
     "first_name": "Victor",
-    "rank": "PO",
+    "rank": "DET",
     "email": "victor.baniqued@nypd.org"
   },
   {
