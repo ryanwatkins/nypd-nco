@@ -35,7 +35,7 @@
     "command": "001 PCT",
     "sector": "C",
     "last_name": "Dabrowski",
-    "first_name": "Daviel",
+    "first_name": "Daniel",
     "rank": "PO",
     "email": "daniel.dabrowski@nypd.org"
   },
@@ -3602,14 +3602,6 @@
   {
     "command": "083 PCT",
     "sector": "A",
-    "last_name": "Budd",
-    "first_name": "Alexander",
-    "rank": "PO",
-    "email": "alexander.budd@nypd.org"
-  },
-  {
-    "command": "083 PCT",
-    "sector": "A",
     "last_name": "Erazo",
     "first_name": "Joshua",
     "rank": "PO",
@@ -3617,11 +3609,19 @@
   },
   {
     "command": "083 PCT",
-    "sector": "B",
-    "last_name": "Ramroop",
-    "first_name": "Bisham",
+    "sector": "A",
+    "last_name": "Morris",
+    "first_name": "Denzel",
     "rank": "PO",
-    "email": "bisham.ramroop@nypd.org"
+    "email": "denzel.morris2@nypd.org"
+  },
+  {
+    "command": "083 PCT",
+    "sector": "B",
+    "last_name": "Islam",
+    "first_name": "Atickul",
+    "rank": "PO",
+    "email": "atickul.islam@nypd.org"
   },
   {
     "command": "083 PCT",
@@ -3662,6 +3662,14 @@
     "first_name": "Dylan",
     "rank": "PO",
     "email": "dylan.fazio@nypd.org"
+  },
+  {
+    "command": "083 PCT",
+    "sector": "Housing - Hope Gardens",
+    "last_name": "Guerra",
+    "first_name": "Candice",
+    "rank": "PO",
+    "email": "candice.guerra@nypd.org"
   },
   {
     "command": "083 PCT",
@@ -3762,10 +3770,10 @@
   {
     "command": "088 PCT",
     "sector": "A",
-    "last_name": "Klouda",
-    "first_name": "Kraig",
+    "last_name": "Lewis",
+    "first_name": "Natasha",
     "rank": "PO",
-    "email": "kraig.klouda@nypd.org"
+    "email": "natasha.lewis2@nypd.org"
   },
   {
     "command": "088 PCT",
@@ -5566,6 +5574,14 @@
     "first_name": "Keith",
     "rank": "PO",
     "email": "keith.miller@nypd.org"
+  },
+  {
+    "command": "122 PCT",
+    "sector": "NCO Supervisor",
+    "last_name": "DePietro",
+    "first_name": "Archie",
+    "rank": "SGT",
+    "email": "archie.depietro@nypd.org"
   },
   {
     "command": "123 PCT",
