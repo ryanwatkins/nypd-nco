@@ -5642,18 +5642,18 @@
   {
     "command": "PSA 1",
     "sector": "BREUKELEN (69), BAYVIEW (69)",
-    "last_name": "Stavis",
-    "first_name": "Tyler",
+    "last_name": "Campbell",
+    "first_name": "Darren",
     "rank": "PO",
-    "email": "tyler.stavis@nypd.org"
+    "email": "darren.campbell@nypd.org"
   },
   {
     "command": "PSA 1",
     "sector": "BREUKELEN (69), BAYVIEW (69)",
-    "last_name": "Vassilatos",
-    "first_name": "Gilbert",
+    "last_name": "Stavis",
+    "first_name": "Tyler",
     "rank": "PO",
-    "email": "gilbert.vassilatos@nypd.org"
+    "email": "tyler.stavis@nypd.org"
   },
   {
     "command": "PSA 1",
@@ -5666,10 +5666,10 @@
   {
     "command": "PSA 1",
     "sector": "CAREY GARDENS (60), CONEY ISLAND (60), O'DWYER (60),  SITE 1B (60), CONEY ISLAND I SITE 8 (60)",
-    "last_name": "Williams",
-    "first_name": "Robert",
+    "last_name": "Moses",
+    "first_name": "Devon",
     "rank": "PO",
-    "email": "robert.williams@nypd.org"
+    "email": "devon.moses@nypd.org"
   },
   {
     "command": "PSA 1",
@@ -5684,7 +5684,7 @@
     "sector": "CONEY ISLAND I SITES 4 & 5 (60), GRAVESEND (60), SURFSIDE (60), HABER (60)",
     "last_name": "Rispoli",
     "first_name": "Jessica",
-    "rank": "PO",
+    "rank": "DET",
     "email": "jessica.rispoli@nypd.org"
   },
   {
@@ -5714,18 +5714,26 @@
   {
     "command": "PSA 1",
     "sector": "GOWANUS (76), RED HOOK (76)",
-    "last_name": "Patel",
-    "first_name": "Krunal",
+    "last_name": "Lali",
+    "first_name": "Deepnoor",
     "rank": "PO",
-    "email": "krunal.patel@nypd.org"
+    "email": "deepnoor.lali@nypd.org"
   },
   {
     "command": "PSA 1",
     "sector": "NCO ADMIN",
-    "last_name": "Thristino",
-    "first_name": "Louis",
+    "last_name": "Hernandez",
+    "first_name": "Leah",
     "rank": "PO",
-    "email": "louis.thristino@nypd.org"
+    "email": "leah.hernandez@nypd.org"
+  },
+  {
+    "command": "PSA 1",
+    "sector": "NCO SERGEANT",
+    "last_name": "Khalid",
+    "first_name": "Muhammad",
+    "rank": "SGT",
+    "email": "muhammad.khalid@nypd.org"
   },
   {
     "command": "PSA 1",
@@ -5746,18 +5754,18 @@
   {
     "command": "PSA 1",
     "sector": "SHEEPHEAD (61), NOSTRAND (61), MARLBORO (60)",
-    "last_name": "Dorbrzyniewicz",
-    "first_name": "Magdalena",
+    "last_name": "Diaz",
+    "first_name": "Joseline",
     "rank": "PO",
-    "email": "magdalena.dobrzyniewicz@nypd.org"
+    "email": "joseline.diaz@nypd.org"
   },
   {
     "command": "PSA 1",
     "sector": "SHEEPHEAD (61), NOSTRAND (61), MARLBORO (60)",
-    "last_name": "Hernandez",
-    "first_name": "Leah",
+    "last_name": "Santano",
+    "first_name": "Sean",
     "rank": "PO",
-    "email": "leah.hernandez@nypd.org"
+    "email": "sean.santano@nypd.org"
   },
   {
     "command": "PSA 2",
@@ -5769,11 +5777,11 @@
   },
   {
     "command": "PSA 2",
-    "sector": "ALBANY (77), PARK ROCK (77), CROWN HEIGHTS (77), WEEKSVILLE (77), STERLING PLACE (77), STERLING (77), BUFFALO (77)",
-    "last_name": "Loreto",
-    "first_name": "John",
+    "sector": "BROWNSVILLE (73), TILDEN (73)",
+    "last_name": "Burdeynyy",
+    "first_name": "Volodynyr",
     "rank": "PO",
-    "email": "john.loreto@nypd.org"
+    "email": "volodymyr.burdeynyy@nypd.org"
   },
   {
     "command": "PSA 2",
@@ -5782,14 +5790,6 @@
     "first_name": "Igor",
     "rank": "PO",
     "email": "igor.demin@nypd.org"
-  },
-  {
-    "command": "PSA 2",
-    "sector": "BROWNSVILLE (73), TILDEN (73)",
-    "last_name": "Postiglione",
-    "first_name": "James",
-    "rank": "PO",
-    "email": "james.postiglione@nypd.org"
   },
   {
     "command": "PSA 2",
@@ -5804,7 +5804,7 @@
     "sector": "CYPRESS (75), ENY CITY LINE (75),  PINK (75), FIORENTINO PLAZA (75), BELMONT-SUTTER (75)",
     "last_name": "Vargas",
     "first_name": "Miguel",
-    "rank": "PO",
+    "rank": "DET",
     "email": "miguel.vargas@nypd.org"
   },
   {
@@ -5914,18 +5914,18 @@
   {
     "command": "PSA 3",
     "sector": "303 VERNON(88), BED STUY REHAB (88), MARCY(79)",
-    "last_name": "Francis",
-    "first_name": "Christopher",
+    "last_name": "Kania",
+    "first_name": "Olivia",
     "rank": "PO",
-    "email": "christopher.francis@nypd.org"
+    "email": "olivia.kania@nypd.org"
   },
   {
     "command": "PSA 3",
     "sector": "303 VERNON(88), BED STUY REHAB (88), MARCY(79)",
-    "last_name": "Giraldo",
-    "first_name": "Delinda",
+    "last_name": "Pignotti",
+    "first_name": "Michael",
     "rank": "PO",
-    "email": "delinda.giraldo@nypd.org"
+    "email": "michael.pignotti@nypd.org"
   },
   {
     "command": "PSA 3",
@@ -5946,18 +5946,18 @@
   {
     "command": "PSA 3",
     "sector": "BUSHWICK (90)",
-    "last_name": "Karpiena",
-    "first_name": "Patrick",
+    "last_name": "Goldstein",
+    "first_name": "Rijana",
     "rank": "PO",
-    "email": "patrick.karpiena@nypd.org"
+    "email": "rijana.goldstein@nypd.org"
   },
   {
     "command": "PSA 3",
     "sector": "BUSHWICK (90)",
-    "last_name": "Mcevoy",
-    "first_name": "Christopher",
+    "last_name": "Salcedo",
+    "first_name": "Isaiah",
     "rank": "PO",
-    "email": "christopher.mcevoy@nypd.org"
+    "email": "isaiah.salcedo@nypd.org"
   },
   {
     "command": "PSA 3",
@@ -5978,10 +5978,10 @@
   {
     "command": "PSA 3",
     "sector": "INGERSOLL (88), WHITMAN (88)",
-    "last_name": "Ramos",
-    "first_name": "Jorge",
+    "last_name": "Giraldo",
+    "first_name": "Delinda",
     "rank": "PO",
-    "email": "jorge.ramos@nypd.org"
+    "email": "delinda.giraldo@nypd.org"
   },
   {
     "command": "PSA 3",
@@ -5990,14 +5990,6 @@
     "first_name": "Luis",
     "rank": "PO",
     "email": "luis.sandres@nypd.org"
-  },
-  {
-    "command": "PSA 3",
-    "sector": "LAFAYETTE GARDENS (79), LOUIE ARMSTRONG (79)",
-    "last_name": "Ali",
-    "first_name": "Jalal",
-    "rank": "PO",
-    "email": "jalal.ali@nypd.org"
   },
   {
     "command": "PSA 3",
@@ -6034,34 +6026,34 @@
   {
     "command": "PSA 3",
     "sector": "STUY GARDENS (81)",
-    "last_name": "Harper",
-    "first_name": "Kaili",
+    "last_name": "Espinoza",
+    "first_name": "Jesenia",
     "rank": "PO",
-    "email": "kaili.harper@nypd.org"
+    "email": "jesenie.espinoza@nypd.org"
   },
   {
     "command": "PSA 3",
     "sector": "STUY GARDENS (81)",
-    "last_name": "Patrick",
-    "first_name": "Wilinda",
+    "last_name": "Moore",
+    "first_name": "Ivan",
     "rank": "PO",
-    "email": "wilinda.patrick@nypd.org"
+    "email": "ivan.moore@nypd.org"
   },
   {
     "command": "PSA 3",
     "sector": "SUMNER (79), TOMPKINS (79)",
-    "last_name": "Akins",
-    "first_name": "Jarrett",
+    "last_name": "Nieves Santiago",
+    "first_name": "Andrea",
     "rank": "PO",
-    "email": "jarrett.akins@nypd.org"
+    "email": "andrea.nievessantiago@nypd.org"
   },
   {
     "command": "PSA 3",
     "sector": "SUMNER (79), TOMPKINS (79)",
-    "last_name": "Lebron",
-    "first_name": "Marc",
+    "last_name": "Ramos",
+    "first_name": "Jorge",
     "rank": "PO",
-    "email": "marc.lebron@nypd.org"
+    "email": "jorge.ramos@nypd.org"
   },
   {
     "command": "PSA 3",
@@ -6097,7 +6089,7 @@
   },
   {
     "command": "PSA 4",
-    "sector": "45 ALLEN (5), LES 1 (9), SMITH (5)",
+    "sector": "45 ALLEN (5), LES 1 (5), SMITH (5)",
     "last_name": "Hall",
     "first_name": "Darya",
     "rank": "PO",
@@ -6105,7 +6097,7 @@
   },
   {
     "command": "PSA 4",
-    "sector": "45 ALLEN (5), LES 1 (9), SMITH (5)",
+    "sector": "45 ALLEN (5), LES 1 (5), SMITH (5)",
     "last_name": "Sabodacha",
     "first_name": "Karol",
     "rank": "PO",
@@ -6113,7 +6105,7 @@
   },
   {
     "command": "PSA 4",
-    "sector": "BARUCH (7), GOMPERS (7)",
+    "sector": "BARUCH (7), GOMPERS (7), VLADECK (7)",
     "last_name": "Batista",
     "first_name": "Hannoy",
     "rank": "PO",
@@ -6121,31 +6113,7 @@
   },
   {
     "command": "PSA 4",
-    "sector": "BARUCH (7), GOMPERS (7)",
-    "last_name": "Espinal",
-    "first_name": "Joel",
-    "rank": "PO",
-    "email": "joel.espinosa@nypd.org"
-  },
-  {
-    "command": "PSA 4",
-    "sector": "BRACETTI (9), CAMPOS (9), FIRST HOUSES (9),  LES 2 (9), LES 3 (9), LES 5 (9), MELTZER (9)",
-    "last_name": "Boles",
-    "first_name": "Andrew",
-    "rank": "PO",
-    "email": "andrew.boles@nypd.org"
-  },
-  {
-    "command": "PSA 4",
-    "sector": "BRACETTI (9), CAMPOS (9), FIRST HOUSES (9),  LES 2 (9), LES 3 (9), LES 5 (9), MELTZER (9)",
-    "last_name": "Frometa",
-    "first_name": "Melissa",
-    "rank": "PO",
-    "email": "melissa.frometa@nypd.org"
-  },
-  {
-    "command": "PSA 4",
-    "sector": "FULTON (10), ELLIOT (10), CHELSEA (10)",
+    "sector": "CHELSEA(10) ELLIOT(10) FULTON(10)",
     "last_name": "Klewinowski",
     "first_name": "Krzysztof",
     "rank": "PO",
@@ -6153,19 +6121,19 @@
   },
   {
     "command": "PSA 4",
-    "sector": "FULTON (10), ELLIOT (10), CHELSEA (10)",
-    "last_name": "Ortega",
-    "first_name": "Freddy",
-    "rank": "PO",
-    "email": "freddy.ortega@nypd.org"
-  },
-  {
-    "command": "PSA 4",
-    "sector": "FULTON (10), ELLIOT (10), CHELSEA (10)",
+    "sector": "CHELSEA(10) ELLIOT(10) FULTON(10)",
     "last_name": "Singh",
     "first_name": "Ranjeet",
     "rank": "PO",
     "email": "ranjeet.singh@nypd.org"
+  },
+  {
+    "command": "PSA 4",
+    "sector": "FULTON (10), ELLIOT (10), CHELSEA (10)",
+    "last_name": "Boles",
+    "first_name": "Andrew",
+    "rank": "PO",
+    "email": "andrew.boles@nypd.org"
   },
   {
     "command": "PSA 4",
@@ -6177,11 +6145,19 @@
   },
   {
     "command": "PSA 4",
-    "sector": "LAGUARDIA (7), SEWARD PARK (7),  RUTGERS (7), TWO BRIDGES (7), VLADECK (7)",
-    "last_name": "Dwyer",
-    "first_name": "Kevin",
+    "sector": "LAGUARDIA (7), SEWARD PARK (7),  RUTGERS (7), TWO BRIDGES (7)",
+    "last_name": "Ayres",
+    "first_name": "Vincent",
     "rank": "PO",
-    "email": "kevin.dwyer3@nypd.org"
+    "email": "vincent.ayres@nypd.org"
+  },
+  {
+    "command": "PSA 4",
+    "sector": "LAGUARDIA (7), SEWARD PARK (7),  RUTGERS (7), TWO BRIDGES (7)",
+    "last_name": "Bellissimo",
+    "first_name": "Alex",
+    "rank": "PO",
+    "email": "alex.bellissimo@nypd.org"
   },
   {
     "command": "PSA 4",
@@ -6194,14 +6170,6 @@
   {
     "command": "PSA 4",
     "sector": "NCO SERGEANT",
-    "last_name": "Newman",
-    "first_name": "Dionne",
-    "rank": "SGT",
-    "email": "dionne.newman@nypd.org"
-  },
-  {
-    "command": "PSA 4",
-    "sector": "NCO SERGEANT",
     "last_name": "Tirado",
     "first_name": "Daniel",
     "rank": "SGT",
@@ -6209,7 +6177,7 @@
   },
   {
     "command": "PSA 4",
-    "sector": "RIIS (9)",
+    "sector": "RIIS (9)CAMPOS(9)LES 3,5,(9)",
     "last_name": "Cappuccio",
     "first_name": "Joseph",
     "rank": "PO",
@@ -6217,7 +6185,7 @@
   },
   {
     "command": "PSA 4",
-    "sector": "RIIS (9)",
+    "sector": "RIIS (9)CAMPOS(9)LES 3,5,(9)",
     "last_name": "Urquiola",
     "first_name": "Daniel",
     "rank": "PO",
@@ -6225,19 +6193,19 @@
   },
   {
     "command": "PSA 4",
-    "sector": "WALD (9)",
-    "last_name": "Ayres",
-    "first_name": "Vincent",
+    "sector": "WALD (9)BRACETTI(9)FIRST(9) LES2(9)MELTZER(9)",
+    "last_name": "Gibson",
+    "first_name": "Michael",
     "rank": "PO",
-    "email": "vincent.ayres@nypd.org"
+    "email": "michael.gibson@nypd.org"
   },
   {
     "command": "PSA 4",
-    "sector": "WALD (9)",
-    "last_name": "Bellissimo",
-    "first_name": "Alex",
+    "sector": "WALD (9)BRACETTI(9)FIRST(9) LES2(9)MELTZER(9)",
+    "last_name": "Martinezvasquez",
+    "first_name": "Wilber",
     "rank": "PO",
-    "email": "alex.bellissimo@nypd.org"
+    "email": "wilber.martinezvasquez@nypd.org"
   },
   {
     "command": "PSA 5",
@@ -6282,42 +6250,42 @@
   {
     "command": "PSA 5",
     "sector": "JEFFERSON (23), CORSI (25)",
-    "last_name": "Martinez",
-    "first_name": "William",
+    "last_name": "Rodriguez",
+    "first_name": "Marcos",
     "rank": "PO",
-    "email": "william.martinez2@nypd.org"
+    "email": "marcos.rodriguez@nypd.org"
   },
   {
     "command": "PSA 5",
     "sector": "JOHNSON (23), UPACA 5 & 6",
-    "last_name": "Randazzo",
+    "last_name": "Jordon",
+    "first_name": "Sean",
+    "rank": "PO",
+    "email": "sean.jordon@nypd.org"
+  },
+  {
+    "command": "PSA 5",
+    "sector": "JOHNSON (23), UPACA 5 & 6",
+    "last_name": "Serrano",
     "first_name": "John",
     "rank": "PO",
-    "email": "john.randazzo3@nypd.org"
-  },
-  {
-    "command": "PSA 5",
-    "sector": "JOHNSON (23), UPACA 5 & 6",
-    "last_name": "Sosa",
-    "first_name": "Daniela",
-    "rank": "PO",
-    "email": "daniela.sosa@nypd.org"
+    "email": "john.serrano@nypd.org"
   },
   {
     "command": "PSA 5",
     "sector": "KING (28), TAFT REHAB (28), GRAMPION (28), RANDOLPH (28), 131 SAINT NICHOLAS (28)",
-    "last_name": "Bryan",
-    "first_name": "Walker",
+    "last_name": "Jose",
+    "first_name": "Santini",
     "rank": "PO",
-    "email": "bryan.walker@nypd.org"
+    "email": "jose.santini@nypd.org"
   },
   {
     "command": "PSA 5",
     "sector": "KING (28), TAFT REHAB (28), GRAMPION (28), RANDOLPH (28), 131 SAINT NICHOLAS (28)",
-    "last_name": "Mejia",
-    "first_name": "Darwin",
+    "last_name": "Joseph",
+    "first_name": "Grasso",
     "rank": "PO",
-    "email": "darwin.mejia@nypd.org"
+    "email": "joseph.grasso2@nypd.org"
   },
   {
     "command": "PSA 5",
@@ -6330,18 +6298,18 @@
   {
     "command": "PSA 5",
     "sector": "LINCOLN (25), MORRIS PARK (25), PARK AVENUE EAST (25), JACKIE ROBINSON (25)",
-    "last_name": "Wilczewski",
-    "first_name": "David",
+    "last_name": "Torres",
+    "first_name": "Ricardo",
     "rank": "PO",
-    "email": "david.wilczewski@nypd.org"
+    "email": "ricardo.torres@nypd.org"
   },
   {
     "command": "PSA 5",
     "sector": "NCO ADMIN",
-    "last_name": "Klopsis",
-    "first_name": "Peter",
+    "last_name": "Dejesus",
+    "first_name": "Juan",
     "rank": "PO",
-    "email": "peter.klopsis@nypd.org"
+    "email": "juan.dejesus2@nypd.org"
   },
   {
     "command": "PSA 5",
@@ -6370,10 +6338,10 @@
   {
     "command": "PSA 5",
     "sector": "TAFT (23), LEHMAN (23)",
-    "last_name": "Rysiejko",
-    "first_name": "John",
+    "last_name": "Duran",
+    "first_name": "Pedro",
     "rank": "PO",
-    "email": "john.rysiejko@nypd.org"
+    "email": "pedro.duran@nypd.org"
   },
   {
     "command": "PSA 5",
@@ -6409,7 +6377,7 @@
   },
   {
     "command": "PSA 6",
-    "sector": "DOUGLASS (24), DOUGLASS REHABS (24), 830 AMSTERDAM",
+    "sector": "DOUGLASS (24), DOUGLASS REHABS (24), 830 AMSTERDAM, WSUR (24), WISE (24), THOMAS (24), DEHOSTOS (24)",
     "last_name": "Aquino",
     "first_name": "Rafael",
     "rank": "PO",
@@ -6417,7 +6385,7 @@
   },
   {
     "command": "PSA 6",
-    "sector": "DOUGLASS (24), DOUGLASS REHABS (24), 830 AMSTERDAM",
+    "sector": "DOUGLASS (24), DOUGLASS REHABS (24), 830 AMSTERDAM, WSUR (24), WISE (24), THOMAS (24), DEHOSTOS (24)",
     "last_name": "Clarck",
     "first_name": "Erick",
     "rank": "PO",
@@ -6425,9 +6393,17 @@
   },
   {
     "command": "PSA 6",
+    "sector": "DOUGLASS (24), DOUGLASS REHABS (24), 830 AMSTERDAM, WSUR (24), WISE (24), THOMAS (24), DEHOSTOS (24)",
+    "last_name": "Joachim",
+    "first_name": "Kingsley",
+    "rank": "PO",
+    "email": "kingsley.joachim@nypd.org"
+  },
+  {
+    "command": "PSA 6",
     "sector": "DREW HAMILTON (32)",
     "last_name": "Kozan",
-    "first_name": "Asihan",
+    "first_name": "Asilhan",
     "rank": "PO",
     "email": "asilhan.kozan@nypd.org"
   },
@@ -6441,19 +6417,35 @@
   },
   {
     "command": "PSA 6",
-    "sector": "GRANT (26)",
-    "last_name": "Gonzalez",
-    "first_name": "Angel",
+    "sector": "GRANT (26), MANHATTANVILLE (26)",
+    "last_name": "Carrero",
+    "first_name": "Juan",
     "rank": "PO",
-    "email": "angel.gonzalez3@nypd.org"
+    "email": "juan.carrero@nypd.org"
   },
   {
     "command": "PSA 6",
-    "sector": "GRANT (26)",
+    "sector": "GRANT (26), MANHATTANVILLE (26)",
+    "last_name": "Salinas",
+    "first_name": "Ricardo",
+    "rank": "PO",
+    "email": "ricardo.salinas@nypd.org"
+  },
+  {
+    "command": "PSA 6",
+    "sector": "GRANT (26), MANHATTANVILLE (26)",
     "last_name": "Sharma",
     "first_name": "Narinder",
     "rank": "PO",
-    "email": "sharma.narinder@nypd.org"
+    "email": "narinder.sharma@nypd.org"
+  },
+  {
+    "command": "PSA 6",
+    "sector": "HARLEM RIVER (32), SAMUEL (32)",
+    "last_name": "Bernard",
+    "first_name": "Mark",
+    "rank": "PO",
+    "email": "mark.bernard@nypd.org"
   },
   {
     "command": "PSA 6",
@@ -6462,30 +6454,6 @@
     "first_name": "Keph",
     "rank": "PO",
     "email": "keph.etienne@nypd.org"
-  },
-  {
-    "command": "PSA 6",
-    "sector": "HARLEM RIVER (32), SAMUEL (32)",
-    "last_name": "Linares",
-    "first_name": "Jhon",
-    "rank": "PO",
-    "email": "jhon.linares@nypd.org"
-  },
-  {
-    "command": "PSA 6",
-    "sector": "MANHATTANVILLE (26)",
-    "last_name": "Carrero",
-    "first_name": "Juan",
-    "rank": "PO",
-    "email": "juan.carrero@nypd.org"
-  },
-  {
-    "command": "PSA 6",
-    "sector": "MANHATTANVILLE (26)",
-    "last_name": "Pimentel",
-    "first_name": "Carlos",
-    "rank": "PO",
-    "email": "carlos.pimentel@nypd.org"
   },
   {
     "command": "PSA 6",
@@ -6498,14 +6466,6 @@
   {
     "command": "PSA 6",
     "sector": "NCO SERGEANT",
-    "last_name": "Reyes",
-    "first_name": "Jhonny",
-    "rank": "SGT",
-    "email": "jhonny.reyes@nypd.org"
-  },
-  {
-    "command": "PSA 6",
-    "sector": "NCO SERGEANT",
     "last_name": "Sanchez",
     "first_name": "Christian",
     "rank": "SGT",
@@ -6513,31 +6473,7 @@
   },
   {
     "command": "PSA 6",
-    "sector": "POLO GROUNDS (32)",
-    "last_name": "Diaz",
-    "first_name": "Roman",
-    "rank": "PO",
-    "email": "roman.diaz@nypd.org"
-  },
-  {
-    "command": "PSA 6",
-    "sector": "POLO GROUNDS (32)",
-    "last_name": "Gashi",
-    "first_name": "Frank",
-    "rank": "PO",
-    "email": "frank.gashi@nypd.org"
-  },
-  {
-    "command": "PSA 6",
-    "sector": "RANGEL (32)",
-    "last_name": "Carvajal",
-    "first_name": "Luis",
-    "rank": "PO",
-    "email": "luis.carvajal@nypd.org"
-  },
-  {
-    "command": "PSA 6",
-    "sector": "RANGEL (32)",
+    "sector": "POLO GROUNDS (32), RANGEL (32)",
     "last_name": "Collado",
     "first_name": "Omar",
     "rank": "PO",
@@ -6545,10 +6481,18 @@
   },
   {
     "command": "PSA 6",
+    "sector": "POLO GROUNDS (32), RANGEL (32)",
+    "last_name": "Prevete",
+    "first_name": "Frank",
+    "rank": "PO",
+    "email": "frank.prevete@nypd.org"
+  },
+  {
+    "command": "PSA 6",
     "sector": "ST NICHOLAS (32)",
     "last_name": "Jamal",
     "first_name": "Mohammad",
-    "rank": "PO",
+    "rank": "DTS",
     "email": "mohammad.jamal@nypd.org"
   },
   {
@@ -6556,24 +6500,8 @@
     "sector": "ST NICHOLAS (32)",
     "last_name": "Rodriguez",
     "first_name": "Michael",
-    "rank": "PO",
+    "rank": "DTS",
     "email": "michael.rodriguez4@nypd.org"
-  },
-  {
-    "command": "PSA 6",
-    "sector": "WSUR (24), WISE (24), THOMAS (24),DEHOSTOS (24)",
-    "last_name": "Joachim",
-    "first_name": "Kingsley",
-    "rank": "PO",
-    "email": "kingsley.joachim@nypd.org"
-  },
-  {
-    "command": "PSA 6",
-    "sector": "WSUR (24), WISE (24), THOMAS (24),DEHOSTOS (24)",
-    "last_name": "Webb",
-    "first_name": "Darren",
-    "rank": "PO",
-    "email": "darren.webb@nypd.org"
   },
   {
     "command": "PSA 7",
@@ -6729,6 +6657,14 @@
   },
   {
     "command": "PSA 8",
+    "sector": "BRONX RIVER (43), BOYTON AVENUE (43)",
+    "last_name": "Nicholas",
+    "first_name": "Iannucci",
+    "rank": "PO",
+    "email": "nicholas.iannucci@nypd.org"
+  },
+  {
+    "command": "PSA 8",
     "sector": "CASTLE HILL (43)",
     "last_name": "Sidneus",
     "first_name": "Latisha",
@@ -6770,6 +6706,14 @@
   {
     "command": "PSA 8",
     "sector": "MONROE (43)",
+    "last_name": "Christopher",
+    "first_name": "Pelcher",
+    "rank": "PO",
+    "email": "christopher.pelcher@nypd.org"
+  },
+  {
+    "command": "PSA 8",
+    "sector": "MONROE (43)",
     "last_name": "Moran",
     "first_name": "Arleen",
     "rank": "PO",
@@ -6793,14 +6737,6 @@
   },
   {
     "command": "PSA 8",
-    "sector": "NCO SERGEANT",
-    "last_name": "Szot",
-    "first_name": "Amanda",
-    "rank": "SGT",
-    "email": "amanda.szot@nypd.org"
-  },
-  {
-    "command": "PSA 8",
     "sector": "SGT OPS",
     "last_name": "Aquino",
     "first_name": "Carlos",
@@ -6810,10 +6746,10 @@
   {
     "command": "PSA 8",
     "sector": "SGT OPS",
-    "last_name": "Batista-campusano",
-    "first_name": "Robert",
-    "rank": "PO",
-    "email": "robert.batistacampusano@nypd.org"
+    "last_name": "Jose",
+    "first_name": "Collazo",
+    "rank": "DET",
+    "email": "jose.collazo@nypd.org"
   },
   {
     "command": "PSA 8",
@@ -6834,42 +6770,50 @@
   {
     "command": "PSA 8",
     "sector": "SOUNDVIEW (43), SACK WERN (43), CLASON POINT (43)",
-    "last_name": "Veras",
-    "first_name": "Dionis",
+    "last_name": "Angel",
+    "first_name": "Duran",
     "rank": "PO",
-    "email": "dionis.veras@nypd.org"
+    "email": "angel.duran@nypd.org"
+  },
+  {
+    "command": "PSA 8",
+    "sector": "SOUNDVIEW (43), SACK WERN (43), CLASON POINT (43)",
+    "last_name": "Batista-campusano",
+    "first_name": "Robert",
+    "rank": "PO",
+    "email": "robert.batistacampusano@nypd.org"
   },
   {
     "command": "PSA 8",
     "sector": "THROGGS NECK (45), RANDALL AVENUE (45), GLEBE AVENUE (45), MIDDLETOWN PLAZA (45)",
     "last_name": "Antonie",
     "first_name": "James",
-    "rank": "PO",
+    "rank": "DET",
     "email": "james.antoine@nypd.org"
   },
   {
     "command": "PSA 8",
     "sector": "THROGGS NECK (45), RANDALL AVENUE (45), GLEBE AVENUE (45), MIDDLETOWN PLAZA (45)",
-    "last_name": "Johnson",
-    "first_name": "Odane",
+    "last_name": "Miguel",
+    "first_name": "Martinez",
     "rank": "PO",
-    "email": "odane.johnson@nypd.org"
+    "email": "miguel.martinez2@nypd.org"
   },
   {
     "command": "PSA 9",
     "sector": "ASTORIA (114)",
-    "last_name": "Pastore",
-    "first_name": "Anthony",
+    "last_name": "Munoz",
+    "first_name": "Mathew",
     "rank": "PO",
-    "email": "anthony.pastore@nypd.org"
+    "email": "mathew.munoz@nypd.org"
   },
   {
     "command": "PSA 9",
     "sector": "ASTORIA (114)",
-    "last_name": "Roberts",
-    "first_name": "Michael",
+    "last_name": "Singh",
+    "first_name": "Jordan",
     "rank": "PO",
-    "email": "michael.roberts2@nypd.org"
+    "email": "jordan.singh@nypd.org"
   },
   {
     "command": "PSA 9",
@@ -6914,18 +6858,18 @@
   {
     "command": "PSA 9",
     "sector": "NCO SERGEANT",
-    "last_name": "Bendele",
-    "first_name": "Daquan",
+    "last_name": "Minero",
+    "first_name": "Steven",
     "rank": "SGT",
-    "email": "daquan.bendele@nypd.org"
+    "email": "steven.minero@nypd.org"
   },
   {
     "command": "PSA 9",
     "sector": "NCO SERGEANT",
-    "last_name": "Bruno",
-    "first_name": "Anthony",
+    "last_name": "Shea",
+    "first_name": "Todd",
     "rank": "SGT",
-    "email": "anthonya.bruno@nypd.org"
+    "email": "todd.shea@nypd.org"
   },
   {
     "command": "PSA 9",
@@ -6946,26 +6890,18 @@
   {
     "command": "PSA 9",
     "sector": "QUEENSBRIDGE NORTH (114)",
-    "last_name": "Gabriel",
-    "first_name": "Clyde",
+    "last_name": "Ahmed",
+    "first_name": "Sazib",
     "rank": "PO",
-    "email": "clyde.gabriel@nypd.org"
+    "email": "sazib.ahmed@nypd.org"
   },
   {
     "command": "PSA 9",
     "sector": "QUEENSBRIDGE NORTH (114)",
-    "last_name": "Matthews",
-    "first_name": "Roland",
+    "last_name": "Gabriel",
+    "first_name": "Clyde",
     "rank": "PO",
-    "email": "roland.matthews@nypd.org"
-  },
-  {
-    "command": "PSA 9",
-    "sector": "QUEENSBRIDGE SOUTH (114)",
-    "last_name": "Garcia",
-    "first_name": "Gilmer",
-    "rank": "PO",
-    "email": "gilmer.garcia@nypd.org"
+    "email": "clyde.gabriel@nypd.org"
   },
   {
     "command": "PSA 9",
@@ -6977,19 +6913,35 @@
   },
   {
     "command": "PSA 9",
-    "sector": "RAVENSWOOD (114)",
-    "last_name": "Barnes",
-    "first_name": "Derrick",
+    "sector": "QUEENSBRIDGE SOUTH (114)",
+    "last_name": "Peixoto",
+    "first_name": "Mauricio",
     "rank": "PO",
-    "email": "derrick.barnes@nypd.org"
+    "email": "mauricio.peixoto@nypd.org"
   },
   {
     "command": "PSA 9",
     "sector": "RAVENSWOOD (114)",
-    "last_name": "Stewart",
-    "first_name": "Levi",
+    "last_name": "Maldonado",
+    "first_name": "Michelle",
     "rank": "PO",
-    "email": "levi.stewart@nypd.com"
+    "email": "michelle.maldonado2@nypd.org"
+  },
+  {
+    "command": "PSA 9",
+    "sector": "RAVENSWOOD (114)",
+    "last_name": "Miranda",
+    "first_name": "Luis",
+    "rank": "PO",
+    "email": "luis.miranda@nypd.org"
+  },
+  {
+    "command": "PSA 9",
+    "sector": "SGT OPS",
+    "last_name": "Cubano",
+    "first_name": "Alexander",
+    "rank": "PO",
+    "email": "alexander.cubano@nypd.org"
   },
   {
     "command": "PSA 9",
@@ -7001,11 +6953,11 @@
   },
   {
     "command": "PSA 9",
-    "sector": "SGT OPS",
-    "last_name": "Jimenez",
-    "first_name": "Jose",
+    "sector": "SOUTH JAMAICA (103)",
+    "last_name": "Ajesulas",
+    "first_name": "Oldson",
     "rank": "PO",
-    "email": "jose.jimenez3@nypd.org"
+    "email": "oldson.ajesulas@nypd.org"
   },
   {
     "command": "PSA 9",
@@ -7017,27 +6969,19 @@
   },
   {
     "command": "PSA 9",
-    "sector": "SOUTH JAMAICA (103)",
-    "last_name": "Vacchio",
-    "first_name": "Stephanie",
+    "sector": "WOODSIDE (114)",
+    "last_name": "Gutama",
+    "first_name": "Wilman",
     "rank": "PO",
-    "email": "stephanie.vacchio@nypd.org"
+    "email": "wilman.gutama@nypd.org"
   },
   {
     "command": "PSA 9",
     "sector": "WOODSIDE (114)",
-    "last_name": "Magas",
-    "first_name": "Brian",
+    "last_name": "Yeh",
+    "first_name": "Anthony",
     "rank": "PO",
-    "email": "brian.magas@nypd.org"
-  },
-  {
-    "command": "PSA 9",
-    "sector": "WOODSIDE (114)",
-    "last_name": "Mckenna",
-    "first_name": "Ryan",
-    "rank": "PO",
-    "email": "ryan.mckenna@nypd.org"
+    "email": "anthony.yeh@nypd.org"
   },
   {
     "command": "TB DT01",
