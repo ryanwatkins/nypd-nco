@@ -282,10 +282,10 @@
   {
     "command": "009 PCT",
     "sector": "B",
-    "last_name": "Dombalic",
-    "first_name": "Bajram",
+    "last_name": "Zinaman",
+    "first_name": "Zachery",
     "rank": "PO",
-    "email": "bajram.dombalic@nypd.org"
+    "email": "zachery.zinaman@nypd.org"
   },
   {
     "command": "009 PCT",
@@ -298,10 +298,10 @@
   {
     "command": "009 PCT",
     "sector": "C",
-    "last_name": "Gelin",
-    "first_name": "Natanya",
+    "last_name": "Moye",
+    "first_name": "Joshua",
     "rank": "PO",
-    "email": "natanya.gelin2@nypd.org"
+    "email": "joshua.moye@nypd.org"
   },
   {
     "command": "009 PCT",
@@ -411,9 +411,9 @@
     "command": "013 PCT",
     "sector": "B",
     "last_name": "Nelson",
-    "first_name": "Chulsy",
+    "first_name": "Daniela",
     "rank": "PO",
-    "email": "chulsy.nelson@nypd.org"
+    "email": "daniela.figueroa2@nypd.org"
   },
   {
     "command": "013 PCT",
@@ -1610,6 +1610,14 @@
   {
     "command": "042 PCT",
     "sector": "A",
+    "last_name": "Castillo",
+    "first_name": "Miguel",
+    "rank": "PO",
+    "email": "miguel.castillo@nypd.org"
+  },
+  {
+    "command": "042 PCT",
+    "sector": "A",
     "last_name": "Rodriguez-Marte",
     "first_name": "Enmanuel",
     "rank": "PO",
@@ -1622,6 +1630,14 @@
     "first_name": "Paul",
     "rank": "PO",
     "email": "paul.polintan@nypd.org"
+  },
+  {
+    "command": "042 PCT",
+    "sector": "B",
+    "last_name": "Walcott",
+    "first_name": "Marquise",
+    "rank": "PO",
+    "email": "marquise.walcott@nypd.org"
   },
   {
     "command": "042 PCT",
@@ -2578,10 +2594,26 @@
   {
     "command": "062 PCT",
     "sector": "D",
+    "last_name": "Occhipinti",
+    "first_name": "Nicholas",
+    "rank": "PO",
+    "email": "nicholas.occhipinti@nypd.org"
+  },
+  {
+    "command": "062 PCT",
+    "sector": "D",
     "last_name": "Triolo",
     "first_name": "Kenneth",
     "rank": "PO",
     "email": "kenneth.triolo@nypd.org"
+  },
+  {
+    "command": "062 PCT",
+    "sector": "NCO Supervisor",
+    "last_name": "Alexander",
+    "first_name": "George",
+    "rank": "SGT",
+    "email": "george.alexander@nypd.org"
   },
   {
     "command": "063 PCT",
@@ -2938,10 +2970,10 @@
   {
     "command": "069 PCT",
     "sector": "NCO Supervisor",
-    "last_name": "Sannella",
-    "first_name": "Michael",
+    "last_name": "Maher",
+    "first_name": "Brian",
     "rank": "SGT",
-    "email": "michael.sannella@nypd.org"
+    "email": "brian.maher3@nypd.org"
   },
   {
     "command": "070 PCT",
@@ -3594,26 +3626,34 @@
   {
     "command": "081 PCT",
     "sector": "B",
-    "last_name": "Holloman",
-    "first_name": "Glenda",
+    "last_name": "Romero",
+    "first_name": "Jimmy",
     "rank": "PO",
-    "email": "glenda.holloman@nypd.org"
+    "email": "jimmy.romero@nypd.org"
   },
   {
     "command": "081 PCT",
     "sector": "B",
-    "last_name": "Shannon",
-    "first_name": "Darrell",
+    "last_name": "Scalici",
+    "first_name": "Francesco",
     "rank": "PO",
-    "email": "darrell.shannon@nypd.org"
+    "email": "francesco.scalici@nypd.org"
   },
   {
     "command": "081 PCT",
     "sector": "C",
-    "last_name": "Stanford",
-    "first_name": "Taquana",
+    "last_name": "Torres",
+    "first_name": "Raul",
     "rank": "PO",
-    "email": "taquana.stanford@nypd.org"
+    "email": "raul.torres@nypd.org"
+  },
+  {
+    "command": "081 PCT",
+    "sector": "C",
+    "last_name": "Weaver",
+    "first_name": "Stefan",
+    "rank": "PO",
+    "email": "stefan.weaver@nypd.org"
   },
   {
     "command": "081 PCT",
@@ -3630,6 +3670,14 @@
     "first_name": "Joshua",
     "rank": "PO",
     "email": "joshua.smith@nypd.org"
+  },
+  {
+    "command": "081 PCT",
+    "sector": "NCO Supervisor",
+    "last_name": "Hilton",
+    "first_name": "JeanPierre",
+    "rank": "SGT",
+    "email": "hilton.jeanpierre@nypd.org"
   },
   {
     "command": "083 PCT",
@@ -4722,10 +4770,10 @@
   {
     "command": "108 PCT",
     "sector": "D",
-    "last_name": "Kamycki",
-    "first_name": "Robert",
+    "last_name": "Gutierrez",
+    "first_name": "Edgardo",
     "rank": "PO",
-    "email": "robert.kamycki@nypd.org"
+    "email": "edgardo.gutierrez@nypd.org"
   },
   {
     "command": "108 PCT",
@@ -5154,10 +5202,10 @@
   {
     "command": "114 PCT",
     "sector": "C",
-    "last_name": "McEneaney",
-    "first_name": "Sean",
+    "last_name": "Jiminian",
+    "first_name": "Leonel",
     "rank": "PO",
-    "email": "sean.mceneaney@nypd.org"
+    "email": "leonel.jiminian@nypd.org"
   },
   {
     "command": "114 PCT",
@@ -5226,10 +5274,10 @@
   {
     "command": "115 PCT",
     "sector": "C",
-    "last_name": "Shmuel",
-    "first_name": "Eric",
+    "last_name": "Lawrence",
+    "first_name": "Kevin",
     "rank": "PO",
-    "email": "eric.shmuel@nypd.org"
+    "email": "kevin.lawrence@nypd.org"
   },
   {
     "command": "115 PCT",
@@ -5242,26 +5290,26 @@
   {
     "command": "115 PCT",
     "sector": "D",
-    "last_name": "Lawrence",
-    "first_name": "Kevin",
+    "last_name": "Shmuel",
+    "first_name": "Eric",
     "rank": "PO",
-    "email": "kevin.lawrence@nypd.org"
+    "email": "eric.shmuel@nypd.org"
   },
   {
     "command": "115 PCT",
     "sector": "D",
-    "last_name": "McElhatton",
-    "first_name": "Thomas",
+    "last_name": "Tobia",
+    "first_name": "Anthony",
     "rank": "PO",
-    "email": "thomas.mcelhatton@nypd.org"
+    "email": "anthony.tobia@nypd.org"
   },
   {
     "command": "115 PCT",
     "sector": "NCO Supervisor",
-    "last_name": "Randazzo",
-    "first_name": "John",
+    "last_name": "Keegan",
+    "first_name": "Sean",
     "rank": "SGT",
-    "email": "john.randazzo@nypd.org"
+    "email": "sean.keegan@nypd.org"
   },
   {
     "command": "120 PCT",
@@ -5358,6 +5406,14 @@
     "first_name": "Andrew",
     "rank": "PO",
     "email": "andrew.tagliaferro@nypd.org"
+  },
+  {
+    "command": "120 PCT",
+    "sector": "Housing - Stapleton",
+    "last_name": "Antosiewicz",
+    "first_name": "Patrick",
+    "rank": "PO",
+    "email": "patrick.antosiewicz@nypd.org"
   },
   {
     "command": "120 PCT",
