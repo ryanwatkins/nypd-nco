@@ -578,18 +578,18 @@
   {
     "command": "017 PCT",
     "sector": "B",
-    "last_name": "Carlucci",
-    "first_name": "Christopher",
-    "rank": "PO",
-    "email": "christopher.carlucci@nypd.org"
-  },
-  {
-    "command": "017 PCT",
-    "sector": "B",
     "last_name": "Lamneck",
     "first_name": "John",
     "rank": "PO",
     "email": "john.lamneck@nypd.org"
+  },
+  {
+    "command": "017 PCT",
+    "sector": "B",
+    "last_name": "Lee",
+    "first_name": "Richard",
+    "rank": "PO",
+    "email": "richard.lee3@nypd.org"
   },
   {
     "command": "017 PCT",
@@ -866,26 +866,10 @@
   {
     "command": "023 PCT",
     "sector": "A",
-    "last_name": "Bradley",
-    "first_name": "Leonard",
-    "rank": "DET",
-    "email": "leonard.bradley@nypd.org"
-  },
-  {
-    "command": "023 PCT",
-    "sector": "A",
     "last_name": "Rivera",
     "first_name": "Miguel",
     "rank": "DET",
     "email": "miguel.rivera2@nypd.org"
-  },
-  {
-    "command": "023 PCT",
-    "sector": "B",
-    "last_name": "Bergmann",
-    "first_name": "Edward",
-    "rank": "PO",
-    "email": "edward.bergmann@nypd.org"
   },
   {
     "command": "023 PCT",
@@ -1298,18 +1282,18 @@
   {
     "command": "032 PCT",
     "sector": "D",
-    "last_name": "Altigieri",
-    "first_name": "Melissa",
-    "rank": "PO",
-    "email": "melissa.altigieri@nypd.org"
-  },
-  {
-    "command": "032 PCT",
-    "sector": "D",
     "last_name": "Gomes",
     "first_name": "Nickson",
     "rank": "PO",
     "email": "nickson.gomez@nypd.org"
+  },
+  {
+    "command": "032 PCT",
+    "sector": "D",
+    "last_name": "Ruiz",
+    "first_name": "Erika",
+    "rank": "PO",
+    "email": "erika.ruiz@nypd.org"
   },
   {
     "command": "032 PCT",
@@ -1358,14 +1342,6 @@
     "first_name": "Alan",
     "rank": "PO",
     "email": "alan.hassel@nypd.org"
-  },
-  {
-    "command": "033 PCT",
-    "sector": "C",
-    "last_name": "Urena",
-    "first_name": "Ariel",
-    "rank": "PO",
-    "email": "ariel.urena@nypd.org"
   },
   {
     "command": "033 PCT",
