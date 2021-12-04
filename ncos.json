@@ -1210,18 +1210,18 @@
   {
     "command": "030 PCT",
     "sector": "C",
-    "last_name": "Laurie",
-    "first_name": "Gregory",
+    "last_name": "Espinal",
+    "first_name": "Yudelka",
     "rank": "PO",
-    "email": "gregory.laurie@nypd.org"
+    "email": "yudelka.espinal@nypd.org"
   },
   {
     "command": "030 PCT",
     "sector": "C",
-    "last_name": "Mollica",
-    "first_name": "Alexandra",
+    "last_name": "Laurie",
+    "first_name": "Gregory",
     "rank": "PO",
-    "email": "alexandra.mollica@nypd.org"
+    "email": "gregory.laurie@nypd.org"
   },
   {
     "command": "030 PCT",
@@ -1258,10 +1258,10 @@
   {
     "command": "032 PCT",
     "sector": "B",
-    "last_name": "Stanton",
-    "first_name": "Margaret",
+    "last_name": "Ruiz",
+    "first_name": "Erika",
     "rank": "PO",
-    "email": "margaret.bauert@nypd.org"
+    "email": "erika.ruiz@nypd.org"
   },
   {
     "command": "032 PCT",
@@ -1290,10 +1290,10 @@
   {
     "command": "032 PCT",
     "sector": "D",
-    "last_name": "Ruiz",
-    "first_name": "Erika",
+    "last_name": "Stanton",
+    "first_name": "Margaret",
     "rank": "PO",
-    "email": "erika.ruiz@nypd.org"
+    "email": "margaret.bauert@nypd.org"
   },
   {
     "command": "032 PCT",
@@ -4250,10 +4250,10 @@
   {
     "command": "102 PCT",
     "sector": "NCO Supervisor",
-    "last_name": "Bienz",
-    "first_name": "Andrew",
+    "last_name": "Carpio",
+    "first_name": "Bryant",
     "rank": "SGT",
-    "email": "andrew.bienz@nypd.org"
+    "email": "bryant.carpio@nypd.org"
   },
   {
     "command": "103 PCT",
@@ -5082,10 +5082,10 @@
   {
     "command": "113 PCT",
     "sector": "B",
-    "last_name": "Rabin",
-    "first_name": "Louis",
+    "last_name": "McCrain",
+    "first_name": "Ryan",
     "rank": "PO",
-    "email": "louis.rabin@nypd.org"
+    "email": "ryan.mccrain@nypd.org"
   },
   {
     "command": "113 PCT",
