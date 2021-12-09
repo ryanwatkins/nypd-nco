@@ -290,26 +290,10 @@
   {
     "command": "009 PCT",
     "sector": "C",
-    "last_name": "Adeleye",
-    "first_name": "Eugene",
-    "rank": "PO",
-    "email": "eugene.adeleye@nypd.org"
-  },
-  {
-    "command": "009 PCT",
-    "sector": "C",
     "last_name": "Moye",
     "first_name": "Joshua",
     "rank": "PO",
     "email": "joshua.moye@nypd.org"
-  },
-  {
-    "command": "009 PCT",
-    "sector": "D",
-    "last_name": "Conde",
-    "first_name": "Justin",
-    "rank": "PO",
-    "email": "justin.conde@nypd.org"
   },
   {
     "command": "009 PCT",
@@ -502,14 +486,6 @@
     "first_name": "Nicholas",
     "rank": "PO",
     "email": "nicholas.mitchell@nypd.org"
-  },
-  {
-    "command": "MTS PCT",
-    "sector": "C",
-    "last_name": "Aliperti",
-    "first_name": "Frank",
-    "rank": "PO",
-    "email": "frank.aliperti@nypd.org"
   },
   {
     "command": "MTS PCT",
@@ -1282,7 +1258,7 @@
   {
     "command": "032 PCT",
     "sector": "D",
-    "last_name": "Gomez",
+    "last_name": "Gomes",
     "first_name": "Nickson",
     "rank": "PO",
     "email": "nickson.gomez@nypd.org"
@@ -1446,14 +1422,6 @@
     "first_name": "Eduardo",
     "rank": "PO",
     "email": "eduardo.guadalupe@nypd.org"
-  },
-  {
-    "command": "040 PCT",
-    "sector": "A",
-    "last_name": "Sheehan",
-    "first_name": "Michael",
-    "rank": "PO",
-    "email": "michael.sheehan3@nypd.org"
   },
   {
     "command": "040 PCT",
@@ -1810,10 +1778,10 @@
   {
     "command": "044 PCT",
     "sector": "E",
-    "last_name": "Fortino",
-    "first_name": "Vincent",
+    "last_name": "Fernandez",
+    "first_name": "Rieguy",
     "rank": "PO",
-    "email": "vincent.fortino@nypd.org"
+    "email": "rieguy.fernandez@nypd.org"
   },
   {
     "command": "044 PCT",
@@ -3057,6 +3025,22 @@
   },
   {
     "command": "071 PCT",
+    "sector": "C",
+    "last_name": "Charles",
+    "first_name": "Nefertiti",
+    "rank": "PO",
+    "email": "nefertiti.charles@nypd.org"
+  },
+  {
+    "command": "071 PCT",
+    "sector": "C",
+    "last_name": "Elijah",
+    "first_name": "Boyle",
+    "rank": "DTS",
+    "email": "elijah.boyle@nypd.org"
+  },
+  {
+    "command": "071 PCT",
     "sector": "D",
     "last_name": "Rodriguez",
     "first_name": "Jessica",
@@ -3070,6 +3054,14 @@
     "first_name": "Denzil",
     "rank": "DET",
     "email": "denzil.trim@nypd.org"
+  },
+  {
+    "command": "071 PCT",
+    "sector": "NCO Supervisor",
+    "last_name": "Felicetti",
+    "first_name": "John",
+    "rank": "SGT",
+    "email": "john.felicetti@nypd.org"
   },
   {
     "command": "072 PCT",
