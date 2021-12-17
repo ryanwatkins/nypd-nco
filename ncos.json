@@ -842,6 +842,14 @@
   {
     "command": "023 PCT",
     "sector": "A",
+    "last_name": "Elliott",
+    "first_name": "JohnsonGales",
+    "rank": "PO",
+    "email": "elliott.johnsongales@nypd.org"
+  },
+  {
+    "command": "023 PCT",
+    "sector": "A",
     "last_name": "Rivera",
     "first_name": "Miguel",
     "rank": "DET",
@@ -1730,18 +1738,18 @@
   {
     "command": "044 PCT",
     "sector": "B",
-    "last_name": "Alba",
-    "first_name": "Ana",
-    "rank": "PO",
-    "email": "ana.alba@nypd.org"
-  },
-  {
-    "command": "044 PCT",
-    "sector": "B",
     "last_name": "Caceres-Olivo",
     "first_name": "Dania",
     "rank": "PO",
     "email": "dania.caceresolivo@nypd.org"
+  },
+  {
+    "command": "044 PCT",
+    "sector": "B",
+    "last_name": "Dempsey",
+    "first_name": "Vincent",
+    "rank": "PO",
+    "email": "vincent.dempsey@nypd.org"
   },
   {
     "command": "044 PCT",
@@ -1830,6 +1838,14 @@
     "first_name": "William",
     "rank": "SGT",
     "email": "william.maher@nypd.org"
+  },
+  {
+    "command": "044 PCT",
+    "sector": "NCO Supervisor",
+    "last_name": "Rau",
+    "first_name": "Paul",
+    "rank": "SGT",
+    "email": "paul.rau@nypd.org"
   },
   {
     "command": "045 PCT",
