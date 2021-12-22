@@ -164,16 +164,8 @@
     "sector": "C",
     "last_name": "DeFonzo",
     "first_name": "Patrick",
-    "rank": "PO",
+    "rank": "DET",
     "email": "patrick.defonzo@nypd.org"
-  },
-  {
-    "command": "006 PCT",
-    "sector": "C",
-    "last_name": "Maciag",
-    "first_name": "Marta",
-    "rank": "PO",
-    "email": "marta.maciag@nypd.org"
   },
   {
     "command": "006 PCT",
@@ -244,7 +236,7 @@
     "sector": "C",
     "last_name": "Lopez",
     "first_name": "Wandy",
-    "rank": "PO",
+    "rank": "DET",
     "email": "wandy.lopez@nypd.org"
   },
   {
@@ -388,7 +380,7 @@
     "sector": "B",
     "last_name": "Knapp",
     "first_name": "Jonathon",
-    "rank": "PO",
+    "rank": "DET",
     "email": "jonathan.knapp@nypd.org"
   },
   {
@@ -516,7 +508,7 @@
     "sector": "E",
     "last_name": "Barnes",
     "first_name": "Lamarr",
-    "rank": "PO",
+    "rank": "DET",
     "email": "lamarr.barnes@nypd.org"
   },
   {
@@ -596,7 +588,7 @@
     "sector": "A",
     "last_name": "Perillo",
     "first_name": "Ronald",
-    "rank": "PO",
+    "rank": "DET",
     "email": "ronald.perillo@nypd.org"
   },
   {
@@ -646,14 +638,6 @@
     "first_name": "Christopher",
     "rank": "PO",
     "email": "christophe.leap@nypd.org"
-  },
-  {
-    "command": "MTN PCT",
-    "sector": "D",
-    "last_name": "Wroten",
-    "first_name": "Herbert",
-    "rank": "PO",
-    "email": "herbert.wroten2@nypd.org"
   },
   {
     "command": "MTN PCT",
@@ -716,7 +700,7 @@
     "sector": "C",
     "last_name": "Koustoubardis",
     "first_name": "Stephan",
-    "rank": "PO",
+    "rank": "DET",
     "email": "stephan.koustoubardis@nypd.org"
   },
   {
@@ -796,7 +780,7 @@
     "sector": "B",
     "last_name": "Solis",
     "first_name": "Delilah",
-    "rank": "PO",
+    "rank": "DET",
     "email": "delilah.solis@nypd.org"
   },
   {
@@ -960,14 +944,6 @@
     "email": "shantal.melendez2@nypd.org"
   },
   {
-    "command": "024 PCT",
-    "sector": "NCO Supervisor",
-    "last_name": "Altaf",
-    "first_name": "Naqshaib",
-    "rank": "SGT",
-    "email": "naqshaib.altaf@nypd.org"
-  },
-  {
     "command": "025 PCT",
     "sector": "A",
     "last_name": "Pescatore",
@@ -1020,7 +996,7 @@
     "sector": "D",
     "last_name": "An",
     "first_name": "Jeong",
-    "rank": "PO",
+    "rank": "DET",
     "email": "jeong.an@nypd.org"
   },
   {
@@ -1170,14 +1146,6 @@
   {
     "command": "030 PCT",
     "sector": "A",
-    "last_name": "Abreu",
-    "first_name": "Steven",
-    "rank": "PO",
-    "email": "steven.abreu2@nypd.org"
-  },
-  {
-    "command": "030 PCT",
-    "sector": "A",
     "last_name": "Sacco",
     "first_name": "Edward",
     "rank": "PO",
@@ -1260,7 +1228,7 @@
     "sector": "C",
     "last_name": "Kinsey",
     "first_name": "Kendo",
-    "rank": "PO",
+    "rank": "DET",
     "email": "kendo.kinsey@nypd.org"
   },
   {
@@ -1293,7 +1261,7 @@
     "last_name": "Mitchell",
     "first_name": "Johnny",
     "rank": "SGT",
-    "email": ""
+    "email": "johnny.mitchell@nypd.org"
   },
   {
     "command": "033 PCT",
@@ -1332,7 +1300,7 @@
     "sector": "C",
     "last_name": "Hassel",
     "first_name": "Alan",
-    "rank": "PO",
+    "rank": "DET",
     "email": "alan.hassel@nypd.org"
   },
   {
@@ -1596,7 +1564,7 @@
     "sector": "B",
     "last_name": "Polintan",
     "first_name": "Paul",
-    "rank": "PO",
+    "rank": "DET",
     "email": "paul.polintan@nypd.org"
   },
   {
@@ -1606,14 +1574,6 @@
     "first_name": "Marquise",
     "rank": "PO",
     "email": "marquise.walcott@nypd.org"
-  },
-  {
-    "command": "042 PCT",
-    "sector": "C",
-    "last_name": "Aybar",
-    "first_name": "Chris",
-    "rank": "PO",
-    "email": "chris.aybar@nypd.org"
   },
   {
     "command": "042 PCT",
@@ -1756,7 +1716,7 @@
     "sector": "C",
     "last_name": "Haskovic",
     "first_name": "Harris",
-    "rank": "PO",
+    "rank": "DET",
     "email": "harris.haskovic@nypd.org"
   },
   {
@@ -1764,7 +1724,7 @@
     "sector": "C",
     "last_name": "Simpson",
     "first_name": "Corey",
-    "rank": "PO",
+    "rank": "DET",
     "email": "corey.simpson@nypd.org"
   },
   {
@@ -1924,7 +1884,7 @@
     "sector": "B",
     "last_name": "Ramirez",
     "first_name": "Fausto",
-    "rank": "PO",
+    "rank": "DET",
     "email": "fausto.ramirez@nypd.org"
   },
   {
@@ -2036,7 +1996,7 @@
     "sector": "B",
     "last_name": "Tyson",
     "first_name": "Sherman",
-    "rank": "PO",
+    "rank": "DET",
     "email": "sherman.tyson@nypd.org"
   },
   {
@@ -2206,14 +2166,6 @@
     "first_name": "John",
     "rank": "PO",
     "email": "john.lawrenson@nypd.org"
-  },
-  {
-    "command": "049 PCT",
-    "sector": "Housing - Boston Road/ Eastchester/ Parkside/ Pelham",
-    "last_name": "Acevedo",
-    "first_name": "Tanya",
-    "rank": "PO",
-    "email": "tanya.acevedo@nypd.org"
   },
   {
     "command": "049 PCT",
@@ -2556,7 +2508,7 @@
     "sector": "C",
     "last_name": "Oggeri",
     "first_name": "Michael",
-    "rank": "PO",
+    "rank": "DET",
     "email": "michael.oggeri@nypd.org"
   },
   {
@@ -2724,7 +2676,7 @@
     "sector": "A",
     "last_name": "Jean-Francois",
     "first_name": "Remy",
-    "rank": "PO",
+    "rank": "DET",
     "email": "remy.jeanfrancois@nypd.org"
   },
   {
@@ -3060,7 +3012,7 @@
     "sector": "C",
     "last_name": "Elijah",
     "first_name": "Boyle",
-    "rank": "DTS",
+    "rank": "DET",
     "email": "elijah.boyle@nypd.org"
   },
   {
@@ -3188,7 +3140,7 @@
     "sector": "B",
     "last_name": "Verma",
     "first_name": "Sunjay",
-    "rank": "PO",
+    "rank": "DET",
     "email": "sunjay.verma@nypd.org"
   },
   {
@@ -3196,7 +3148,7 @@
     "sector": "C",
     "last_name": "Deshommes",
     "first_name": "Jeffery",
-    "rank": "PO",
+    "rank": "DET",
     "email": "jeffrey.deshommes@nypd.org"
   },
   {
@@ -3308,7 +3260,7 @@
     "sector": "E",
     "last_name": "Caceres",
     "first_name": "Artemisa",
-    "rank": "PO",
+    "rank": "DET",
     "email": "artemisa.caceres@nypd.org"
   },
   {
@@ -3484,7 +3436,7 @@
     "sector": "B",
     "last_name": "Marzano",
     "first_name": "Maureen",
-    "rank": "PO",
+    "rank": "DET",
     "email": "maureen.marzano@nypd.org"
   },
   {
@@ -3532,7 +3484,7 @@
     "sector": "A",
     "last_name": "Lambert",
     "first_name": "Jared",
-    "rank": "PO",
+    "rank": "DET",
     "email": "jared.lambert@nypd.org"
   },
   {
@@ -3716,7 +3668,7 @@
     "sector": "C",
     "last_name": "Logatto",
     "first_name": "Andrew",
-    "rank": "PO",
+    "rank": "DET",
     "email": "andrew.logatto@nypd.org"
   },
   {
@@ -3876,7 +3828,7 @@
     "sector": "C",
     "last_name": "John",
     "first_name": "Desmond",
-    "rank": "PO",
+    "rank": "DET",
     "email": "desmond.john@nypd.org"
   },
   {
@@ -3940,7 +3892,7 @@
     "sector": "C",
     "last_name": "Marti-Reyes",
     "first_name": "Francisco",
-    "rank": "PO",
+    "rank": "DET",
     "email": "francisco.martireyes@nypd.org"
   },
   {
@@ -4068,16 +4020,8 @@
     "sector": "C",
     "last_name": "Martini",
     "first_name": "Bryan",
-    "rank": "PO",
+    "rank": "DET",
     "email": "bryan.martini@nypd.org"
-  },
-  {
-    "command": "100 PCT",
-    "sector": "C",
-    "last_name": "Mercado",
-    "first_name": "Jonathan",
-    "rank": "PO",
-    "email": "jonathan.mercado@nypd.org"
   },
   {
     "command": "100 PCT",
@@ -4204,7 +4148,7 @@
     "sector": "A",
     "last_name": "Lasala",
     "first_name": "Frank",
-    "rank": "PO",
+    "rank": "DET",
     "email": "frank.lasala@nypd.org"
   },
   {
@@ -4476,7 +4420,7 @@
     "sector": "A",
     "last_name": "Benzant",
     "first_name": "Luis",
-    "rank": "DTS",
+    "rank": "DET",
     "email": "luis.benzant@nypd.org"
   },
   {
@@ -4692,7 +4636,7 @@
     "sector": "D",
     "last_name": "Afanasewicz",
     "first_name": "Nicholas",
-    "rank": "PO",
+    "rank": "DET",
     "email": "nicholas.afanasewicz@nypd.org"
   },
   {
@@ -4732,7 +4676,7 @@
     "sector": "B",
     "last_name": "Ramirez",
     "first_name": "Xiomara",
-    "rank": "PO",
+    "rank": "DET",
     "email": "xiomara.ramirez@nypd.org"
   },
   {
@@ -4812,7 +4756,7 @@
     "sector": "C",
     "last_name": "Cuervo",
     "first_name": "Horacio",
-    "rank": "PO",
+    "rank": "DET",
     "email": "horacio.cuervo@nypd.org"
   },
   {
@@ -5004,7 +4948,7 @@
     "sector": "A",
     "last_name": "Atkinson",
     "first_name": "Nicole",
-    "rank": "PO",
+    "rank": "DET",
     "email": "nicole.atkinson@nypd.org"
   },
   {
@@ -5036,7 +4980,7 @@
     "sector": "C",
     "last_name": "Faulkner",
     "first_name": "Robert",
-    "rank": "PO",
+    "rank": "DET",
     "email": "robert.faulkner@nypd.org"
   },
   {
@@ -5046,6 +4990,14 @@
     "first_name": "Alexander",
     "rank": "PO",
     "email": "alexander.pilkington@nypd.org"
+  },
+  {
+    "command": "112 PCT",
+    "sector": "D",
+    "last_name": "Krapf",
+    "first_name": "Nicholas",
+    "rank": "PO",
+    "email": "nicholas.krapf@nypd.org"
   },
   {
     "command": "112 PCT",
@@ -5068,7 +5020,7 @@
     "sector": "A",
     "last_name": "Dilieto",
     "first_name": "Lynn",
-    "rank": "DTS",
+    "rank": "DET",
     "email": "lynn.dilieto@nypd.org"
   },
   {
@@ -5212,7 +5164,7 @@
     "sector": "D",
     "last_name": "Matthes",
     "first_name": "Keith",
-    "rank": "PO",
+    "rank": "DET",
     "email": "keith.matthes@nypd.org"
   },
   {
@@ -5236,7 +5188,7 @@
     "sector": "A",
     "last_name": "Worsthorn",
     "first_name": "Robert",
-    "rank": "PO",
+    "rank": "DET",
     "email": "robert.worsthorn@nypd.org"
   },
   {
@@ -5404,7 +5356,7 @@
     "sector": "Housing - Stapleton",
     "last_name": "Colao",
     "first_name": "Joseph",
-    "rank": "PO",
+    "rank": "DET",
     "email": "joseph.colao@nypd.org"
   },
   {
@@ -5468,7 +5420,7 @@
     "sector": "B",
     "last_name": "Guglielmo",
     "first_name": "Michael",
-    "rank": "PO",
+    "rank": "DET",
     "email": "michael.guglielmo2@nypd.org"
   },
   {
@@ -5636,7 +5588,7 @@
     "sector": "A",
     "last_name": "Gonzalez",
     "first_name": "Christopher",
-    "rank": "PO",
+    "rank": "DET",
     "email": "christophe.gonzalez3@nypd.org"
   },
   {
