@@ -826,8 +826,8 @@
   {
     "command": "023 PCT",
     "sector": "A",
-    "last_name": "Elliott",
-    "first_name": "JohnsonGales",
+    "last_name": "JohnsonGales",
+    "first_name": "Elliott",
     "rank": "PO",
     "email": "elliott.johnsongales@nypd.org"
   },
@@ -3116,7 +3116,7 @@
     "sector": "A",
     "last_name": "Freund",
     "first_name": "John",
-    "rank": "PO",
+    "rank": "DET",
     "email": "john.freund@nypd.org"
   },
   {
@@ -5588,7 +5588,7 @@
     "sector": "A",
     "last_name": "Gonzalez",
     "first_name": "Christopher",
-    "rank": "DET",
+    "rank": "PO",
     "email": "christophe.gonzalez3@nypd.org"
   },
   {
@@ -5596,7 +5596,7 @@
     "sector": "A",
     "last_name": "Yasin",
     "first_name": "Umar",
-    "rank": "PO",
+    "rank": "DET",
     "email": "umar.yasin@nypd.org"
   },
   {
