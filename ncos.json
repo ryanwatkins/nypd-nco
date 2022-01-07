@@ -730,18 +730,18 @@
   {
     "command": "019 PCT",
     "sector": "Housing - Isaacs/Holmes Towers/Robbins Plaza",
-    "last_name": "Robinson",
-    "first_name": "James",
+    "last_name": "Maharaj",
+    "first_name": "Aruna",
     "rank": "PO",
-    "email": "james.robinson2@nypd.org"
+    "email": "aruna.maharaj@nypd.org"
   },
   {
     "command": "019 PCT",
     "sector": "Housing - Isaacs/Holmes Towers/Robbins Plaza",
-    "last_name": "Strebel",
-    "first_name": "Gary",
+    "last_name": "Robinson",
+    "first_name": "James",
     "rank": "PO",
-    "email": "gary.strebel2@nypd.org"
+    "email": "james.robinson2@nypd.org"
   },
   {
     "command": "019 PCT",
@@ -2190,14 +2190,6 @@
     "first_name": "Nelida",
     "rank": "PO",
     "email": "nelida.perez@nypd.org"
-  },
-  {
-    "command": "050 PCT",
-    "sector": "C",
-    "last_name": "Day",
-    "first_name": "Brandon",
-    "rank": "PO",
-    "email": "brandon.day@nypd.org"
   },
   {
     "command": "050 PCT",
