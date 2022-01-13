@@ -3600,6 +3600,14 @@
     "email": "christian.romero@nypd.org"
   },
   {
+    "command": "083 PCT",
+    "sector": "NCO Supervisor",
+    "last_name": "Ganci",
+    "first_name": "Dawn",
+    "rank": "SGT",
+    "email": "dawn.ganci@nypd.org"
+  },
+  {
     "command": "084 PCT",
     "sector": "A",
     "last_name": "Condon",
@@ -3798,6 +3806,14 @@
     "first_name": "Michael",
     "rank": "PO",
     "email": "michael.reilly2@nypd.org"
+  },
+  {
+    "command": "090 PCT",
+    "sector": "D",
+    "last_name": "Singh",
+    "first_name": "Tejinder",
+    "rank": "PO",
+    "email": "tejinder.singh@nypd.org"
   },
   {
     "command": "090 PCT",
@@ -4546,6 +4562,14 @@
   {
     "command": "108 PCT",
     "sector": "B",
+    "last_name": "Guarini",
+    "first_name": "Joseph",
+    "rank": "PO",
+    "email": "joseph.guarini@nypd.org"
+  },
+  {
+    "command": "108 PCT",
+    "sector": "B",
     "last_name": "Ramirez",
     "first_name": "Xiomara",
     "rank": "DET",
@@ -4662,6 +4686,14 @@
     "first_name": "Christine",
     "rank": "PO",
     "email": "christine.meisner@nypd.org"
+  },
+  {
+    "command": "109 PCT",
+    "sector": "Housing - Bland/ Latimer",
+    "last_name": "Tully",
+    "first_name": "Bartholomew",
+    "rank": "PO",
+    "email": "bartholomew.tully@nypd.org"
   },
   {
     "command": "109 PCT",
@@ -4822,6 +4854,14 @@
     "first_name": "Nicole",
     "rank": "DET",
     "email": "nicole.atkinson@nypd.org"
+  },
+  {
+    "command": "112 PCT",
+    "sector": "A",
+    "last_name": "Koka",
+    "first_name": "Kaltrina",
+    "rank": "PO",
+    "email": "kaltrina.koka@nypd.org"
   },
   {
     "command": "112 PCT",
@@ -5516,7 +5556,7 @@
     "sector": "CAREY GARDENS (60), CONEY ISLAND (60), O'DWYER (60),  SITE 1B (60), CONEY ISLAND I SITE 8 (60)",
     "last_name": "Lazarre",
     "first_name": "Kerlens",
-    "rank": "PO",
+    "rank": "DET",
     "email": "kerlens.lazarre@nypd.org"
   },
   {
