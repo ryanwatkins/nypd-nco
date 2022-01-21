@@ -952,6 +952,14 @@
     "email": "shantal.melendez2@nypd.org"
   },
   {
+    "command": "024 PCT",
+    "sector": "NCO Supervisor",
+    "last_name": "Sprague",
+    "first_name": "Timothy",
+    "rank": "SGT",
+    "email": "timothy.sprague@nypd.org"
+  },
+  {
     "command": "025 PCT",
     "sector": "A",
     "last_name": "Pescatore",
@@ -1554,10 +1562,10 @@
   {
     "command": "042 PCT",
     "sector": "B",
-    "last_name": "Polintan",
-    "first_name": "Paul",
-    "rank": "DET",
-    "email": "paul.polintan@nypd.org"
+    "last_name": "Mota",
+    "first_name": "Armando",
+    "rank": "PO",
+    "email": "armando.mota@nypd.org"
   },
   {
     "command": "042 PCT",
@@ -2153,6 +2161,14 @@
   },
   {
     "command": "049 PCT",
+    "sector": "Housing - Boston Road/ Eastchester/ Parkside/ Pelham",
+    "last_name": "Segarro",
+    "first_name": "Michael",
+    "rank": "PO",
+    "email": "michael.segarra2@nypd.org"
+  },
+  {
+    "command": "049 PCT",
     "sector": "NCO Supervisor",
     "last_name": "Hines",
     "first_name": "George",
@@ -2353,6 +2369,14 @@
   },
   {
     "command": "060 PCT",
+    "sector": "D",
+    "last_name": "Small",
+    "first_name": "Phillip",
+    "rank": "PO",
+    "email": "phillip.small@nypd.org"
+  },
+  {
+    "command": "060 PCT",
     "sector": "NCO Supervisor",
     "last_name": "Weinstein",
     "first_name": "Melanie",
@@ -2398,14 +2422,6 @@
     "first_name": "James",
     "rank": "PO",
     "email": "james.kelleher@nypd.org"
-  },
-  {
-    "command": "061 PCT",
-    "sector": "C",
-    "last_name": "Sawh",
-    "first_name": "Shilendra",
-    "rank": "DET",
-    "email": "shilendra.sawh@nypd.org"
   },
   {
     "command": "061 PCT",
