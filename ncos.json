@@ -5138,6 +5138,14 @@
   {
     "command": "115 PCT",
     "sector": "D",
+    "last_name": "Moura",
+    "first_name": "Roger",
+    "rank": "PO",
+    "email": "roger.moura@nypd.org"
+  },
+  {
+    "command": "115 PCT",
+    "sector": "D",
     "last_name": "Shmuel",
     "first_name": "Eric",
     "rank": "PO",
@@ -5306,10 +5314,10 @@
   {
     "command": "121 PCT",
     "sector": "A",
-    "last_name": "D'Arrigo",
-    "first_name": "Dominic",
+    "last_name": "Gusenfitter",
+    "first_name": "Scott",
     "rank": "PO",
-    "email": "dominic.darrigo@nypd.org"
+    "email": "scott.gusenfitter@nypd.org"
   },
   {
     "command": "121 PCT",
