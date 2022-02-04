@@ -1017,14 +1017,6 @@
   },
   {
     "command": "025 PCT",
-    "sector": "D",
-    "last_name": "Cosme",
-    "first_name": "Jaylise",
-    "rank": "PO",
-    "email": "jaylise.cosme@nypd.org"
-  },
-  {
-    "command": "025 PCT",
     "sector": "NCO Supervisor",
     "last_name": "Bradshaw",
     "first_name": "Brian",
@@ -3898,18 +3890,18 @@
   {
     "command": "100 PCT",
     "sector": "A",
-    "last_name": "Gabbe",
-    "first_name": "Genaro",
+    "last_name": "Kennedy",
+    "first_name": "Ronald",
     "rank": "PO",
-    "email": "genaro.gabbe@nypd.org"
+    "email": "ronald.kennedy@nypd.org"
   },
   {
     "command": "100 PCT",
     "sector": "A",
-    "last_name": "Taormina",
-    "first_name": "Andrew",
+    "last_name": "Mannion",
+    "first_name": "Thomas",
     "rank": "PO",
-    "email": "andrew.taormina@nypd.org"
+    "email": "thomas.mannion2@nypd.org"
   },
   {
     "command": "100 PCT",
@@ -3934,6 +3926,14 @@
     "first_name": "Bryan",
     "rank": "DET",
     "email": "bryan.martini@nypd.org"
+  },
+  {
+    "command": "100 PCT",
+    "sector": "C",
+    "last_name": "Mercado",
+    "first_name": "Jonathan",
+    "rank": "PO",
+    "email": "jonathan.mercado@nypd.org"
   },
   {
     "command": "100 PCT",
@@ -4634,26 +4634,10 @@
   {
     "command": "109 PCT",
     "sector": "A",
-    "last_name": "Radosti",
-    "first_name": "Barbara",
-    "rank": "PO",
-    "email": "barbara.radosti@nypd.org"
-  },
-  {
-    "command": "109 PCT",
-    "sector": "A",
     "last_name": "Vera",
     "first_name": "Christopher",
     "rank": "PO",
     "email": "christopher.vera@nypd.org"
-  },
-  {
-    "command": "109 PCT",
-    "sector": "B",
-    "last_name": "Betancur",
-    "first_name": "Renzo",
-    "rank": "PO",
-    "email": "renzo.betancur@nypd.org"
   },
   {
     "command": "109 PCT",
@@ -4946,10 +4930,10 @@
   {
     "command": "113 PCT",
     "sector": "B",
-    "last_name": "Goico",
-    "first_name": "Manuel",
+    "last_name": "Butler",
+    "first_name": "William",
     "rank": "PO",
-    "email": "manuel.goico@nypd.org"
+    "email": "william.butler2@nypd.org"
   },
   {
     "command": "113 PCT",
