@@ -266,10 +266,10 @@
   {
     "command": "009 PCT",
     "sector": "B",
-    "last_name": "Cinturati",
-    "first_name": "Frank",
+    "last_name": "Garcia",
+    "first_name": "Samuel",
     "rank": "PO",
-    "email": "frank.cinturati@nypd.org"
+    "email": "samuel.garcia@nypd.org"
   },
   {
     "command": "009 PCT",
@@ -294,6 +294,14 @@
     "first_name": "Lisandro",
     "rank": "PO",
     "email": "lisandro.rodriguez@nypd.org"
+  },
+  {
+    "command": "009 PCT",
+    "sector": "D",
+    "last_name": "Cinturati",
+    "first_name": "Frank",
+    "rank": "PO",
+    "email": "frank.cinturati@nypd.org"
   },
   {
     "command": "009 PCT",
@@ -738,18 +746,18 @@
   {
     "command": "019 PCT",
     "sector": "D",
-    "last_name": "Durney",
-    "first_name": "Christopher",
-    "rank": "PO",
-    "email": "christopher.durney@nypd.org"
-  },
-  {
-    "command": "019 PCT",
-    "sector": "D",
     "last_name": "Grzan",
     "first_name": "Daniel",
     "rank": "PO",
     "email": "daniel.grzan2@nypd.org"
+  },
+  {
+    "command": "019 PCT",
+    "sector": "D",
+    "last_name": "Salem",
+    "first_name": "Shaddad",
+    "rank": "PO",
+    "email": "shaddad.salem2@nypd.org"
   },
   {
     "command": "019 PCT",
@@ -2566,6 +2574,14 @@
     "first_name": "David",
     "rank": "PO",
     "email": "david.belkin@nypd.org"
+  },
+  {
+    "command": "063 PCT",
+    "sector": "A",
+    "last_name": "Perez",
+    "first_name": "Jonathon",
+    "rank": "PO",
+    "email": "jonathon.perez@nypd.org"
   },
   {
     "command": "063 PCT",
