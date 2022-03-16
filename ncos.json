@@ -1361,14 +1361,6 @@
   },
   {
     "command": "033 PCT",
-    "sector": "D",
-    "last_name": "Randazzo",
-    "first_name": "Sonia",
-    "rank": "PO",
-    "email": "sonia.randazzo@nypd.org"
-  },
-  {
-    "command": "033 PCT",
     "sector": "NCO Supervisor",
     "last_name": "Rodriguez",
     "first_name": "Ronnie",
@@ -1569,6 +1561,14 @@
   },
   {
     "command": "041 PCT",
+    "sector": "D",
+    "last_name": "Reynolds",
+    "first_name": "Aine",
+    "rank": "PO",
+    "email": "aine.reynolds@nypd.org"
+  },
+  {
+    "command": "041 PCT",
     "sector": "NCO Supervisor",
     "last_name": "Guglielmo",
     "first_name": "Louis",
@@ -1750,6 +1750,14 @@
     "first_name": "Dania",
     "rank": "PO",
     "email": "dania.caceresolivo@nypd.org"
+  },
+  {
+    "command": "044 PCT",
+    "sector": "B",
+    "last_name": "Dempsey",
+    "first_name": "Vincent",
+    "rank": "PO",
+    "email": "vincent.dempsey@nypd.org"
   },
   {
     "command": "044 PCT",
@@ -1992,14 +2000,6 @@
     "email": "richard.kearns@nypd.org"
   },
   {
-    "command": "046 PCT",
-    "sector": "NCO Supervisor",
-    "last_name": "Garcia",
-    "first_name": "Vladimir",
-    "rank": "SGT",
-    "email": "vladimir.garcia@nypd.org"
-  },
-  {
     "command": "047 PCT",
     "sector": "A",
     "last_name": "McLoughlin",
@@ -2082,10 +2082,10 @@
   {
     "command": "048 PCT",
     "sector": "A",
-    "last_name": "Rose",
-    "first_name": "Kimberly",
+    "last_name": "Zambrano",
+    "first_name": "Andres",
     "rank": "PO",
-    "email": "kimberly.rose@nypd.org"
+    "email": "andres.zambrano@nypd.org"
   },
   {
     "command": "048 PCT",
@@ -2122,18 +2122,10 @@
   {
     "command": "048 PCT",
     "sector": "D",
-    "last_name": "Alfano",
-    "first_name": "Anthony",
+    "last_name": "Rose",
+    "first_name": "Kimberly",
     "rank": "PO",
-    "email": "anthony.alfano2@nypd.org"
-  },
-  {
-    "command": "048 PCT",
-    "sector": "D",
-    "last_name": "Zambrano",
-    "first_name": "Andres",
-    "rank": "PO",
-    "email": "andres.zambrano@nypd.org"
+    "email": "kimberly.rose@nypd.org"
   },
   {
     "command": "048 PCT",
@@ -2614,14 +2606,6 @@
     "first_name": "James",
     "rank": "PO",
     "email": "james.saintil@nypd.org"
-  },
-  {
-    "command": "063 PCT",
-    "sector": "NCO Supervisor",
-    "last_name": "Skyers",
-    "first_name": "Taisha",
-    "rank": "SGT",
-    "email": "taisha.skyers@nypd.org"
   },
   {
     "command": "066 PCT",
