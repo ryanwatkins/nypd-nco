@@ -1186,6 +1186,14 @@
   {
     "command": "030 PCT",
     "sector": "A",
+    "last_name": "Laurie",
+    "first_name": "Gregory",
+    "rank": "PO",
+    "email": "gregory.laurie@nypd.org"
+  },
+  {
+    "command": "030 PCT",
+    "sector": "A",
     "last_name": "Sacco",
     "first_name": "Edward",
     "rank": "PO",
@@ -1210,26 +1218,26 @@
   {
     "command": "030 PCT",
     "sector": "C",
-    "last_name": "Espinal",
-    "first_name": "Yudelka",
+    "last_name": "Chu",
+    "first_name": "Andrew",
     "rank": "PO",
-    "email": "yudelka.espinal@nypd.org"
+    "email": "andrew.chu@nypd.org"
   },
   {
     "command": "030 PCT",
     "sector": "C",
-    "last_name": "Laurie",
-    "first_name": "Gregory",
+    "last_name": "Ruiz",
+    "first_name": "Andres",
     "rank": "PO",
-    "email": "gregory.laurie@nypd.org"
+    "email": "andres.ruiz@nypd.org"
   },
   {
     "command": "030 PCT",
     "sector": "NCO Supervisor",
-    "last_name": "Gutierrez",
-    "first_name": "Manuel",
+    "last_name": "Grace",
+    "first_name": "Brendan",
     "rank": "SGT",
-    "email": "manuel.gutierrez@nypd.org"
+    "email": "brendan.grace@nypd.org"
   },
   {
     "command": "032 PCT",
@@ -1358,6 +1366,14 @@
     "first_name": "Kenneth",
     "rank": "PO",
     "email": "kenneth.brown@nypd.org"
+  },
+  {
+    "command": "033 PCT",
+    "sector": "D",
+    "last_name": "Farley",
+    "first_name": "Christina",
+    "rank": "PO",
+    "email": "christina.farley@nypd.org"
   },
   {
     "command": "033 PCT",
@@ -2606,6 +2622,14 @@
     "first_name": "James",
     "rank": "PO",
     "email": "james.saintil@nypd.org"
+  },
+  {
+    "command": "063 PCT",
+    "sector": "NCO Supervisor",
+    "last_name": "Lin",
+    "first_name": "Ruibing",
+    "rank": "SGT",
+    "email": "ruibing.lin@nypd.org"
   },
   {
     "command": "066 PCT",
@@ -3938,10 +3962,10 @@
   {
     "command": "094 PCT",
     "sector": "C",
-    "last_name": "Marmol",
-    "first_name": "Evelyn",
+    "last_name": "Flores",
+    "first_name": "Edward",
     "rank": "PO",
-    "email": "evelyn.marmol@nypd.org"
+    "email": "edward.flores@nypd.org"
   },
   {
     "command": "094 PCT",
