@@ -1797,7 +1797,7 @@
     "last_name": "Gega",
     "first_name": "Florian",
     "rank": "PO",
-    "email": ""
+    "email": "florian.gega@nypd.org"
   },
   {
     "command": "044 PCT",
@@ -3244,7 +3244,7 @@
     "sector": "D",
     "last_name": "Abdul",
     "first_name": "Nazir",
-    "rank": "PO",
+    "rank": "DET",
     "email": "nazir.abdul@nypd.org"
   },
   {
@@ -4260,7 +4260,7 @@
     "sector": "C",
     "last_name": "Gullo",
     "first_name": "Nicholas",
-    "rank": "PO",
+    "rank": "DET",
     "email": "nicholas.gullo@nypd.org"
   },
   {
