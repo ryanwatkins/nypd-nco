@@ -1250,10 +1250,10 @@
   {
     "command": "032 PCT",
     "sector": "A",
-    "last_name": "Koziol",
-    "first_name": "Kevin",
+    "last_name": "Tavarez",
+    "first_name": "Jose",
     "rank": "PO",
-    "email": "kevin.koziol@nypd.org"
+    "email": "jose.tavarez@nypd.org"
   },
   {
     "command": "032 PCT",
@@ -1842,18 +1842,18 @@
   {
     "command": "044 PCT",
     "sector": "Housing - Highbridge",
-    "last_name": "Jamil",
-    "first_name": "Safayath",
-    "rank": "PO",
-    "email": "safayath.jamil@nypd.org"
-  },
-  {
-    "command": "044 PCT",
-    "sector": "Housing - Highbridge",
     "last_name": "Lavender",
     "first_name": "Zachary",
     "rank": "PO",
     "email": "zachary.lavender@nypd.org"
+  },
+  {
+    "command": "044 PCT",
+    "sector": "Housing - Highbridge",
+    "last_name": "Luna",
+    "first_name": "Richard",
+    "rank": "PO",
+    "email": "richard.luna@nypd.org"
   },
   {
     "command": "044 PCT",
@@ -3244,7 +3244,7 @@
     "sector": "D",
     "last_name": "Abdul",
     "first_name": "Nazir",
-    "rank": "DET",
+    "rank": "PO",
     "email": "nazir.abdul@nypd.org"
   },
   {
@@ -3746,14 +3746,6 @@
   {
     "command": "084 PCT",
     "sector": "C",
-    "last_name": "Brienza",
-    "first_name": "Michael",
-    "rank": "PO",
-    "email": "michael.brienza@nypd.org"
-  },
-  {
-    "command": "084 PCT",
-    "sector": "C",
     "last_name": "MontesDeOca",
     "first_name": "Oscar",
     "rank": "PO",
@@ -3778,10 +3770,10 @@
   {
     "command": "084 PCT",
     "sector": "NCO Supervisor",
-    "last_name": "Qureshi",
-    "first_name": "Mohammed",
+    "last_name": "Cain",
+    "first_name": "Celia",
     "rank": "SGT",
-    "email": "mohammed.qureshi2@nypd.org"
+    "email": "celia.cain@nypd.org"
   },
   {
     "command": "088 PCT",
@@ -4260,7 +4252,7 @@
     "sector": "C",
     "last_name": "Gullo",
     "first_name": "Nicholas",
-    "rank": "DET",
+    "rank": "PO",
     "email": "nicholas.gullo@nypd.org"
   },
   {
