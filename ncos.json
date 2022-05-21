@@ -2650,18 +2650,18 @@
   {
     "command": "066 PCT",
     "sector": "B",
-    "last_name": "Fortunato",
-    "first_name": "Cody",
+    "last_name": "Keco",
+    "first_name": "Robert",
     "rank": "PO",
-    "email": "cody.fortunato@nypd.org"
+    "email": "robert.keco@nypd.org"
   },
   {
     "command": "066 PCT",
     "sector": "B",
-    "last_name": "Wright",
-    "first_name": "Jon",
+    "last_name": "Ladyzhenskiy",
+    "first_name": "Artur",
     "rank": "PO",
-    "email": "jon.wright@nypd.org"
+    "email": "artur.ladyzhenskiy@nypd.org"
   },
   {
     "command": "066 PCT",
@@ -2674,10 +2674,10 @@
   {
     "command": "066 PCT",
     "sector": "C",
-    "last_name": "Hui",
-    "first_name": "Jason",
+    "last_name": "Hoppe",
+    "first_name": "Adam",
     "rank": "PO",
-    "email": "jason.hui@nypd.org"
+    "email": "adam.hoppe@nypd.org"
   },
   {
     "command": "066 PCT",
@@ -4682,10 +4682,10 @@
   {
     "command": "108 PCT",
     "sector": "B",
-    "last_name": "Ramirez",
-    "first_name": "Xiomara",
+    "last_name": "Paiman",
+    "first_name": "Dean",
     "rank": "DET",
-    "email": "xiomara.ramirez@nypd.org"
+    "email": "dean.paiman@nypd.org"
   },
   {
     "command": "108 PCT",
@@ -4706,18 +4706,18 @@
   {
     "command": "108 PCT",
     "sector": "D",
-    "last_name": "Farrell",
-    "first_name": "Jenelle",
-    "rank": "PO",
-    "email": "jenelle.farrell2@nypd.org"
-  },
-  {
-    "command": "108 PCT",
-    "sector": "D",
     "last_name": "Gutierrez",
     "first_name": "Edgardo",
     "rank": "PO",
     "email": "edgardo.gutierrez@nypd.org"
+  },
+  {
+    "command": "108 PCT",
+    "sector": "D",
+    "last_name": "Murthy",
+    "first_name": "Viraj",
+    "rank": "PO",
+    "email": "viraj.murthy@nypd.org"
   },
   {
     "command": "108 PCT",
