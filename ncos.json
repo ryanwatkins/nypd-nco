@@ -1850,18 +1850,18 @@
   {
     "command": "044 PCT",
     "sector": "Housing - Highbridge",
-    "last_name": "Lavender",
-    "first_name": "Zachary",
+    "last_name": "Jamil",
+    "first_name": "Safayath",
     "rank": "PO",
-    "email": "zachary.lavender@nypd.org"
+    "email": "safayath.jamil@nypd.org"
   },
   {
     "command": "044 PCT",
     "sector": "Housing - Highbridge",
-    "last_name": "Luna",
-    "first_name": "Richard",
+    "last_name": "Lavender",
+    "first_name": "Zachary",
     "rank": "PO",
-    "email": "richard.luna@nypd.org"
+    "email": "zachary.lavender@nypd.org"
   },
   {
     "command": "044 PCT",
@@ -2150,6 +2150,14 @@
     "first_name": "Kimberly",
     "rank": "PO",
     "email": "kimberly.rose@nypd.org"
+  },
+  {
+    "command": "048 PCT",
+    "sector": "D",
+    "last_name": "Vieira",
+    "first_name": "Filipe",
+    "rank": "PO",
+    "email": "filipe.vieira@nypd.org"
   },
   {
     "command": "048 PCT",
@@ -2634,10 +2642,10 @@
   {
     "command": "063 PCT",
     "sector": "NCO Supervisor",
-    "last_name": "Lin",
-    "first_name": "Ruibing",
+    "last_name": "Piscatella",
+    "first_name": "Joseph",
     "rank": "SGT",
-    "email": "ruibing.lin@nypd.org"
+    "email": "joseph.piscatella@nypd.org"
   },
   {
     "command": "066 PCT",
@@ -3050,10 +3058,10 @@
   {
     "command": "071 PCT",
     "sector": "NCO Supervisor",
-    "last_name": "Felicetti",
-    "first_name": "John",
+    "last_name": "Charles",
+    "first_name": "Gesnar",
     "rank": "SGT",
-    "email": "john.felicetti@nypd.org"
+    "email": "gesner.charles@nypd.org"
   },
   {
     "command": "072 PCT",
