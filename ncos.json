@@ -3882,10 +3882,18 @@
   {
     "command": "090 PCT",
     "sector": "C",
-    "last_name": "Ozen",
-    "first_name": "Erdem",
+    "last_name": "Negron",
+    "first_name": "Luis",
     "rank": "PO",
-    "email": "erdem.ozen@nypd.org"
+    "email": "luis.negron2@nypd.org"
+  },
+  {
+    "command": "090 PCT",
+    "sector": "C",
+    "last_name": "Peoples",
+    "first_name": "Daquan",
+    "rank": "PO",
+    "email": "daquan.peoples@nypd.org"
   },
   {
     "command": "090 PCT",
