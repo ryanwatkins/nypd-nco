@@ -2578,10 +2578,10 @@
   {
     "command": "063 PCT",
     "sector": "A",
-    "last_name": "Perez",
-    "first_name": "Jonathon",
+    "last_name": "Grant",
+    "first_name": "Felicia",
     "rank": "PO",
-    "email": "jonathon.perez@nypd.org"
+    "email": "felicia.grant@nypd.org"
   },
   {
     "command": "063 PCT",
@@ -2614,6 +2614,22 @@
     "first_name": "James",
     "rank": "PO",
     "email": "james.saintil@nypd.org"
+  },
+  {
+    "command": "063 PCT",
+    "sector": "D",
+    "last_name": "Guerrero",
+    "first_name": "Mario",
+    "rank": "PO",
+    "email": "mario.guerrero@nypd.org"
+  },
+  {
+    "command": "063 PCT",
+    "sector": "D",
+    "last_name": "Perez",
+    "first_name": "Jonathan",
+    "rank": "PO",
+    "email": "jonathon.perez@nypd.org"
   },
   {
     "command": "063 PCT",
