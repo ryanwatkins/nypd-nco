@@ -1241,14 +1241,6 @@
   },
   {
     "command": "032 PCT",
-    "sector": "B",
-    "last_name": "Ruiz",
-    "first_name": "Erika",
-    "rank": "PO",
-    "email": "erika.ruiz@nypd.org"
-  },
-  {
-    "command": "032 PCT",
     "sector": "C",
     "last_name": "Kinsey",
     "first_name": "Kendo",
@@ -2001,14 +1993,6 @@
   },
   {
     "command": "047 PCT",
-    "sector": "A",
-    "last_name": "McLoughlin",
-    "first_name": "John",
-    "rank": "DET",
-    "email": "john.mcloughlin@nypd.org"
-  },
-  {
-    "command": "047 PCT",
     "sector": "B",
     "last_name": "Candela",
     "first_name": "Robert",
@@ -2170,10 +2154,10 @@
   {
     "command": "049 PCT",
     "sector": "B",
-    "last_name": "McDowell",
-    "first_name": "Jonya",
+    "last_name": "Jose",
+    "first_name": "Amonte",
     "rank": "PO",
-    "email": "jonya.mcdowell@nypd.org"
+    "email": "jose.almonte@nypd.org"
   },
   {
     "command": "049 PCT",
@@ -2202,7 +2186,7 @@
   {
     "command": "049 PCT",
     "sector": "Housing - Boston Road/ Eastchester/ Parkside/ Pelham",
-    "last_name": "Segarro",
+    "last_name": "Segarra",
     "first_name": "Michael",
     "rank": "PO",
     "email": "michael.segarra2@nypd.org"
@@ -4226,10 +4210,10 @@
   {
     "command": "103 PCT",
     "sector": "B",
-    "last_name": "Ouji",
-    "first_name": "Sameh",
+    "last_name": "Buckleman",
+    "first_name": "Michael",
     "rank": "PO",
-    "email": "sameh.ouji@nypd.org"
+    "email": "michael.buckleman@nypd.org"
   },
   {
     "command": "103 PCT",
@@ -4310,14 +4294,6 @@
     "first_name": "Justin",
     "rank": "SGT",
     "email": "justin.caliguri@nypd.org"
-  },
-  {
-    "command": "103 PCT",
-    "sector": "Sutphin Blvd BID",
-    "last_name": "Buckleman",
-    "first_name": "Michael",
-    "rank": "PO",
-    "email": "michael.buckleman@nypd.org"
   },
   {
     "command": "103 PCT",
