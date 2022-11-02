@@ -122,10 +122,10 @@
   {
     "command": "005 PCT",
     "sector": "NCO Supervisor",
-    "last_name": "Prado",
-    "first_name": "Kelvin",
+    "last_name": "Mottola",
+    "first_name": "Joel",
     "rank": "SGT",
-    "email": "kelvin.prado@nypd.org"
+    "email": "joel.mottola@nypd.org"
   },
   {
     "command": "006 PCT",
@@ -458,10 +458,10 @@
   {
     "command": "013 PCT",
     "sector": "NCO Supervisor",
-    "last_name": "Nikishin",
-    "first_name": "Ivan",
+    "last_name": "McLaughlin",
+    "first_name": "Christopher",
     "rank": "SGT",
-    "email": "ivan.nikishin@nypd.org"
+    "email": "christopher.mclaughlin@nypd.org"
   },
   {
     "command": "MTS PCT",
@@ -1234,10 +1234,10 @@
   {
     "command": "030 PCT",
     "sector": "NCO Supervisor",
-    "last_name": "Grace",
-    "first_name": "Brendan",
+    "last_name": "Philpin",
+    "first_name": "John",
     "rank": "SGT",
-    "email": "brendan.grace@nypd.org"
+    "email": "john.philpin@nypd.org"
   },
   {
     "command": "032 PCT",
@@ -1250,10 +1250,10 @@
   {
     "command": "032 PCT",
     "sector": "B",
-    "last_name": "Horvath",
-    "first_name": "Joseph",
+    "last_name": "Guido",
+    "first_name": "Edgard",
     "rank": "PO",
-    "email": "joseph.horvath@nypd.org"
+    "email": "edgard.guido@nypd.org"
   },
   {
     "command": "032 PCT",
@@ -1418,10 +1418,10 @@
   {
     "command": "034 PCT",
     "sector": "C",
-    "last_name": "Duffy",
-    "first_name": "Patrick",
+    "last_name": "Denton",
+    "first_name": "Jonathan",
     "rank": "PO",
-    "email": "patrick.duffy@nypd.org"
+    "email": "jonathan.denton2@nypd.org"
   },
   {
     "command": "034 PCT",
@@ -1914,10 +1914,10 @@
   {
     "command": "045 PCT",
     "sector": "C",
-    "last_name": "Basora",
-    "first_name": "Hector",
+    "last_name": "Rugovac",
+    "first_name": "Driljan",
     "rank": "PO",
-    "email": "hector.basora@nypd.org"
+    "email": "driljan.rugovac@nypd.org"
   },
   {
     "command": "045 PCT",
@@ -2194,10 +2194,10 @@
   {
     "command": "049 PCT",
     "sector": "B",
-    "last_name": "Segarra",
-    "first_name": "Michael",
+    "last_name": "Murphy",
+    "first_name": "Aidan",
     "rank": "PO",
-    "email": "michael.segarra2@nypd.org"
+    "email": "aidan.murphy@nypd.org"
   },
   {
     "command": "049 PCT",
@@ -2218,10 +2218,10 @@
   {
     "command": "049 PCT",
     "sector": "Housing - Boston Road/ Eastchester/ Parkside/ Pelham",
-    "last_name": "Sanchez",
-    "first_name": "Juan",
+    "last_name": "Dimeglio",
+    "first_name": "Gennaro",
     "rank": "PO",
-    "email": "juan.sanchez2@nypd.org"
+    "email": "gennaro.dimeglio@nypd.org"
   },
   {
     "command": "049 PCT",
@@ -2578,18 +2578,18 @@
   {
     "command": "063 PCT",
     "sector": "A",
-    "last_name": "Belkin",
-    "first_name": "David",
+    "last_name": "Alva",
+    "first_name": "Paul",
     "rank": "PO",
-    "email": "david.belkin@nypd.org"
+    "email": "paul.alva@nypd.org"
   },
   {
     "command": "063 PCT",
     "sector": "A",
-    "last_name": "Perez",
-    "first_name": "Jonathon",
+    "last_name": "Belkin",
+    "first_name": "David",
     "rank": "PO",
-    "email": "jonathon.perez@nypd.org"
+    "email": "david.belkin@nypd.org"
   },
   {
     "command": "063 PCT",
@@ -2622,6 +2622,22 @@
     "first_name": "James",
     "rank": "PO",
     "email": "james.saintil@nypd.org"
+  },
+  {
+    "command": "063 PCT",
+    "sector": "D",
+    "last_name": "Guerrero",
+    "first_name": "Mario",
+    "rank": "PO",
+    "email": "mario.guerrero@nypd.org"
+  },
+  {
+    "command": "063 PCT",
+    "sector": "D",
+    "last_name": "Perez",
+    "first_name": "Jonathon",
+    "rank": "PO",
+    "email": "jonathon.perez@nypd.org"
   },
   {
     "command": "063 PCT",
@@ -3122,10 +3138,10 @@
   {
     "command": "072 PCT",
     "sector": "NCO Supervisor",
-    "last_name": "Zevelev",
-    "first_name": "Yuriy",
+    "last_name": "Kwan",
+    "first_name": "Sammy",
     "rank": "SGT",
-    "email": "yuriy.zevelev@nypd.org"
+    "email": "sammy.kwan@nypd.org"
   },
   {
     "command": "073 PCT",
