@@ -266,10 +266,10 @@
   {
     "command": "009 PCT",
     "sector": "B",
-    "last_name": "Eskandar",
-    "first_name": "Adel",
+    "last_name": "Sandhu",
+    "first_name": "Amritpreet",
     "rank": "PO",
-    "email": "adel.eskandar@nypd.org"
+    "email": "amritpreet.sandhu@nypd.org"
   },
   {
     "command": "009 PCT",
@@ -306,10 +306,10 @@
   {
     "command": "009 PCT",
     "sector": "D",
-    "last_name": "Thooho",
-    "first_name": "Bryan",
+    "last_name": "Coye",
+    "first_name": "Dondre",
     "rank": "PO",
-    "email": "bryan.thooho@nypd.org"
+    "email": "dondre.coye2@nypd.org"
   },
   {
     "command": "009 PCT",
@@ -2186,18 +2186,18 @@
   {
     "command": "049 PCT",
     "sector": "B",
-    "last_name": "Jose",
-    "first_name": "Amonte",
+    "last_name": "Almonte",
+    "first_name": "Jose",
     "rank": "PO",
     "email": "jose.almonte@nypd.org"
   },
   {
     "command": "049 PCT",
     "sector": "B",
-    "last_name": "Murphy",
-    "first_name": "Aidan",
+    "last_name": "Segarra",
+    "first_name": "Michael",
     "rank": "PO",
-    "email": "aidan.murphy@nypd.org"
+    "email": "michael.segarra2@nypd.org"
   },
   {
     "command": "049 PCT",
@@ -4266,10 +4266,10 @@
   {
     "command": "103 PCT",
     "sector": "B",
-    "last_name": "Buckleman",
-    "first_name": "Michael",
+    "last_name": "Waugh",
+    "first_name": "Kelly",
     "rank": "PO",
-    "email": "michael.buckleman@nypd.org"
+    "email": "kelly.waugh@nypd.org"
   },
   {
     "command": "103 PCT",
@@ -5450,10 +5450,10 @@
   {
     "command": "121 PCT",
     "sector": "B",
-    "last_name": "Guglielmo",
-    "first_name": "Michael",
-    "rank": "DET",
-    "email": "michael.guglielmo2@nypd.org"
+    "last_name": "Demo",
+    "first_name": "Emin",
+    "rank": "PO",
+    "email": "emin.demo@nypd.org"
   },
   {
     "command": "121 PCT",
