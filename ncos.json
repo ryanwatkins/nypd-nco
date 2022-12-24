@@ -1282,18 +1282,18 @@
   {
     "command": "032 PCT",
     "sector": "D",
-    "last_name": "Gomes",
-    "first_name": "Nickson",
+    "last_name": "Jean",
+    "first_name": "Darren",
     "rank": "PO",
-    "email": "nickson.gomez@nypd.org"
+    "email": "darren.jean@nypd.org"
   },
   {
     "command": "032 PCT",
     "sector": "NCO Supervisor",
-    "last_name": "Taveras",
-    "first_name": "Pablo",
+    "last_name": "Herrerabayas",
+    "first_name": "Richard",
     "rank": "SGT",
-    "email": "pablo.taveras@nypd.org"
+    "email": "richard.herrerabayas@nypd.org"
   },
   {
     "command": "033 PCT",
@@ -2114,10 +2114,10 @@
   {
     "command": "048 PCT",
     "sector": "B",
-    "last_name": "Lupo",
-    "first_name": "Nicolas",
+    "last_name": "Hendrickson",
+    "first_name": "Christopher",
     "rank": "PO",
-    "email": "nicolas.lupo@nypd.org"
+    "email": "christopher.hendrickson@nypd.org"
   },
   {
     "command": "048 PCT",
@@ -2378,10 +2378,10 @@
   {
     "command": "052 PCT",
     "sector": "NCO Supervisor",
-    "last_name": "O'Brien",
-    "first_name": "James",
+    "last_name": "Jaffe",
+    "first_name": "Ryan",
     "rank": "SGT",
-    "email": "james.obrien@nypd.org"
+    "email": "ryan.jaffe@nypd.org"
   },
   {
     "command": "060 PCT",
@@ -3834,10 +3834,10 @@
   {
     "command": "088 PCT",
     "sector": "A",
-    "last_name": "Jackson",
-    "first_name": "Teanesha",
+    "last_name": "Gersbeck",
+    "first_name": "Jason",
     "rank": "PO",
-    "email": "teanesha.jackson@nypd.org"
+    "email": "jason.gersbeck@nypd.org"
   },
   {
     "command": "088 PCT",
