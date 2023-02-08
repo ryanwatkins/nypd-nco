@@ -3260,7 +3260,7 @@
     "sector": "D",
     "last_name": "Abdul",
     "first_name": "Nazir",
-    "rank": "PO",
+    "rank": "DET",
     "email": "nazir.abdul@nypd.org"
   },
   {
@@ -4450,10 +4450,10 @@
   {
     "command": "105 PCT",
     "sector": "B",
-    "last_name": "Haran",
-    "first_name": "Matthew",
+    "last_name": "Fernandez",
+    "first_name": "Delio",
     "rank": "PO",
-    "email": "matthew.haran@nypd.org"
+    "email": "delio.fernandez@nypd.org"
   },
   {
     "command": "105 PCT",
@@ -4466,18 +4466,18 @@
   {
     "command": "105 PCT",
     "sector": "C",
-    "last_name": "Alfino",
-    "first_name": "Matthew",
+    "last_name": "Gordon",
+    "first_name": "Christopher",
     "rank": "PO",
-    "email": "matthew.alfino@nypd.org"
+    "email": "christopher.gordon@nypd.org"
   },
   {
     "command": "105 PCT",
     "sector": "C",
-    "last_name": "Fernandez",
-    "first_name": "Delio",
+    "last_name": "Monaco",
+    "first_name": "Marrisa",
     "rank": "PO",
-    "email": "delio.fernandez@nypd.org"
+    "email": "marissa.monaco@nypd.org"
   },
   {
     "command": "105 PCT",
@@ -5450,10 +5450,10 @@
   {
     "command": "121 PCT",
     "sector": "B",
-    "last_name": "Demo",
-    "first_name": "Emin",
+    "last_name": "Diaz",
+    "first_name": "Ismael",
     "rank": "PO",
-    "email": "emin.demo@nypd.org"
+    "email": "ismael.diaz@nypd.org"
   },
   {
     "command": "121 PCT",
@@ -5474,10 +5474,10 @@
   {
     "command": "121 PCT",
     "sector": "D",
-    "last_name": "Fabrizio",
-    "first_name": "John",
+    "last_name": "Cavalotti",
+    "first_name": "Nicholas",
     "rank": "PO",
-    "email": "john.fabrizio@nypd.org"
+    "email": "nicholas.cavalotti@nypd.org"
   },
   {
     "command": "121 PCT",
@@ -5610,10 +5610,10 @@
   {
     "command": "122 PCT",
     "sector": "NCO Supervisor",
-    "last_name": "DePietro",
-    "first_name": "Archie",
+    "last_name": "Gillespie",
+    "first_name": "Mary",
     "rank": "SGT",
-    "email": "archie.depietro@nypd.org"
+    "email": "mary.gillespie@nypd.org"
   },
   {
     "command": "123 PCT",
