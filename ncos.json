@@ -1634,10 +1634,10 @@
   {
     "command": "042 PCT",
     "sector": "D",
-    "last_name": "Gonzalez-Hernandez",
-    "first_name": "Victor",
+    "last_name": "Espinal",
+    "first_name": "Cesar",
     "rank": "PO",
-    "email": "victor.gonzalezhernandez@nypd.org"
+    "email": "cesar.espinal2@nypd.org"
   },
   {
     "command": "042 PCT",
@@ -2090,10 +2090,10 @@
   {
     "command": "048 PCT",
     "sector": "A",
-    "last_name": "Medrano",
-    "first_name": "Cristian",
+    "last_name": "Krauss",
+    "first_name": "Nicole",
     "rank": "PO",
-    "email": "cristian.medrano@nypd.org"
+    "email": "nicole.krauss@nypd.org"
   },
   {
     "command": "048 PCT",
@@ -2114,18 +2114,18 @@
   {
     "command": "048 PCT",
     "sector": "C",
-    "last_name": "Krauss",
-    "first_name": "Nicole",
-    "rank": "PO",
-    "email": "nicole.krauss@nypd.org"
-  },
-  {
-    "command": "048 PCT",
-    "sector": "C",
     "last_name": "Nieves",
     "first_name": "Hiram",
     "rank": "PO",
     "email": "hiram.nieves3@nypd.org"
+  },
+  {
+    "command": "048 PCT",
+    "sector": "C",
+    "last_name": "Rivera",
+    "first_name": "Travis",
+    "rank": "PO",
+    "email": "travis.rivera@nypd.org"
   },
   {
     "command": "048 PCT",
@@ -2142,6 +2142,22 @@
     "first_name": "Oscar",
     "rank": "PO",
     "email": "oscar.hernandez2@nypd.org"
+  },
+  {
+    "command": "048 PCT",
+    "sector": "Housing - Monterey Ave/ Murphy/ Twin Parks",
+    "last_name": "Torres",
+    "first_name": "Ariel",
+    "rank": "PO",
+    "email": "ariel.torres@nypd.org"
+  },
+  {
+    "command": "048 PCT",
+    "sector": "Housing - Monterey Ave/ Murphy/ Twin Parks",
+    "last_name": "Vargas",
+    "first_name": "Amado",
+    "rank": "PO",
+    "email": "amado.vargas@nypd.org"
   },
   {
     "command": "049 PCT",
@@ -3402,18 +3418,18 @@
   {
     "command": "077 PCT",
     "sector": "C",
-    "last_name": "Brissett-Ortiz",
-    "first_name": "Malcolm",
+    "last_name": "Balbuena",
+    "first_name": "Angel",
     "rank": "PO",
-    "email": "malcolm.brissettortiz@nypd.org"
+    "email": "angel.balbuena@nypd.org"
   },
   {
     "command": "077 PCT",
     "sector": "C",
-    "last_name": "Mott",
-    "first_name": "Corey",
+    "last_name": "Brissett-Ortiz",
+    "first_name": "Malcolm",
     "rank": "PO",
-    "email": "corey.mott@nypd.org"
+    "email": "malcolm.brissettortiz@nypd.org"
   },
   {
     "command": "077 PCT",
@@ -4314,10 +4330,10 @@
   {
     "command": "103 PCT",
     "sector": "Housing - South Jamaica",
-    "last_name": "Gilhooly",
-    "first_name": "Robert",
+    "last_name": "Gromling",
+    "first_name": "Gregory",
     "rank": "PO",
-    "email": "robert.gilhooly@nypd.org"
+    "email": "gregory.gromling@nypd.org"
   },
   {
     "command": "103 PCT",
@@ -4350,14 +4366,6 @@
     "first_name": "Justin",
     "rank": "SGT",
     "email": "justin.caliguri@nypd.org"
-  },
-  {
-    "command": "103 PCT",
-    "sector": "Sutphin Blvd BID",
-    "last_name": "Gromling",
-    "first_name": "Gregory",
-    "rank": "PO",
-    "email": "gregory.gromling@nypd.org"
   },
   {
     "command": "104 PCT",
@@ -4450,10 +4458,10 @@
   {
     "command": "105 PCT",
     "sector": "B",
-    "last_name": "Fernandez",
-    "first_name": "Delio",
+    "last_name": "Dillabough",
+    "first_name": "Ethan",
     "rank": "PO",
-    "email": "delio.fernandez@nypd.org"
+    "email": "ethan.dillabough@nypd.org"
   },
   {
     "command": "105 PCT",
