@@ -458,10 +458,10 @@
   {
     "command": "013 PCT",
     "sector": "NCO Supervisor",
-    "last_name": "McLaughlin",
-    "first_name": "Christopher",
+    "last_name": "Gyaltsen",
+    "first_name": "Tenzin",
     "rank": "SGT",
-    "email": "christopher.mclaughlin@nypd.org"
+    "email": "tenzin.gyaltsen@nypd.org"
   },
   {
     "command": "MTS PCT",
@@ -1330,18 +1330,18 @@
   {
     "command": "033 PCT",
     "sector": "C",
-    "last_name": "Mella",
-    "first_name": "Rolando",
+    "last_name": "Peralta",
+    "first_name": "Kristy",
     "rank": "PO",
-    "email": "rolando.mella@nypd.org"
+    "email": "kristy.peralta2@nypd.org"
   },
   {
     "command": "033 PCT",
     "sector": "C",
-    "last_name": "Sanches",
-    "first_name": "Daniel",
+    "last_name": "Ward",
+    "first_name": "Jeffrey",
     "rank": "PO",
-    "email": "daniel.sanches@nypd.org"
+    "email": "jeffrey.ward2@nypd.org"
   },
   {
     "command": "033 PCT",
@@ -1354,10 +1354,10 @@
   {
     "command": "033 PCT",
     "sector": "D",
-    "last_name": "Farley",
-    "first_name": "Christina",
+    "last_name": "O'Shea",
+    "first_name": "Joseph",
     "rank": "PO",
-    "email": "christina.farley@nypd.org"
+    "email": "joseph.oshea@nypd.org"
   },
   {
     "command": "033 PCT",
@@ -2906,18 +2906,18 @@
   {
     "command": "069 PCT",
     "sector": "B",
-    "last_name": "Saleh",
-    "first_name": "Yhayh",
+    "last_name": "Affatigato",
+    "first_name": "Vincent",
     "rank": "PO",
-    "email": "yhayh.saleh@nypd.org"
+    "email": "vincent.affatigato@nypd.org"
   },
   {
     "command": "069 PCT",
     "sector": "B",
-    "last_name": "Segovia",
-    "first_name": "Viviana",
+    "last_name": "Walter",
+    "first_name": "Shannon",
     "rank": "PO",
-    "email": "viviana.segovia@nypd.org"
+    "email": "shannon.walter@nypd.org"
   },
   {
     "command": "069 PCT",
@@ -3049,6 +3049,22 @@
   },
   {
     "command": "071 PCT",
+    "sector": "B",
+    "last_name": "Oravec",
+    "first_name": "Cristina",
+    "rank": "PO",
+    "email": "cristina.oravec@nypd.org"
+  },
+  {
+    "command": "071 PCT",
+    "sector": "B",
+    "last_name": "Smith",
+    "first_name": "Craig",
+    "rank": "PO",
+    "email": "craig.smith2@nypd.org"
+  },
+  {
+    "command": "071 PCT",
     "sector": "C",
     "last_name": "Charles",
     "first_name": "Nefertiti",
@@ -3122,10 +3138,10 @@
   {
     "command": "072 PCT",
     "sector": "C",
-    "last_name": "Cheema",
-    "first_name": "Umar",
+    "last_name": "Ramzan",
+    "first_name": "Rizwan",
     "rank": "PO",
-    "email": "umar.cheema@nypd.org"
+    "email": "rizwan.ramzan@nypd.org"
   },
   {
     "command": "072 PCT",
@@ -3354,34 +3370,34 @@
   {
     "command": "076 PCT",
     "sector": "C",
-    "last_name": "Jovin",
-    "first_name": "Vegnel",
+    "last_name": "Jimenez",
+    "first_name": "Viviana",
     "rank": "PO",
-    "email": "vegnel.jovin@nypd.org"
+    "email": "viviana.jimenez@nypd.org"
   },
   {
     "command": "076 PCT",
     "sector": "C",
-    "last_name": "Kelly",
-    "first_name": "Moet",
+    "last_name": "Perez",
+    "first_name": "Nicole",
     "rank": "PO",
-    "email": "moet.kelly@nypd.org"
+    "email": "nicole.perez@nypd.org"
   },
   {
     "command": "076 PCT",
     "sector": "D",
-    "last_name": "Clarke",
-    "first_name": "Damien",
-    "rank": "DET",
-    "email": "damien.clarke@nypd.org"
+    "last_name": "Brown",
+    "first_name": "Norman",
+    "rank": "PO",
+    "email": "norman.brown@nypd.org"
   },
   {
     "command": "076 PCT",
     "sector": "D",
-    "last_name": "Class",
-    "first_name": "Krystal",
+    "last_name": "Zaleski",
+    "first_name": "Emily",
     "rank": "PO",
-    "email": "krystal.class@nypd.org"
+    "email": "emily.zaleski@nypd.org"
   },
   {
     "command": "076 PCT",
@@ -5686,6 +5702,14 @@
     "first_name": "Vincent",
     "rank": "SGT",
     "email": "vincent.mevo@nypd.org"
+  },
+  {
+    "command": "PCT PCT",
+    "sector": "SECTOR",
+    "last_name": "Last Name",
+    "first_name": "First Name",
+    "rank": "RANK",
+    "email": "email address"
   },
   {
     "command": "PSA 1",
