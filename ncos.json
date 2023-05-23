@@ -1770,10 +1770,10 @@
   {
     "command": "044 PCT",
     "sector": "B",
-    "last_name": "Pino",
-    "first_name": "Edgar",
+    "last_name": "Gega",
+    "first_name": "Florian",
     "rank": "PO",
-    "email": "edgar.pino@nypd.org"
+    "email": "florian.gega@nypd.org"
   },
   {
     "command": "044 PCT",
@@ -1794,18 +1794,18 @@
   {
     "command": "044 PCT",
     "sector": "D",
-    "last_name": "Gega",
-    "first_name": "Florian",
+    "last_name": "Barker",
+    "first_name": "Daniel",
     "rank": "PO",
-    "email": "florian.gega@nypd.org"
+    "email": "daniel.barker@nypd.org"
   },
   {
     "command": "044 PCT",
     "sector": "D",
-    "last_name": "Sokolohorsky",
-    "first_name": "Andrew",
+    "last_name": "Pinto",
+    "first_name": "Raymond",
     "rank": "PO",
-    "email": "andrew.sokolohorsky@nypd.org"
+    "email": "raymond.pinto@nypd.org"
   },
   {
     "command": "044 PCT",
@@ -2572,7 +2572,7 @@
     "sector": "C",
     "last_name": "Oggeri",
     "first_name": "Michael",
-    "rank": "DET",
+    "rank": "PO",
     "email": "michael.oggeri@nypd.org"
   },
   {
@@ -2586,10 +2586,10 @@
   {
     "command": "062 PCT",
     "sector": "D",
-    "last_name": "Triolo",
-    "first_name": "Kenneth",
+    "last_name": "Ruiz",
+    "first_name": "Justin",
     "rank": "PO",
-    "email": "kenneth.triolo@nypd.org"
+    "email": "justin.ruiz@nypd.org"
   },
   {
     "command": "062 PCT",
@@ -4778,18 +4778,18 @@
   {
     "command": "108 PCT",
     "sector": "D",
-    "last_name": "Gutierrez",
-    "first_name": "Edgardo",
-    "rank": "PO",
-    "email": "edgardo.gutierrez@nypd.org"
-  },
-  {
-    "command": "108 PCT",
-    "sector": "D",
     "last_name": "Natsvlishvili",
     "first_name": "Sergi",
     "rank": "PO",
     "email": "sergi.natsvlishvili@nypd.org"
+  },
+  {
+    "command": "108 PCT",
+    "sector": "D",
+    "last_name": "Rodriguez-Perez",
+    "first_name": "Carolyn",
+    "rank": "PO",
+    "email": "carolyn.rodriguezperez2@nypd.org"
   },
   {
     "command": "108 PCT",
@@ -5350,6 +5350,14 @@
     "first_name": "Sasha",
     "rank": "PO",
     "email": "sasha.george@nypd.org"
+  },
+  {
+    "command": "120 PCT",
+    "sector": "B",
+    "last_name": "Acierno",
+    "first_name": "Albert",
+    "rank": "PO",
+    "email": "albert.acierno2@nypd.org"
   },
   {
     "command": "120 PCT",
