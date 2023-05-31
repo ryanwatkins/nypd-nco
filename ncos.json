@@ -74,14 +74,6 @@
   {
     "command": "005 PCT",
     "sector": "A",
-    "last_name": "Au",
-    "first_name": "Daniel",
-    "rank": "PO",
-    "email": "daniel.au@nypd.org"
-  },
-  {
-    "command": "005 PCT",
-    "sector": "A",
     "last_name": "Dong",
     "first_name": "Fei",
     "rank": "PO",
@@ -90,10 +82,10 @@
   {
     "command": "005 PCT",
     "sector": "B",
-    "last_name": "Chen",
-    "first_name": "Ray",
+    "last_name": "O'Connell",
+    "first_name": "Anthony",
     "rank": "PO",
-    "email": "ray.chen@nypd.org"
+    "email": "anthony.oconnell@nypd.org"
   },
   {
     "command": "005 PCT",
@@ -106,18 +98,18 @@
   {
     "command": "005 PCT",
     "sector": "C",
-    "last_name": "Mei",
-    "first_name": "Kevin",
+    "last_name": "Chen",
+    "first_name": "Ray",
     "rank": "PO",
-    "email": "kevin.mei@nypd.org"
+    "email": "ray.chen@nypd.org"
   },
   {
     "command": "005 PCT",
     "sector": "C",
-    "last_name": "O'Connell",
-    "first_name": "Anthony",
+    "last_name": "Mei",
+    "first_name": "Kevin",
     "rank": "PO",
-    "email": "anthony.oconnell@nypd.org"
+    "email": "kevin.mei@nypd.org"
   },
   {
     "command": "005 PCT",
