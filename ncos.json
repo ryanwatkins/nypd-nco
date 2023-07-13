@@ -394,10 +394,10 @@
   {
     "command": "013 PCT",
     "sector": "B",
-    "last_name": "Gonzalez",
-    "first_name": "Marisa",
+    "last_name": "Figueroa",
+    "first_name": "Daniela",
     "rank": "PO",
-    "email": "marisa.gonzalez3@nypd.org"
+    "email": "daniela.figueroa2@nypd.org"
   },
   {
     "command": "013 PCT",
@@ -434,26 +434,26 @@
   {
     "command": "013 PCT",
     "sector": "D",
-    "last_name": "Griffin",
-    "first_name": "Edward",
+    "last_name": "Sweeney",
+    "first_name": "Brian",
     "rank": "PO",
-    "email": "edward.griffin@nypd.org"
+    "email": "brian.sweeney3@nypd.org"
   },
   {
     "command": "013 PCT",
     "sector": "Housing - Strauss",
-    "last_name": "Rubaine",
-    "first_name": "Dusty",
-    "rank": "PO",
-    "email": "dusty.rubaine@nypd.org"
-  },
-  {
-    "command": "013 PCT",
-    "sector": "Housing - Strauss",
-    "last_name": "Sgroi",
+    "last_name": "Cosolito",
     "first_name": "Joseph",
     "rank": "PO",
-    "email": "joseph.sgroi@nypd.org"
+    "email": "joseph.cosolito@nypd.org"
+  },
+  {
+    "command": "013 PCT",
+    "sector": "Housing - Strauss",
+    "last_name": "McHugh",
+    "first_name": "Liam",
+    "rank": "PO",
+    "email": "liam.mchugh@nypd.org"
   },
   {
     "command": "013 PCT",
@@ -466,10 +466,10 @@
   {
     "command": "MTS PCT",
     "sector": "A",
-    "last_name": "Murray",
-    "first_name": "Michelle",
+    "last_name": "Diblasi",
+    "first_name": "Christopher",
     "rank": "PO",
-    "email": "michelle.murray@nypd.org"
+    "email": "christopher.diblasi@nypd.org"
   },
   {
     "command": "MTS PCT",
@@ -482,10 +482,10 @@
   {
     "command": "MTS PCT",
     "sector": "B",
-    "last_name": "Liquori",
-    "first_name": "Johnny",
+    "last_name": "Bucholz",
+    "first_name": "Thomas",
     "rank": "PO",
-    "email": "johnny.liquori@nypd.org"
+    "email": "thomas.bucholz@nypd.org"
   },
   {
     "command": "MTS PCT",
@@ -514,18 +514,18 @@
   {
     "command": "MTS PCT",
     "sector": "D",
-    "last_name": "Conlon",
-    "first_name": "Gregory",
+    "last_name": "Duquette",
+    "first_name": "Michael",
     "rank": "PO",
-    "email": "gregory.conlon@nypd.org"
+    "email": "michael.duquette@nypd.org"
   },
   {
     "command": "MTS PCT",
     "sector": "D",
-    "last_name": "Soldano",
-    "first_name": "Joseph",
+    "last_name": "Huerta",
+    "first_name": "John",
     "rank": "PO",
-    "email": "joseph.soldano@nypd.org"
+    "email": "john.huerta@nypd.org"
   },
   {
     "command": "MTS PCT",
