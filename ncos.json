@@ -3333,7 +3333,7 @@
     "last_name": "Rourke",
     "first_name": "Thomas",
     "rank": "PO",
-    "email": "nazir.abdul@nypd.org"
+    "email": "thomas.rourke@nypd.org"
   },
   {
     "command": "075 PCT",
@@ -3366,14 +3366,6 @@
     "first_name": "Matthew",
     "rank": "PO",
     "email": "matthew.kasler@nypd.org"
-  },
-  {
-    "command": "076 PCT",
-    "sector": "A",
-    "last_name": "Youssef",
-    "first_name": "Arony",
-    "rank": "PO",
-    "email": "arony.youssef@nypd.org"
   },
   {
     "command": "076 PCT",
@@ -3658,14 +3650,6 @@
   {
     "command": "081 PCT",
     "sector": "A",
-    "last_name": "Islam",
-    "first_name": "Kamrul",
-    "rank": "PO",
-    "email": "kamrul.islam@nypd.org"
-  },
-  {
-    "command": "081 PCT",
-    "sector": "B",
     "last_name": "Macero",
     "first_name": "Ryan",
     "rank": "PO",
@@ -3690,10 +3674,10 @@
   {
     "command": "081 PCT",
     "sector": "C",
-    "last_name": "Singh",
-    "first_name": "Jasmit",
+    "last_name": "Pincay",
+    "first_name": "Kevin",
     "rank": "PO",
-    "email": "jasmit.singh@nypd.org"
+    "email": "kevin.pincay@nypd.org"
   },
   {
     "command": "081 PCT",
@@ -4026,14 +4010,6 @@
   {
     "command": "094 PCT",
     "sector": "A",
-    "last_name": "Ferdous",
-    "first_name": "Nazmul",
-    "rank": "PO",
-    "email": "nazmul.ferdous@nypd.org"
-  },
-  {
-    "command": "094 PCT",
-    "sector": "A",
     "last_name": "Galante",
     "first_name": "Marie",
     "rank": "PO",
@@ -4050,26 +4026,18 @@
   {
     "command": "094 PCT",
     "sector": "B",
-    "last_name": "Rodriguez",
-    "first_name": "Ramaury",
-    "rank": "PO",
-    "email": "ramaury.rodriguez@nypd.org"
-  },
-  {
-    "command": "094 PCT",
-    "sector": "C",
-    "last_name": "Flores",
-    "first_name": "Edward",
-    "rank": "PO",
-    "email": "edward.flores@nypd.org"
-  },
-  {
-    "command": "094 PCT",
-    "sector": "C",
     "last_name": "Soto",
     "first_name": "Kevin",
     "rank": "PO",
-    "email": "andrew.paulino@nypd.org"
+    "email": "kevin.soto@nypd.org"
+  },
+  {
+    "command": "094 PCT",
+    "sector": "C",
+    "last_name": "Ferdous",
+    "first_name": "Nazmul",
+    "rank": "PO",
+    "email": "nazmul.ferdous@nypd.org"
   },
   {
     "command": "094 PCT",
