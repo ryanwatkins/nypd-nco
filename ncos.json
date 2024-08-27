@@ -2834,10 +2834,10 @@
   {
     "command": "073 PCT",
     "sector": "D",
-    "last_name": "Muhammad",
-    "first_name": "Khan",
+    "last_name": "Khan",
+    "first_name": "Muhammad",
     "rank": "PO",
-    "email": ""
+    "email": "muhammad.khan@nypd.org"
   },
   {
     "command": "073 PCT",
@@ -2930,18 +2930,18 @@
   {
     "command": "076 PCT",
     "sector": "A",
-    "last_name": "Katelyn",
-    "first_name": "McGovern",
+    "last_name": "Cedric",
+    "first_name": "Raymondo",
     "rank": "PO",
-    "email": "katelyn.mcgovern@nypd.org"
+    "email": "cedric.raymondo@nypd.org"
   },
   {
     "command": "076 PCT",
     "sector": "A",
-    "last_name": "Sanchez",
-    "first_name": "Michael",
+    "last_name": "Hernandez",
+    "first_name": "Willmer",
     "rank": "PO",
-    "email": "michael.sanchez3@nypd.org"
+    "email": "willmer.hernandez@nypd.org"
   },
   {
     "command": "076 PCT",
@@ -2954,42 +2954,26 @@
   {
     "command": "076 PCT",
     "sector": "B",
+    "last_name": "Katelyn",
+    "first_name": "McGovern",
+    "rank": "PO",
+    "email": "katelyn.mcgovern@nypd.org"
+  },
+  {
+    "command": "076 PCT",
+    "sector": "C",
+    "last_name": "Bicic",
+    "first_name": "Muhamed",
+    "rank": "PO",
+    "email": "muhamed.bicic@nypd.org"
+  },
+  {
+    "command": "076 PCT",
+    "sector": "C",
     "last_name": "Reyes",
     "first_name": "Bethany",
     "rank": "PO",
     "email": "bethany.reyes2@nypd.org"
-  },
-  {
-    "command": "076 PCT",
-    "sector": "C",
-    "last_name": "Cedric",
-    "first_name": "Raymondo",
-    "rank": "PO",
-    "email": "cedric.raymondo@nypd.org"
-  },
-  {
-    "command": "076 PCT",
-    "sector": "C",
-    "last_name": "Hernandez",
-    "first_name": "Willmer",
-    "rank": "PO",
-    "email": "willmer.hernandez@nypd.org"
-  },
-  {
-    "command": "076 PCT",
-    "sector": "D",
-    "last_name": "Campbell",
-    "first_name": "Gabriella",
-    "rank": "PO",
-    "email": "gabriella.campbell@nypd.org"
-  },
-  {
-    "command": "076 PCT",
-    "sector": "D",
-    "last_name": "Zaleski",
-    "first_name": "Emily",
-    "rank": "PO",
-    "email": "emily.zaleski@nypd.org"
   },
   {
     "command": "076 PCT",
