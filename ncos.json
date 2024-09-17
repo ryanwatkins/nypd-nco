@@ -322,10 +322,18 @@
   {
     "command": "010 PCT",
     "sector": "B",
-    "last_name": "Farrell",
-    "first_name": "James",
+    "last_name": "Caligiuri",
+    "first_name": "Michael",
     "rank": "PO",
-    "email": "james.farrell3@nypd.org"
+    "email": "michael.caligiuri@nypd.org"
+  },
+  {
+    "command": "010 PCT",
+    "sector": "B",
+    "last_name": "McLoughlin",
+    "first_name": "Ryan",
+    "rank": "PO",
+    "email": "ryan.mcloughlin@nypd.org"
   },
   {
     "command": "010 PCT",
@@ -334,6 +342,14 @@
     "first_name": "Marian",
     "rank": "PO",
     "email": "marian.bencea@nypd.org"
+  },
+  {
+    "command": "010 PCT",
+    "sector": "C",
+    "last_name": "Farrell",
+    "first_name": "James",
+    "rank": "PO",
+    "email": "james.farrell3@nypd.org"
   },
   {
     "command": "010 PCT",
