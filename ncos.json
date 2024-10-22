@@ -25,6 +25,14 @@
   },
   {
     "command": "001 PCT",
+    "sector": "B",
+    "last_name": "Nasso",
+    "first_name": "Ferdinando",
+    "rank": "PO",
+    "email": "ferdinando.nasso@nypd.org"
+  },
+  {
+    "command": "001 PCT",
     "sector": "C",
     "last_name": "Nethaway",
     "first_name": "Thomas",
@@ -66,8 +74,8 @@
   {
     "command": "005 PCT",
     "sector": "A",
-    "last_name": "Jordan",
-    "first_name": "McKay",
+    "last_name": "Mckay",
+    "first_name": "Jordan",
     "rank": "PO",
     "email": "jordan.mckay2@nypd.org"
   },
@@ -78,6 +86,14 @@
     "first_name": "Shanta",
     "rank": "PO",
     "email": "shanta.yu@nypd.org"
+  },
+  {
+    "command": "005 PCT",
+    "sector": "B",
+    "last_name": "Berete",
+    "first_name": "Aluceny",
+    "rank": "PO",
+    "email": "aluceny.berete@nypd.org"
   },
   {
     "command": "005 PCT",
@@ -94,22 +110,6 @@
     "first_name": "Jianing",
     "rank": "PO",
     "email": "jianing.guo@nypd.org"
-  },
-  {
-    "command": "005 PCT",
-    "sector": "C",
-    "last_name": "Mei",
-    "first_name": "Kevin",
-    "rank": "PO",
-    "email": "kevin.mei@nypd.org"
-  },
-  {
-    "command": "005 PCT",
-    "sector": "NCO Supervisor",
-    "last_name": "Houlahan",
-    "first_name": "Daniel",
-    "rank": "SSA",
-    "email": "daniel.houlahan@nypd.org"
   },
   {
     "command": "006 PCT",
@@ -130,7 +130,23 @@
   {
     "command": "006 PCT",
     "sector": "B",
-    "last_name": "Sanchez-Vargas",
+    "last_name": "Farciert",
+    "first_name": "Alvin",
+    "rank": "PO",
+    "email": "alvin.farciert@nypd.org"
+  },
+  {
+    "command": "006 PCT",
+    "sector": "B",
+    "last_name": "Hossain",
+    "first_name": "Jahed",
+    "rank": "PO",
+    "email": "jahed.hossain@nypd.org"
+  },
+  {
+    "command": "006 PCT",
+    "sector": "B",
+    "last_name": "Sanchezvargas",
     "first_name": "Penelope",
     "rank": "PO",
     "email": "penelope.sanchezvargas@nypd.org"
@@ -140,7 +156,7 @@
     "sector": "C",
     "last_name": "Rana",
     "first_name": "Muhammad",
-    "rank": "DET",
+    "rank": "PO",
     "email": "muhammad.rana2@nypd.org"
   },
   {
@@ -226,6 +242,14 @@
   {
     "command": "007 PCT",
     "sector": "NCO Supervisor",
+    "last_name": "Abdalla",
+    "first_name": "Ahmed",
+    "rank": "SGT",
+    "email": "ahmed.abdalla@nypd.org"
+  },
+  {
+    "command": "007 PCT",
+    "sector": "NCO Supervisor",
     "last_name": "Leap",
     "first_name": "Christopher",
     "rank": "SGT",
@@ -258,10 +282,18 @@
   {
     "command": "009 PCT",
     "sector": "B",
-    "last_name": "Sandhu",
-    "first_name": "Amritpreet",
+    "last_name": "Ramoscruz",
+    "first_name": "Kimberlin",
     "rank": "PO",
-    "email": "amritpreet.sandhu@nypd.org"
+    "email": "kimberlin.ramoscruz@nypd.org"
+  },
+  {
+    "command": "009 PCT",
+    "sector": "B",
+    "last_name": "Rosadosuriel",
+    "first_name": "Lemuel",
+    "rank": "PO",
+    "email": "lemuel.rosadosuriel@nypd.org"
   },
   {
     "command": "009 PCT",
@@ -330,7 +362,7 @@
   {
     "command": "010 PCT",
     "sector": "B",
-    "last_name": "McLoughlin",
+    "last_name": "Mcloughlin",
     "first_name": "Ryan",
     "rank": "PO",
     "email": "ryan.mcloughlin@nypd.org"
@@ -354,7 +386,7 @@
   {
     "command": "010 PCT",
     "sector": "NCO Supervisor",
-    "last_name": "O'Leary",
+    "last_name": "Oleary",
     "first_name": "Stephen",
     "rank": "SGT",
     "email": "stephen.oleary@nypd.org"
@@ -362,10 +394,18 @@
   {
     "command": "013 PCT",
     "sector": "A",
-    "last_name": "Keeley",
-    "first_name": "Christopher",
+    "last_name": "Corbisiero",
+    "first_name": "Maria",
     "rank": "PO",
-    "email": "christopher.keeley@nypd.org"
+    "email": "maria.corbisiero@nypd.org"
+  },
+  {
+    "command": "013 PCT",
+    "sector": "A",
+    "last_name": "Rivera",
+    "first_name": "Saul",
+    "rank": "PO",
+    "email": "saul.rivera2@nypd.org"
   },
   {
     "command": "013 PCT",
@@ -386,6 +426,14 @@
   {
     "command": "013 PCT",
     "sector": "C",
+    "last_name": "Keeley",
+    "first_name": "Christopher",
+    "rank": "PO",
+    "email": "christopher.keeley@nypd.org"
+  },
+  {
+    "command": "013 PCT",
+    "sector": "C",
     "last_name": "Winn",
     "first_name": "Douglas",
     "rank": "PO",
@@ -401,11 +449,19 @@
   },
   {
     "command": "013 PCT",
-    "sector": "Housing - Strauss",
-    "last_name": "Vitali",
-    "first_name": "Ricky",
+    "sector": "D",
+    "last_name": "Wright",
+    "first_name": "David",
     "rank": "PO",
-    "email": "ricky.vitali2@nypd.org"
+    "email": "david.wright@nypd.org"
+  },
+  {
+    "command": "013 PCT",
+    "sector": "D",
+    "last_name": "Yuen",
+    "first_name": "Gordon",
+    "rank": "PO",
+    "email": "gordon.yuen2@nypd.org"
   },
   {
     "command": "013 PCT",
@@ -497,14 +553,6 @@
   },
   {
     "command": "017 PCT",
-    "sector": "C",
-    "last_name": "Lewis",
-    "first_name": "Anthony",
-    "rank": "PO",
-    "email": "anthony.lewis@nypd.org"
-  },
-  {
-    "command": "017 PCT",
     "sector": "NCO Supervisor",
     "last_name": "Leonard",
     "first_name": "Joseph",
@@ -522,7 +570,7 @@
   {
     "command": "MTN PCT",
     "sector": "A",
-    "last_name": "O'Riordan",
+    "last_name": "Oriordan",
     "first_name": "Thomas",
     "rank": "PO",
     "email": "thomas.oriordan@nypd.org"
@@ -554,7 +602,7 @@
   {
     "command": "MTN PCT",
     "sector": "C",
-    "last_name": "McGloine",
+    "last_name": "Mcgloine",
     "first_name": "Joseph",
     "rank": "PO",
     "email": "joseph.mcgloine@nypd.org"
@@ -610,8 +658,8 @@
   {
     "command": "019 PCT",
     "sector": "B",
-    "last_name": "Christian",
-    "first_name": "Campos",
+    "last_name": "Campos",
+    "first_name": "Christian",
     "rank": "PO",
     "email": "christian.campos@nypd.org"
   },
@@ -657,22 +705,6 @@
   },
   {
     "command": "019 PCT",
-    "sector": "Housing - Isaacs/Holmes Towers/Robbins Plaza",
-    "last_name": "Castillo",
-    "first_name": "Osmairy",
-    "rank": "PO",
-    "email": "osmairy.castillo@nypd.org"
-  },
-  {
-    "command": "019 PCT",
-    "sector": "Housing - Isaacs/Holmes Towers/Robbins Plaza",
-    "last_name": "Papa",
-    "first_name": "John",
-    "rank": "PO",
-    "email": "john.papa@nypd.org"
-  },
-  {
-    "command": "019 PCT",
     "sector": "NCO Supervisor",
     "last_name": "Cody",
     "first_name": "Daniel",
@@ -714,18 +746,18 @@
   {
     "command": "020 PCT",
     "sector": "Housing - Amsterdam Houses",
-    "last_name": "Curley",
-    "first_name": "William",
+    "last_name": "Capak",
+    "first_name": "Donald",
     "rank": "PO",
-    "email": "william.curley@nypd.org"
+    "email": "donald.capak@nypd.org"
   },
   {
     "command": "020 PCT",
     "sector": "Housing - Amsterdam Houses",
-    "last_name": "Sheridan",
-    "first_name": "Stephen",
+    "last_name": "Curley",
+    "first_name": "William",
     "rank": "PO",
-    "email": "stephen.sheridan@nypd.org"
+    "email": "william.curley@nypd.org"
   },
   {
     "command": "020 PCT",
@@ -738,7 +770,15 @@
   {
     "command": "023 PCT",
     "sector": "A",
-    "last_name": "Tolentino-Acevedo",
+    "last_name": "Chavesdefreitas",
+    "first_name": "Shawan",
+    "rank": "PO",
+    "email": "shawan.chavesdefreitas@nypd.org"
+  },
+  {
+    "command": "023 PCT",
+    "sector": "A",
+    "last_name": "Tolentinoacevedo",
     "first_name": "Rafaela",
     "rank": "PO",
     "email": "rafaela.tolentinoacevedo@nypd.org"
@@ -746,7 +786,7 @@
   {
     "command": "023 PCT",
     "sector": "B",
-    "last_name": "Johnson-Gales",
+    "last_name": "Johnsongales",
     "first_name": "Elliott",
     "rank": "PO",
     "email": "elliott.johnsongales@nypd.org"
@@ -785,14 +825,6 @@
   },
   {
     "command": "023 PCT",
-    "sector": "D",
-    "last_name": "Medina",
-    "first_name": "Joseph",
-    "rank": "PO",
-    "email": "joseph.medina2@nypd.org"
-  },
-  {
-    "command": "023 PCT",
     "sector": "NCO Supervisor",
     "last_name": "Hartnett",
     "first_name": "Joseph",
@@ -814,14 +846,6 @@
     "first_name": "Ahmed",
     "rank": "PO",
     "email": "ahmed.shahzad@nypd.org"
-  },
-  {
-    "command": "024 PCT",
-    "sector": "B",
-    "last_name": "Bonardi",
-    "first_name": "Joseph",
-    "rank": "PO",
-    "email": "joseph.bonardi@nypd.org"
   },
   {
     "command": "024 PCT",
@@ -978,14 +1002,38 @@
   {
     "command": "028 PCT",
     "sector": "A",
-    "last_name": "Peerzada",
-    "first_name": "Sohral",
+    "last_name": "Crawford",
+    "first_name": "Jenna",
     "rank": "PO",
-    "email": "sohral.peerzada2@nypd.org"
+    "email": "jenna.crawford@nypd.org"
   },
   {
     "command": "028 PCT",
     "sector": "A",
+    "last_name": "Scurry",
+    "first_name": "Mark",
+    "rank": "PO",
+    "email": "mark.scurry@nypd.org"
+  },
+  {
+    "command": "028 PCT",
+    "sector": "B",
+    "last_name": "Hall",
+    "first_name": "Germaine",
+    "rank": "PO",
+    "email": "germaine.hall@nypd.org"
+  },
+  {
+    "command": "028 PCT",
+    "sector": "B",
+    "last_name": "Ramirez",
+    "first_name": "Felipe",
+    "rank": "PO",
+    "email": "felipe.ramirez2@nypd.org"
+  },
+  {
+    "command": "028 PCT",
+    "sector": "C",
     "last_name": "Prashad",
     "first_name": "Arun",
     "rank": "PO",
@@ -994,18 +1042,10 @@
   {
     "command": "028 PCT",
     "sector": "C",
-    "last_name": "Crawford",
-    "first_name": "Jenna",
+    "last_name": "Weber",
+    "first_name": "Damian",
     "rank": "PO",
-    "email": "jenna.crawford@nypd.org"
-  },
-  {
-    "command": "028 PCT",
-    "sector": "C",
-    "last_name": "Scurry",
-    "first_name": "Mark",
-    "rank": "PO",
-    "email": "mark.scurry@nypd.org"
+    "email": "damian.weber@nypd.org"
   },
   {
     "command": "028 PCT",
@@ -1018,18 +1058,26 @@
   {
     "command": "028 PCT",
     "sector": "D",
-    "last_name": "Weber",
-    "first_name": "Damian",
+    "last_name": "Reilly",
+    "first_name": "Patrick",
     "rank": "PO",
-    "email": "damian.weber@nypd.org"
+    "email": "patrick.reilly3@nypd.org"
   },
   {
     "command": "028 PCT",
     "sector": "NCO Supervisor",
-    "last_name": "Ryan",
-    "first_name": "Felter",
+    "last_name": "Felter",
+    "first_name": "Ryan",
     "rank": "SGT",
     "email": "ryan.felter@nypd.org"
+  },
+  {
+    "command": "028 PCT",
+    "sector": "NCO Supervisor",
+    "last_name": "Jones",
+    "first_name": "Ryan",
+    "rank": "SGT",
+    "email": "ryan.jones@nypd.org"
   },
   {
     "command": "030 PCT",
@@ -1098,18 +1146,18 @@
   {
     "command": "032 PCT",
     "sector": "B",
-    "last_name": "Garcia",
-    "first_name": "Jennifer",
-    "rank": "PO",
-    "email": "jennifer.garcia2@nypd.org"
-  },
-  {
-    "command": "032 PCT",
-    "sector": "B",
     "last_name": "Hilariomaria",
     "first_name": "Deny",
     "rank": "PO",
     "email": "deny.hilariomaria@nypd.org"
+  },
+  {
+    "command": "032 PCT",
+    "sector": "B",
+    "last_name": "Plasencia",
+    "first_name": "Jhosuar",
+    "rank": "PO",
+    "email": "jhosuar.plasencia2@nypd.org"
   },
   {
     "command": "032 PCT",
@@ -1134,6 +1182,14 @@
     "first_name": "Samantha",
     "rank": "PO",
     "email": "samantha.cabrera2@nypd.org"
+  },
+  {
+    "command": "032 PCT",
+    "sector": "D",
+    "last_name": "Lopez",
+    "first_name": "Brandon",
+    "rank": "PO",
+    "email": "brandon.lopez2@nypd.org"
   },
   {
     "command": "032 PCT",
@@ -1178,10 +1234,18 @@
   {
     "command": "033 PCT",
     "sector": "C",
-    "last_name": "Clarck",
-    "first_name": "Erick",
+    "last_name": "Dotelventura",
+    "first_name": "Waldy",
     "rank": "PO",
-    "email": "erick.clarck@nypd.org"
+    "email": "waldy.dotelventura@nypd.org"
+  },
+  {
+    "command": "033 PCT",
+    "sector": "C",
+    "last_name": "Medina",
+    "first_name": "Joel",
+    "rank": "PO",
+    "email": "joel.medina2@nypd.org"
   },
   {
     "command": "033 PCT",
@@ -1194,7 +1258,7 @@
   {
     "command": "033 PCT",
     "sector": "D",
-    "last_name": "O'Shea",
+    "last_name": "Oshea",
     "first_name": "Joseph",
     "rank": "PO",
     "email": "joseph.oshea@nypd.org"
@@ -1218,7 +1282,7 @@
   {
     "command": "034 PCT",
     "sector": "A",
-    "last_name": "Rodriguez-Joaquin",
+    "last_name": "Rodriguezjoaquin",
     "first_name": "Rafi",
     "rank": "PO",
     "email": "rafi.rodriguezjoaquin@nypd.org"
@@ -1301,15 +1365,15 @@
     "last_name": "Carter",
     "first_name": "Christopher",
     "rank": "PO",
-    "email": "christophe.carter@nypd.org"
+    "email": "christopher.carter@nypd.org"
   },
   {
     "command": "040 PCT",
     "sector": "C",
-    "last_name": "Pruner",
-    "first_name": "Christopher",
+    "last_name": "Haspil",
+    "first_name": "Nicholas",
     "rank": "PO",
-    "email": "christophe.pruner@nypd.org"
+    "email": "nicholas.haspil@nypd.org"
   },
   {
     "command": "040 PCT",
@@ -1326,6 +1390,14 @@
     "first_name": "Casey",
     "rank": "PO",
     "email": "casey.patari@nypd.org"
+  },
+  {
+    "command": "040 PCT",
+    "sector": "NCO Supervisor",
+    "last_name": "Alba",
+    "first_name": "Erik",
+    "rank": "SGT",
+    "email": "erik.alba@nypd.org"
   },
   {
     "command": "040 PCT",
@@ -1353,6 +1425,14 @@
   },
   {
     "command": "041 PCT",
+    "sector": "A",
+    "last_name": "Tavarespolanco",
+    "first_name": "Alinson",
+    "rank": "PO",
+    "email": "alinson.tavarespolanco@nypd.org"
+  },
+  {
+    "command": "041 PCT",
     "sector": "B",
     "last_name": "Casillaalmanzar",
     "first_name": "Edward",
@@ -1370,8 +1450,8 @@
   {
     "command": "041 PCT",
     "sector": "C",
-    "last_name": "Francisco",
-    "first_name": "Ogando",
+    "last_name": "Ogando",
+    "first_name": "Francisco",
     "rank": "PO",
     "email": "francisco.ogando@nypd.org"
   },
@@ -1386,6 +1466,14 @@
   {
     "command": "041 PCT",
     "sector": "D",
+    "last_name": "Achnitz",
+    "first_name": "John",
+    "rank": "PO",
+    "email": "john.achnitz@nypd.org"
+  },
+  {
+    "command": "041 PCT",
+    "sector": "D",
     "last_name": "Kim",
     "first_name": "Nicholas",
     "rank": "PO",
@@ -1394,10 +1482,10 @@
   {
     "command": "041 PCT",
     "sector": "D",
-    "last_name": "Singh",
-    "first_name": "Trevor",
+    "last_name": "Pascucci",
+    "first_name": "Nicholas",
     "rank": "PO",
-    "email": "trevor.singh@nypd.org"
+    "email": "nicholas.pascucci@nypd.org"
   },
   {
     "command": "041 PCT",
@@ -1474,10 +1562,10 @@
   {
     "command": "042 PCT",
     "sector": "NCO Supervisor",
-    "last_name": "Arroyo-Perez",
-    "first_name": "Ruben",
+    "last_name": "Aguilar",
+    "first_name": "Danny",
     "rank": "SGT",
-    "email": "ruben.arroyoperez@nypd.org"
+    "email": "danny.aguilar@nypd.org"
   },
   {
     "command": "043 PCT",
@@ -1578,10 +1666,26 @@
   {
     "command": "044 PCT",
     "sector": "A",
+    "last_name": "Ramirez",
+    "first_name": "Kevin",
+    "rank": "PO",
+    "email": "kevin.ramirez@nypd.org"
+  },
+  {
+    "command": "044 PCT",
+    "sector": "A",
     "last_name": "Sanchez",
     "first_name": "April",
     "rank": "PO",
     "email": "april.sanchez@nypd.org"
+  },
+  {
+    "command": "044 PCT",
+    "sector": "B",
+    "last_name": "Dempsey",
+    "first_name": "Vincent",
+    "rank": "PO",
+    "email": "vincent.dempsey@nypd.org"
   },
   {
     "command": "044 PCT",
@@ -1593,11 +1697,11 @@
   },
   {
     "command": "044 PCT",
-    "sector": "B",
-    "last_name": "Vincent",
-    "first_name": "Dempsey",
+    "sector": "C",
+    "last_name": "Casey",
+    "first_name": "Sean",
     "rank": "PO",
-    "email": "vincent.dempsey@nypd.org"
+    "email": "sean.casey3@nypd.org"
   },
   {
     "command": "044 PCT",
@@ -1606,14 +1710,6 @@
     "first_name": "Victor",
     "rank": "PO",
     "email": "victor.cruz3@nypd.org"
-  },
-  {
-    "command": "044 PCT",
-    "sector": "C",
-    "last_name": "Mejia",
-    "first_name": "Ramon",
-    "rank": "PO",
-    "email": "ramon.mejia@nypd.org"
   },
   {
     "command": "044 PCT",
@@ -1626,10 +1722,10 @@
   {
     "command": "044 PCT",
     "sector": "D",
-    "last_name": "Ramirez",
-    "first_name": "Kevin",
+    "last_name": "Pinto",
+    "first_name": "Raymond",
     "rank": "PO",
-    "email": "kevin.ramirez@nypd.org"
+    "email": "raymond.pinto@nypd.org"
   },
   {
     "command": "044 PCT",
@@ -1650,7 +1746,7 @@
   {
     "command": "044 PCT",
     "sector": "Housing",
-    "last_name": "Bautista",
+    "last_name": "Batista",
     "first_name": "Edward",
     "rank": "PO",
     "email": "edward.batista2@nypd.org"
@@ -1658,10 +1754,34 @@
   {
     "command": "044 PCT",
     "sector": "Housing",
+    "last_name": "Jamil",
+    "first_name": "Safayath",
+    "rank": "PO",
+    "email": "safayath.jamil@nypd.org"
+  },
+  {
+    "command": "044 PCT",
+    "sector": "Housing",
+    "last_name": "Lavender",
+    "first_name": "Zachary",
+    "rank": "PO",
+    "email": "zachary.lavender@nypd.org"
+  },
+  {
+    "command": "044 PCT",
+    "sector": "Housing",
+    "last_name": "Mejia",
+    "first_name": "Ramon",
+    "rank": "PO",
+    "email": "ramon.mejia@nypd.org"
+  },
+  {
+    "command": "044 PCT",
+    "sector": "Housing",
     "last_name": "Rodriguez",
     "first_name": "Michael",
     "rank": "PO",
-    "email": "michael.rodriguez1f7405@nypd.org"
+    "email": "michael.rodriguez1@nypd.org"
   },
   {
     "command": "044 PCT",
@@ -1690,10 +1810,10 @@
   {
     "command": "045 PCT",
     "sector": "B",
-    "last_name": "Hughes",
-    "first_name": "Michael",
+    "last_name": "Nunez",
+    "first_name": "Ivan",
     "rank": "PO",
-    "email": "michael.hughes2@nypd.org"
+    "email": "ivan.nunez2@nypd.org"
   },
   {
     "command": "045 PCT",
@@ -1729,6 +1849,22 @@
   },
   {
     "command": "046 PCT",
+    "sector": "A",
+    "last_name": "Dailey",
+    "first_name": "John",
+    "rank": "PO",
+    "email": "john.dailey@nypd.org"
+  },
+  {
+    "command": "046 PCT",
+    "sector": "A",
+    "last_name": "Vasquez",
+    "first_name": "Adrian",
+    "rank": "PO",
+    "email": "adrian.vasquez@nypd.org"
+  },
+  {
+    "command": "046 PCT",
     "sector": "B",
     "last_name": "Ramirez",
     "first_name": "Fausto",
@@ -1745,11 +1881,19 @@
   },
   {
     "command": "046 PCT",
-    "sector": "E",
-    "last_name": "Gonzalez",
-    "first_name": "Ely",
+    "sector": "D",
+    "last_name": "Lantiguataveras",
+    "first_name": "Armani",
     "rank": "PO",
-    "email": "ely.gonzalez@nypd.org"
+    "email": "armani.lantiguataveras2@nypd.org"
+  },
+  {
+    "command": "046 PCT",
+    "sector": "E",
+    "last_name": "Cecchini",
+    "first_name": "Theodore",
+    "rank": "PO",
+    "email": "theodore.cecchini@nypd.org"
   },
   {
     "command": "046 PCT",
@@ -1761,19 +1905,11 @@
   },
   {
     "command": "046 PCT",
-    "sector": "Housing - Harrison/ Sedgwick/ Twin Parks West/ University",
-    "last_name": "Pagliaroli",
-    "first_name": "Steven",
+    "sector": "E",
+    "last_name": "Rosello",
+    "first_name": "Adam",
     "rank": "PO",
-    "email": "steven.pagliaroli@nypd.org"
-  },
-  {
-    "command": "046 PCT",
-    "sector": "Housing - Harrison/ Sedgwick/ Twin Parks West/ University",
-    "last_name": "Torres",
-    "first_name": "Felix",
-    "rank": "PO",
-    "email": "felix.torres@nypd.org"
+    "email": "adam.rosello@nypd.org"
   },
   {
     "command": "046 PCT",
@@ -1782,6 +1918,14 @@
     "first_name": "Jose",
     "rank": "SGT",
     "email": "jose.rosa@nypd.org"
+  },
+  {
+    "command": "047 PCT",
+    "sector": "A",
+    "last_name": "Canale",
+    "first_name": "Vincent",
+    "rank": "PO",
+    "email": "vincent.canale@nypd.org"
   },
   {
     "command": "047 PCT",
@@ -1850,34 +1994,26 @@
   {
     "command": "048 PCT",
     "sector": "A",
-    "last_name": "Farrell",
-    "first_name": "Ruben",
+    "last_name": "Rodriguez",
+    "first_name": "Michael",
     "rank": "PO",
-    "email": "ruben.farrell@nypd.org"
+    "email": "michael.rodrigueze1013@nypd.org"
   },
   {
     "command": "048 PCT",
     "sector": "A",
-    "last_name": "Lopez",
-    "first_name": "Enmanuel",
+    "last_name": "Winston",
+    "first_name": "Jarel",
     "rank": "PO",
-    "email": "enmanuel.lopez@nypd.org"
+    "email": "jarel.winston@nypd.org"
   },
   {
     "command": "048 PCT",
     "sector": "B",
     "last_name": "Cummings",
     "first_name": "Andrew",
-    "rank": "PO",
+    "rank": "DET",
     "email": "andrew.cummings@nypd.org"
-  },
-  {
-    "command": "048 PCT",
-    "sector": "B",
-    "last_name": "Tabon",
-    "first_name": "Charnel",
-    "rank": "PO",
-    "email": "charnel.tabon@nypd.org"
   },
   {
     "command": "048 PCT",
@@ -1898,10 +2034,10 @@
   {
     "command": "048 PCT",
     "sector": "D",
-    "last_name": "Acevedo",
-    "first_name": "Taisha",
+    "last_name": "Aponterodriguez",
+    "first_name": "Jonathan",
     "rank": "PO",
-    "email": "taisha.acevedo@nypd.org"
+    "email": "jonathan.aponterodriguez@nypd.org"
   },
   {
     "command": "048 PCT",
@@ -1914,15 +2050,15 @@
   {
     "command": "048 PCT",
     "sector": "Housing - Monterey Ave/ Murphy/ Twin Parks",
-    "last_name": "Aponterodriguez",
-    "first_name": "Jonathan",
+    "last_name": "Tabon",
+    "first_name": "Charnel",
     "rank": "PO",
-    "email": "jonathan.aponterodriguez@nypd.org"
+    "email": "charnel.tabon@nypd.org"
   },
   {
     "command": "048 PCT",
     "sector": "NCO Supervisor",
-    "last_name": "Field",
+    "last_name": "Fields",
     "first_name": "Andre",
     "rank": "SGT",
     "email": "andre.fields@nypd.org"
@@ -1977,7 +2113,7 @@
   },
   {
     "command": "049 PCT",
-    "sector": "Housing - Boston Road/ Eastchester/ Parkside/ Pelham",
+    "sector": "Housing - Boston Road/Eastchester/Parkside/Pelham",
     "last_name": "Dimeglio",
     "first_name": "Gennaro",
     "rank": "PO",
@@ -1985,17 +2121,17 @@
   },
   {
     "command": "049 PCT",
-    "sector": "Housing - Boston Road/ Eastchester/ Parkside/ Pelham",
-    "last_name": "Rodriguez",
-    "first_name": "Estarlin",
-    "rank": "PO",
-    "email": "estarlin.rodriguez@nypd.org"
+    "sector": "NCO Supervisor",
+    "last_name": "Coates",
+    "first_name": "Matthew",
+    "rank": "SGT",
+    "email": "matthew.coates@nypd.org"
   },
   {
     "command": "049 PCT",
     "sector": "NCO Supervisor",
-    "last_name": "Maldonaldo",
-    "first_name": "Ramone",
+    "last_name": "Maldonado",
+    "first_name": "Ramon",
     "rank": "SGT",
     "email": "ramon.maldonado2@nypd.org"
   },
@@ -2018,8 +2154,8 @@
   {
     "command": "050 PCT",
     "sector": "B",
-    "last_name": "Jose",
-    "first_name": "Nunez-Hernandez",
+    "last_name": "Nunezhernandez",
+    "first_name": "Jose",
     "rank": "PO",
     "email": "jose.nunezhernandez@nypd.org"
   },
@@ -2034,6 +2170,14 @@
   {
     "command": "050 PCT",
     "sector": "C",
+    "last_name": "Agramonte",
+    "first_name": "Joseph",
+    "rank": "PO",
+    "email": "joseph.agramonte2@nypd.org"
+  },
+  {
+    "command": "050 PCT",
+    "sector": "C",
     "last_name": "Arroyave",
     "first_name": "Jeremy",
     "rank": "PO",
@@ -2042,10 +2186,18 @@
   {
     "command": "050 PCT",
     "sector": "C",
-    "last_name": "Joseph",
-    "first_name": "Agramonte",
+    "last_name": "Parker",
+    "first_name": "Clyde",
     "rank": "PO",
-    "email": "joseph.agramonte2@nypd.org"
+    "email": "clyde.parker@nypd.org"
+  },
+  {
+    "command": "050 PCT",
+    "sector": "Housing",
+    "last_name": "Gallagher",
+    "first_name": "Jordan",
+    "rank": "PO",
+    "email": "jordan.gallagher@nypd.org"
   },
   {
     "command": "050 PCT",
@@ -2054,14 +2206,6 @@
     "first_name": "Joseph",
     "rank": "PO",
     "email": "joseph.reeves@nypd.org"
-  },
-  {
-    "command": "050 PCT",
-    "sector": "Housing",
-    "last_name": "Tenezacaperalta",
-    "first_name": "Michael",
-    "rank": "PO",
-    "email": "michael.tenezacaperalta@nypd.org"
   },
   {
     "command": "050 PCT",
@@ -2075,7 +2219,7 @@
     "command": "052 PCT",
     "sector": "A",
     "last_name": "Perrier",
-    "first_name": "Erick",
+    "first_name": "Eric",
     "rank": "PO",
     "email": "eric.perrier@nypd.org"
   },
@@ -2110,6 +2254,14 @@
     "first_name": "Joshua",
     "rank": "PO",
     "email": "joshua.polo@nypd.org"
+  },
+  {
+    "command": "052 PCT",
+    "sector": "C",
+    "last_name": "Valentin",
+    "first_name": "Roy",
+    "rank": "PO",
+    "email": "roy.valentin@nypd.org"
   },
   {
     "command": "052 PCT",
@@ -2158,6 +2310,14 @@
     "first_name": "Jamaal",
     "rank": "PO",
     "email": "jamaal.thomas2@nypd.org"
+  },
+  {
+    "command": "060 PCT",
+    "sector": "C",
+    "last_name": "Desena",
+    "first_name": "Robert",
+    "rank": "PO",
+    "email": "robert.desena2@nypd.org"
   },
   {
     "command": "060 PCT",
@@ -2242,6 +2402,14 @@
   {
     "command": "061 PCT",
     "sector": "D",
+    "last_name": "Brown",
+    "first_name": "Kimani",
+    "rank": "PO",
+    "email": "kimani.brown@nypd.org"
+  },
+  {
+    "command": "061 PCT",
+    "sector": "D",
     "last_name": "Camarda",
     "first_name": "Andrew",
     "rank": "PO",
@@ -2249,19 +2417,11 @@
   },
   {
     "command": "061 PCT",
-    "sector": "D",
-    "last_name": "Kimani",
-    "first_name": "Brown",
-    "rank": "PO",
-    "email": "kimani.brown@nypd.org"
-  },
-  {
-    "command": "061 PCT",
     "sector": "NCO Supervisor",
-    "last_name": "John",
-    "first_name": "Siciliano",
+    "last_name": "Peterford",
+    "first_name": "Jesse",
     "rank": "SGT",
-    "email": "john.siciliano@nypd.org"
+    "email": "jesse.peterford@nypd.org"
   },
   {
     "command": "062 PCT",
@@ -2308,7 +2468,7 @@
     "sector": "C",
     "last_name": "Oggeri",
     "first_name": "Michael",
-    "rank": "PO",
+    "rank": "DET",
     "email": "michael.oggeri@nypd.org"
   },
   {
@@ -2358,14 +2518,6 @@
     "first_name": "Felicia",
     "rank": "PO",
     "email": "felicia.grant@nypd.org"
-  },
-  {
-    "command": "063 PCT",
-    "sector": "C",
-    "last_name": "Cruz",
-    "first_name": "Edwin",
-    "rank": "PO",
-    "email": "edwin.cruz5@nypd.org"
   },
   {
     "command": "063 PCT",
@@ -2442,7 +2594,7 @@
   {
     "command": "066 PCT",
     "sector": "D",
-    "last_name": "DeSanto",
+    "last_name": "Desanto",
     "first_name": "Jennifer",
     "rank": "PO",
     "email": "jennifer.desanto@nypd.org"
@@ -2545,43 +2697,19 @@
   },
   {
     "command": "068 PCT",
-    "sector": "C",
+    "sector": "D",
     "last_name": "Papamichalakis",
     "first_name": "Panagiotis",
     "rank": "PO",
     "email": "panagiotis.papamichalakis@nypd.org"
   },
   {
-    "command": "069 PCT",
-    "sector": "A",
-    "last_name": "Williams",
-    "first_name": "Courtney",
-    "rank": "PO",
-    "email": "courtney.williams@nypd.org"
-  },
-  {
-    "command": "069 PCT",
-    "sector": "B",
-    "last_name": "Baldeo",
-    "first_name": "Nicholas",
-    "rank": "PO",
-    "email": "nicholas.baldeo2@nypd.org"
-  },
-  {
-    "command": "069 PCT",
-    "sector": "D",
-    "last_name": "Singh",
-    "first_name": "Gunvinder",
-    "rank": "PO",
-    "email": "gunvinder.singh@nypd.org"
-  },
-  {
-    "command": "069 PCT",
+    "command": "068 PCT",
     "sector": "NCO Supervisor",
-    "last_name": "Maher",
-    "first_name": "Brian",
+    "last_name": "Nolasco",
+    "first_name": "Michael",
     "rank": "SGT",
-    "email": "brian.maher3@nypd.org"
+    "email": "michael.nolasco@nypd.org"
   },
   {
     "command": "070 PCT",
@@ -2626,8 +2754,8 @@
   {
     "command": "070 PCT",
     "sector": "D",
-    "last_name": "Jhonny",
-    "first_name": "Sinchi",
+    "last_name": "Sinchi",
+    "first_name": "Jhonny",
     "rank": "PO",
     "email": "jhonny.sinchi@nypd.org"
   },
@@ -2661,7 +2789,7 @@
     "last_name": "Boyle",
     "first_name": "Elijah",
     "rank": "DET",
-    "email": ""
+    "email": "elijah.boyle@nypd.org"
   },
   {
     "command": "071 PCT",
@@ -2676,7 +2804,7 @@
     "sector": "D",
     "last_name": "Montielbarrera",
     "first_name": "Leonardo",
-    "rank": "PO",
+    "rank": "DET",
     "email": "leonardo.montielbarrera@nypd.org"
   },
   {
@@ -2706,9 +2834,9 @@
   {
     "command": "072 PCT",
     "sector": "A",
-    "last_name": "McGrath",
+    "last_name": "Mcgrath",
     "first_name": "Daniel",
-    "rank": "DT2",
+    "rank": "DET",
     "email": "daniel.mcgrath@nypd.org"
   },
   {
@@ -2722,10 +2850,18 @@
   {
     "command": "072 PCT",
     "sector": "B",
-    "last_name": "O'Connor",
+    "last_name": "Oconnor",
     "first_name": "Shawn",
     "rank": "PO",
     "email": "shawn.oconnor@nypd.org"
+  },
+  {
+    "command": "072 PCT",
+    "sector": "C",
+    "last_name": "Lagrutta",
+    "first_name": "Anthony",
+    "rank": "PO",
+    "email": "anthony.lagrutta@nypd.org"
   },
   {
     "command": "072 PCT",
@@ -2753,11 +2889,27 @@
   },
   {
     "command": "072 PCT",
+    "sector": "D",
+    "last_name": "Luo",
+    "first_name": "Anthony",
+    "rank": "PO",
+    "email": "anthony.luo@nypd.org"
+  },
+  {
+    "command": "072 PCT",
     "sector": "NCO Supervisor",
-    "last_name": "Frank",
-    "first_name": "Parisi",
+    "last_name": "Parisi",
+    "first_name": "Frank",
     "rank": "SGT",
     "email": "frank.parisi@nypd.org"
+  },
+  {
+    "command": "073 PCT",
+    "sector": "A",
+    "last_name": "Baez",
+    "first_name": "Jonathan",
+    "rank": "PO",
+    "email": "jonathan.baez3@nypd.org"
   },
   {
     "command": "073 PCT",
@@ -2946,8 +3098,8 @@
   {
     "command": "076 PCT",
     "sector": "B",
-    "last_name": "Katelyn",
-    "first_name": "McGovern",
+    "last_name": "Mcgovern",
+    "first_name": "Katelyn",
     "rank": "PO",
     "email": "katelyn.mcgovern@nypd.org"
   },
@@ -3034,6 +3186,14 @@
   {
     "command": "078 PCT",
     "sector": "B",
+    "last_name": "Coriell",
+    "first_name": "Patrick",
+    "rank": "PO",
+    "email": "patrick.coriell@nypd.org"
+  },
+  {
+    "command": "078 PCT",
+    "sector": "B",
     "last_name": "Maryanovsky",
     "first_name": "David",
     "rank": "PO",
@@ -3041,15 +3201,7 @@
   },
   {
     "command": "078 PCT",
-    "sector": "C",
-    "last_name": "Coriel",
-    "first_name": "Patrick",
-    "rank": "PO",
-    "email": "patrick.coriell@nypd.org"
-  },
-  {
-    "command": "078 PCT",
-    "sector": "C",
+    "sector": "B",
     "last_name": "Torres",
     "first_name": "Andrew",
     "rank": "PO",
@@ -3066,7 +3218,7 @@
   {
     "command": "078 PCT",
     "sector": "NCO Supervisor",
-    "last_name": "McKnight",
+    "last_name": "Mcknight",
     "first_name": "William",
     "rank": "SGT",
     "email": "william.mcknight@nypd.org"
@@ -3090,10 +3242,10 @@
   {
     "command": "079 PCT",
     "sector": "B",
-    "last_name": "Carton",
-    "first_name": "Brian",
+    "last_name": "Morris",
+    "first_name": "Ashur",
     "rank": "PO",
-    "email": "brian.carton@nypd.org"
+    "email": "ashur.morris2@nypd.org"
   },
   {
     "command": "079 PCT",
@@ -3210,7 +3362,7 @@
   {
     "command": "081 PCT",
     "sector": "NCO Supervisor",
-    "last_name": "Jean-Francois",
+    "last_name": "Jeanfrancois",
     "first_name": "Remy",
     "rank": "SGT",
     "email": "remy.jeanfrancois@nypd.org"
@@ -3234,10 +3386,10 @@
   {
     "command": "083 PCT",
     "sector": "B",
-    "last_name": "Dzwonek",
-    "first_name": "Matthew",
+    "last_name": "Charles",
+    "first_name": "Brandon",
     "rank": "PO",
-    "email": "matthew.dzwonek@nypd.org"
+    "email": "brandon.charles@nypd.org"
   },
   {
     "command": "083 PCT",
@@ -3258,10 +3410,18 @@
   {
     "command": "083 PCT",
     "sector": "D",
-    "last_name": "Anderson",
-    "first_name": "Stfleur",
+    "last_name": "Stfleur",
+    "first_name": "Anderson",
     "rank": "PO",
     "email": "anderson.stfleur@nypd.org"
+  },
+  {
+    "command": "083 PCT",
+    "sector": "E",
+    "last_name": "Astudillo",
+    "first_name": "Kristian",
+    "rank": "PO",
+    "email": "kristian.astudillo@nypd.org"
   },
   {
     "command": "083 PCT",
@@ -3290,7 +3450,7 @@
   {
     "command": "084 PCT",
     "sector": "A",
-    "last_name": "SanJose",
+    "last_name": "Sanjose",
     "first_name": "Jeffrey",
     "rank": "PO",
     "email": "jeffrey.sanjose@nypd.org"
@@ -3386,6 +3546,14 @@
   {
     "command": "088 PCT",
     "sector": "C",
+    "last_name": "Arcos",
+    "first_name": "Bradley",
+    "rank": "PO",
+    "email": "bradley.arcos@nypd.org"
+  },
+  {
+    "command": "088 PCT",
+    "sector": "C",
     "last_name": "Barclay",
     "first_name": "Tyrell",
     "rank": "PO",
@@ -3394,10 +3562,10 @@
   {
     "command": "088 PCT",
     "sector": "C",
-    "last_name": "Gouvousis",
-    "first_name": "George",
+    "last_name": "Kamboj",
+    "first_name": "Navdeep",
     "rank": "PO",
-    "email": "george.gouvousis@nypd.org"
+    "email": "navdeep.kamboj@nypd.org"
   },
   {
     "command": "088 PCT",
@@ -3442,6 +3610,14 @@
   {
     "command": "090 PCT",
     "sector": "B",
+    "last_name": "Beatty",
+    "first_name": "Biyanah",
+    "rank": "PO",
+    "email": "biyanah.beatty@nypd.org"
+  },
+  {
+    "command": "090 PCT",
+    "sector": "B",
     "last_name": "Sidhu",
     "first_name": "Prince",
     "rank": "PO",
@@ -3474,6 +3650,22 @@
   {
     "command": "090 PCT",
     "sector": "D",
+    "last_name": "Beltran",
+    "first_name": "Alexander",
+    "rank": "PO",
+    "email": "alexander.beltran@nypd.org"
+  },
+  {
+    "command": "090 PCT",
+    "sector": "D",
+    "last_name": "Hodge",
+    "first_name": "Tameka",
+    "rank": "PO",
+    "email": "tameka.hodge@nypd.org"
+  },
+  {
+    "command": "090 PCT",
+    "sector": "D",
     "last_name": "Kim",
     "first_name": "Bryan",
     "rank": "PO",
@@ -3499,7 +3691,7 @@
     "command": "094 PCT",
     "sector": "A",
     "last_name": "Galante",
-    "first_name": "Marie",
+    "first_name": "Maria",
     "rank": "PO",
     "email": "maria.galante2@nypd.org"
   },
@@ -3548,7 +3740,7 @@
     "sector": "NCO Supervisor",
     "last_name": "Seubert",
     "first_name": "Thomas",
-    "rank": "PO",
+    "rank": "SGT",
     "email": "thomas.seubert@nypd.org"
   },
   {
@@ -3658,14 +3850,6 @@
   {
     "command": "101 PCT",
     "sector": "D",
-    "last_name": "Demerest",
-    "first_name": "Jacqueline",
-    "rank": "DET",
-    "email": "jacqueline.demerest@nypd.org"
-  },
-  {
-    "command": "101 PCT",
-    "sector": "D",
     "last_name": "Nunez",
     "first_name": "Osvaldo",
     "rank": "PO",
@@ -3716,8 +3900,16 @@
     "sector": "C",
     "last_name": "Bohan",
     "first_name": "Michael",
-    "rank": "PO",
+    "rank": "SGT",
     "email": "michael.bohan@nypd.org"
+  },
+  {
+    "command": "102 PCT",
+    "sector": "C",
+    "last_name": "Vasconez",
+    "first_name": "Jacob",
+    "rank": "PO",
+    "email": "jacob.vasconez@nypd.org"
   },
   {
     "command": "102 PCT",
@@ -3769,6 +3961,14 @@
   },
   {
     "command": "103 PCT",
+    "sector": "B",
+    "last_name": "Wong",
+    "first_name": "Rich",
+    "rank": "PO",
+    "email": "rich.wong@nypd.org"
+  },
+  {
+    "command": "103 PCT",
     "sector": "C",
     "last_name": "Gullo",
     "first_name": "Nicholas",
@@ -3801,19 +4001,11 @@
   },
   {
     "command": "103 PCT",
-    "sector": "Jamaica Ave BID",
-    "last_name": "Gromling",
-    "first_name": "Gregory",
-    "rank": "PO",
-    "email": "gregory.gromling@nypd.org"
-  },
-  {
-    "command": "103 PCT",
-    "sector": "Jamaica Ave BID",
-    "last_name": "Webber",
-    "first_name": "Brian",
-    "rank": "PO",
-    "email": "brian.webber@nypd.org"
+    "sector": "NCO Supervisor",
+    "last_name": "Evans",
+    "first_name": "Matthew",
+    "rank": "SGT",
+    "email": "matthew.evans2@nypd.org"
   },
   {
     "command": "103 PCT",
@@ -3838,14 +4030,6 @@
     "first_name": "Christian",
     "rank": "PO",
     "email": "christian.gonzalez2@nypd.org"
-  },
-  {
-    "command": "104 PCT",
-    "sector": "C",
-    "last_name": "Hamilton",
-    "first_name": "Tiara",
-    "rank": "PO",
-    "email": "tiara.hamilton@nypd.org"
   },
   {
     "command": "104 PCT",
@@ -3932,28 +4116,28 @@
     "sector": "E",
     "last_name": "Villanueva",
     "first_name": "Juan",
-    "rank": "PO",
+    "rank": "DET",
     "email": "juan.villanueva@nypd.org"
   },
   {
-    "command": "105 PCT",
-    "sector": "NCO Supervisor",
-    "last_name": "Russo",
-    "first_name": "Michael",
-    "rank": "SGT",
-    "email": "michael.russo7@nypd.org"
-  },
-  {
     "command": "106 PCT",
     "sector": "A",
-    "last_name": "Frazier",
-    "first_name": "Marjorie",
+    "last_name": "Fischer",
+    "first_name": "Matthew",
     "rank": "PO",
-    "email": "marjorie.frazier@nypd.org"
+    "email": "matthew.fischer@nypd.org"
   },
   {
     "command": "106 PCT",
     "sector": "A",
+    "last_name": "Oneilmoorer",
+    "first_name": "Dominique",
+    "rank": "PO",
+    "email": "dominique.oneilmoorer@nypd.org"
+  },
+  {
+    "command": "106 PCT",
+    "sector": "B",
     "last_name": "Milani",
     "first_name": "Anthony",
     "rank": "PO",
@@ -4009,19 +4193,19 @@
   },
   {
     "command": "106 PCT",
+    "sector": "D",
+    "last_name": "Frazier",
+    "first_name": "Marjorie",
+    "rank": "PO",
+    "email": "marjorie.frazier@nypd.org"
+  },
+  {
+    "command": "106 PCT",
     "sector": "NCO Supervisor",
     "last_name": "Presti",
     "first_name": "Keith",
     "rank": "SGT",
     "email": "keith.presti@nypd.org"
-  },
-  {
-    "command": "107 PCT",
-    "sector": "A",
-    "last_name": "Danca",
-    "first_name": "Gregory",
-    "rank": "PO",
-    "email": "gregory.danca@nypd.org"
   },
   {
     "command": "107 PCT",
@@ -4073,14 +4257,6 @@
   },
   {
     "command": "107 PCT",
-    "sector": "D",
-    "last_name": "Mulieri",
-    "first_name": "Michael",
-    "rank": "PO",
-    "email": "michael.mulieri@nypd.org"
-  },
-  {
-    "command": "107 PCT",
     "sector": "NCO Supervisor",
     "last_name": "Yang",
     "first_name": "Yanrong",
@@ -4098,7 +4274,7 @@
   {
     "command": "108 PCT",
     "sector": "B",
-    "last_name": "Cardona-Quintero",
+    "last_name": "Cardonaquintero",
     "first_name": "Mayra",
     "rank": "PO",
     "email": "mayra.cardonaquintero@nypd.org"
@@ -4138,7 +4314,7 @@
   {
     "command": "108 PCT",
     "sector": "D",
-    "last_name": "Rodriguez-Perez",
+    "last_name": "Rodriguezperez",
     "first_name": "Carolyn",
     "rank": "PO",
     "email": "carolyn.rodriguezperez2@nypd.org"
@@ -4180,7 +4356,7 @@
     "sector": "B",
     "last_name": "Sheridan",
     "first_name": "Christopher",
-    "rank": "DET",
+    "rank": "PO",
     "email": "christopher.sheridan@nypd.org"
   },
   {
@@ -4217,22 +4393,6 @@
   },
   {
     "command": "109 PCT",
-    "sector": "Housing - Bland/ Latimer",
-    "last_name": "Cutaia",
-    "first_name": "Anthony",
-    "rank": "DET",
-    "email": "anthony.cutaia@nypd.org"
-  },
-  {
-    "command": "109 PCT",
-    "sector": "Housing - Bland/ Latimer",
-    "last_name": "Daddino",
-    "first_name": "Daniel",
-    "rank": "PO",
-    "email": "daniel.daddino@nypd.org"
-  },
-  {
-    "command": "109 PCT",
     "sector": "NCO Supervisor",
     "last_name": "Chan",
     "first_name": "Ethan",
@@ -4258,10 +4418,10 @@
   {
     "command": "110 PCT",
     "sector": "B",
-    "last_name": "Fuentes",
-    "first_name": "William",
+    "last_name": "Henriquez",
+    "first_name": "Brendan",
     "rank": "PO",
-    "email": "william.fuentes@nypd.org"
+    "email": "brendan.henriquez2@nypd.org"
   },
   {
     "command": "110 PCT",
@@ -4274,18 +4434,18 @@
   {
     "command": "110 PCT",
     "sector": "C",
-    "last_name": "Delanuez",
-    "first_name": "Stephanie",
+    "last_name": "Fuentes",
+    "first_name": "William",
     "rank": "PO",
-    "email": "stephanie.delanuez@nypd.org"
+    "email": "william.fuentes@nypd.org"
   },
   {
     "command": "110 PCT",
     "sector": "C",
-    "last_name": "Henriquez",
-    "first_name": "Brendan",
+    "last_name": "Yewang",
+    "first_name": "Rui",
     "rank": "PO",
-    "email": "brendan.henriquez2@nypd.org"
+    "email": "rui.yewang@nypd.org"
   },
   {
     "command": "110 PCT",
@@ -4346,18 +4506,18 @@
   {
     "command": "111 PCT",
     "sector": "C",
-    "last_name": "Kaur",
-    "first_name": "Jaswinder",
+    "last_name": "Chauhan",
+    "first_name": "Shahrose",
     "rank": "PO",
-    "email": "jaswinder.kaur@nypd.org"
+    "email": "shahrose.chauhan2@nypd.org"
   },
   {
     "command": "111 PCT",
     "sector": "C",
-    "last_name": "Li",
-    "first_name": "Kenny",
+    "last_name": "Kaur",
+    "first_name": "Jaswinder",
     "rank": "PO",
-    "email": "kenny.li2@nypd.org"
+    "email": "jaswinder.kaur@nypd.org"
   },
   {
     "command": "111 PCT",
@@ -4522,6 +4682,14 @@
   {
     "command": "113 PCT",
     "sector": "E",
+    "last_name": "Odonnell",
+    "first_name": "Zoe",
+    "rank": "PO",
+    "email": "zoe.odonnell@nypd.org"
+  },
+  {
+    "command": "113 PCT",
+    "sector": "E",
     "last_name": "Olivero",
     "first_name": "Joseph",
     "rank": "PO",
@@ -4533,7 +4701,7 @@
     "last_name": "Sousa",
     "first_name": "Joseph",
     "rank": "SGT",
-    "email": ""
+    "email": "joseph.sousa@nypd.org"
   },
   {
     "command": "114 PCT",
@@ -4542,6 +4710,22 @@
     "first_name": "Mariusz",
     "rank": "DET",
     "email": "mariusz.krala@nypd.org"
+  },
+  {
+    "command": "114 PCT",
+    "sector": "A",
+    "last_name": "Sweeney",
+    "first_name": "Sean",
+    "rank": "PO",
+    "email": "sean.sweeney@nypd.org"
+  },
+  {
+    "command": "114 PCT",
+    "sector": "B",
+    "last_name": "Calcano",
+    "first_name": "Briana",
+    "rank": "PO",
+    "email": "briana.calcano@nypd.org"
   },
   {
     "command": "114 PCT",
@@ -4570,6 +4754,14 @@
   {
     "command": "114 PCT",
     "sector": "D",
+    "last_name": "Santangelo",
+    "first_name": "Annamarie",
+    "rank": "PO",
+    "email": "annamarie.santangelo@nypd.org"
+  },
+  {
+    "command": "114 PCT",
+    "sector": "D",
     "last_name": "Veloz",
     "first_name": "Alberto",
     "rank": "PO",
@@ -4582,6 +4774,14 @@
     "first_name": "David",
     "rank": "SGT",
     "email": "david.gomez3@nypd.org"
+  },
+  {
+    "command": "114 PCT",
+    "sector": "NCO Supervisor",
+    "last_name": "Yoon",
+    "first_name": "Daniel",
+    "rank": "SGT",
+    "email": "daniel.yoon@nypd.org"
   },
   {
     "command": "115 PCT",
@@ -4602,8 +4802,8 @@
   {
     "command": "115 PCT",
     "sector": "B",
-    "last_name": "Eric",
-    "first_name": "Shmuel",
+    "last_name": "Shmuel",
+    "first_name": "Eric",
     "rank": "PO",
     "email": "eric.shmuel@nypd.org"
   },
@@ -4656,12 +4856,12 @@
     "email": "luis.cabrera@nypd.org"
   },
   {
-    "command": "120 PCT",
-    "sector": "A",
-    "last_name": "Ferrette",
-    "first_name": "Ryan",
-    "rank": "PO",
-    "email": "ryan.ferrette@nypd.org"
+    "command": "115 PCT",
+    "sector": "NCO Supervisor",
+    "last_name": "Peters",
+    "first_name": "Matthew",
+    "rank": "SGT",
+    "email": "matthew.peters@nypd.org"
   },
   {
     "command": "120 PCT",
@@ -4670,6 +4870,14 @@
     "first_name": "Sasha",
     "rank": "PO",
     "email": "sasha.george@nypd.org"
+  },
+  {
+    "command": "120 PCT",
+    "sector": "A",
+    "last_name": "Spencer",
+    "first_name": "Khalaf",
+    "rank": "PO",
+    "email": "khalaf.spencer@nypd.org"
   },
   {
     "command": "120 PCT",
@@ -4698,6 +4906,14 @@
   {
     "command": "120 PCT",
     "sector": "C",
+    "last_name": "Meems",
+    "first_name": "William",
+    "rank": "PO",
+    "email": "william.meems@nypd.org"
+  },
+  {
+    "command": "120 PCT",
+    "sector": "C",
     "last_name": "Smith",
     "first_name": "Gregory",
     "rank": "DET",
@@ -4714,14 +4930,22 @@
   {
     "command": "120 PCT",
     "sector": "D",
-    "last_name": "Gramlich",
-    "first_name": "James",
+    "last_name": "Fraumeni",
+    "first_name": "Michael",
     "rank": "PO",
-    "email": "james.gramlich@nypd.org"
+    "email": "michael.fraumeni@nypd.org"
   },
   {
     "command": "120 PCT",
-    "sector": "Housing - Cassidy/ Jersey St/ Richmond Terrace",
+    "sector": "D",
+    "last_name": "Rugolo",
+    "first_name": "Michael",
+    "rank": "PO",
+    "email": "michael.rugolo@nypd.org"
+  },
+  {
+    "command": "120 PCT",
+    "sector": "Housing - Richmond Terrace",
     "last_name": "Geoghegan",
     "first_name": "Thomas",
     "rank": "PO",
@@ -4729,27 +4953,11 @@
   },
   {
     "command": "120 PCT",
-    "sector": "Housing - Cassidy/ Jersey St/ Richmond Terrace",
+    "sector": "Housing - Richmond Terrace",
     "last_name": "Pastran",
     "first_name": "Elmer",
     "rank": "PO",
     "email": "elmer.pastran@nypd.org"
-  },
-  {
-    "command": "120 PCT",
-    "sector": "Housing - Park Hill",
-    "last_name": "Conanan",
-    "first_name": "Adam",
-    "rank": "PO",
-    "email": "adam.conanan@nypd.org"
-  },
-  {
-    "command": "120 PCT",
-    "sector": "Housing - Park Hill",
-    "last_name": "Rugolo",
-    "first_name": "Michael",
-    "rank": "PO",
-    "email": "michael.rugolo@nypd.org"
   },
   {
     "command": "120 PCT",
@@ -4778,10 +4986,26 @@
   {
     "command": "120 PCT",
     "sector": "Housing - West Brighton",
+    "last_name": "Ferrette",
+    "first_name": "Ryan",
+    "rank": "PO",
+    "email": "ryan.ferrette@nypd.org"
+  },
+  {
+    "command": "120 PCT",
+    "sector": "Housing - West Brighton",
     "last_name": "Kaleem",
     "first_name": "Anza",
     "rank": "PO",
     "email": "anza.kaleem@nypd.org"
+  },
+  {
+    "command": "120 PCT",
+    "sector": "NCO Supervisor",
+    "last_name": "Crecca",
+    "first_name": "Anthony",
+    "rank": "SGT",
+    "email": "anthony.crecca@nypd.org"
   },
   {
     "command": "120 PCT",
@@ -4800,12 +5024,12 @@
     "email": "christopher.schiro@nypd.org"
   },
   {
-    "command": "121 PCT",
-    "sector": "A",
-    "last_name": "Abdella",
-    "first_name": "Ahmad",
-    "rank": "PO",
-    "email": "ahmad.abdella2@nypd.org"
+    "command": "120 PCT",
+    "sector": "NCO Supervisor",
+    "last_name": "Schiro",
+    "first_name": "Christopher",
+    "rank": "SGT",
+    "email": "christopher.schiro@nypd.org"
   },
   {
     "command": "121 PCT",
@@ -4818,18 +5042,18 @@
   {
     "command": "121 PCT",
     "sector": "A",
-    "last_name": "Gungor",
-    "first_name": "Cem",
-    "rank": "PO",
-    "email": "cem.gungor@nypd.org"
-  },
-  {
-    "command": "121 PCT",
-    "sector": "A",
     "last_name": "Maisano",
     "first_name": "Anthony",
     "rank": "PO",
     "email": "anthony.maisano@nypd.org"
+  },
+  {
+    "command": "121 PCT",
+    "sector": "B",
+    "last_name": "Dambakly",
+    "first_name": "Thomas",
+    "rank": "PO",
+    "email": "thomas.dambakly@nypd.org"
   },
   {
     "command": "121 PCT",
@@ -4849,6 +5073,22 @@
   },
   {
     "command": "121 PCT",
+    "sector": "C",
+    "last_name": "Brown",
+    "first_name": "Stephen",
+    "rank": "PO",
+    "email": "stephen.brown@nypd.org"
+  },
+  {
+    "command": "121 PCT",
+    "sector": "D",
+    "last_name": "Geloso",
+    "first_name": "Donald",
+    "rank": "PO",
+    "email": "donald.geloso@nypd.org"
+  },
+  {
+    "command": "121 PCT",
     "sector": "D",
     "last_name": "Nickel",
     "first_name": "Brandon",
@@ -4857,11 +5097,27 @@
   },
   {
     "command": "121 PCT",
-    "sector": "Housing - Mariners Harbor",
+    "sector": "Housing - Mariner's Harbor",
     "last_name": "Centner",
     "first_name": "Steven",
     "rank": "PO",
     "email": "steven.centner@nypd.org"
+  },
+  {
+    "command": "121 PCT",
+    "sector": "Housing - Mariner's Harbor",
+    "last_name": "Centner",
+    "first_name": "Steven",
+    "rank": "PO",
+    "email": "steven.centner@nypd.org"
+  },
+  {
+    "command": "121 PCT",
+    "sector": "Housing - Mariners Harbor",
+    "last_name": "Poveromo",
+    "first_name": "John",
+    "rank": "PO",
+    "email": "john.poveromo@nypd.org"
   },
   {
     "command": "121 PCT",
@@ -4880,12 +5136,12 @@
     "email": "daniel.commender@nypd.org"
   },
   {
-    "command": "122 PCT",
-    "sector": "A",
-    "last_name": "Ramos",
-    "first_name": "Wilfredo",
+    "command": "121 PCT",
+    "sector": "Neighborhood Coordination Officer",
+    "last_name": "Geloso",
+    "first_name": "Donald",
     "rank": "PO",
-    "email": "wilfredo.ramos2@nypd.org"
+    "email": "donald.geloso@nypd.org"
   },
   {
     "command": "122 PCT",
@@ -4932,7 +5188,7 @@
     "sector": "Housing - Berry",
     "last_name": "Baez",
     "first_name": "Juan",
-    "rank": "PO",
+    "rank": "DET",
     "email": "juan.baez@nypd.org"
   },
   {
@@ -4945,19 +5201,11 @@
   },
   {
     "command": "122 PCT",
-    "sector": "Housing - South Beach",
-    "last_name": "Dmitriev",
-    "first_name": "Michael",
+    "sector": "NCO Housing - Berry",
+    "last_name": "Ramos",
+    "first_name": "Wilfredo",
     "rank": "PO",
-    "email": "michael.dmitriev@nypd.org"
-  },
-  {
-    "command": "122 PCT",
-    "sector": "Housing - Todt Hill",
-    "last_name": "Affatigato",
-    "first_name": "Vincent",
-    "rank": "PO",
-    "email": "vincent.affatigato@nypd.org"
+    "email": "wilfredo.ramos2@nypd.org"
   },
   {
     "command": "122 PCT",
@@ -4973,7 +5221,7 @@
     "last_name": "Gonzalez",
     "first_name": "Christopher",
     "rank": "PO",
-    "email": "christophe.gonzalez3@nypd.org"
+    "email": "christopher.gonzalez@nypd.org"
   },
   {
     "command": "123 PCT",
