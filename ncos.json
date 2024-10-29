@@ -3745,7 +3745,7 @@
   },
   {
     "command": "1",
-    "sector": "Bayview/Glenwood (63 & 69)",
+    "sector": "Bayview/Glenwood (63 Precinct & 69 Precinct)",
     "last_name": "Ledey",
     "first_name": "Cristalee",
     "rank": "PO",
@@ -3753,7 +3753,7 @@
   },
   {
     "command": "1",
-    "sector": "Bayview/Glenwood (63 & 69)",
+    "sector": "Bayview/Glenwood (63 Precinct & 69 Precinct)",
     "last_name": "Nelms",
     "first_name": "Johnny",
     "rank": "PO",
@@ -3761,7 +3761,7 @@
   },
   {
     "command": "1",
-    "sector": "Bruekelen/Bayview/Glenwood (63 & 69)",
+    "sector": "Bruekelen/Glenwood (63 Precinct & 69 Precinct)",
     "last_name": "Lazarre",
     "first_name": "Kerlens",
     "rank": "DET",
@@ -3769,7 +3769,7 @@
   },
   {
     "command": "1",
-    "sector": "Bruekelen/Bayview/Glenwood (63 & 69)",
+    "sector": "Bruekelen/Glenwood (63 Precinct & 69 Precinct)",
     "last_name": "Perry",
     "first_name": "Isaac",
     "rank": "PO",
@@ -3777,7 +3777,7 @@
   },
   {
     "command": "1",
-    "sector": "Haber/Sites 4&5/Surfside/Gravesend (60)",
+    "sector": "Haber/Sites 4&5/Surfside/Gravesend (60 Precinct)",
     "last_name": "Freue",
     "first_name": "Gabriela",
     "rank": "PO",
@@ -3785,7 +3785,7 @@
   },
   {
     "command": "1",
-    "sector": "Haber/Sites 4&5/Surfside/Gravesend (60)",
+    "sector": "Haber/Sites 4&5/Surfside/Gravesend (60 Precinct)",
     "last_name": "Hill",
     "first_name": "Michael",
     "rank": "PO",
@@ -3809,7 +3809,7 @@
   },
   {
     "command": "1",
-    "sector": "Red Hook/ Warren/ Wyckoff (76 & 78)",
+    "sector": "Red Hook/ Warren/ Wyckoff (76 Precinct & 78 Precinct)",
     "last_name": "Kortright",
     "first_name": "Jose",
     "rank": "PO",
@@ -3817,7 +3817,7 @@
   },
   {
     "command": "1",
-    "sector": "Red Hook/ Warren/ Wyckoff (76 & 78)",
+    "sector": "Red Hook/ Warren/ Wyckoff (76 Precinct & 78 Precinct)",
     "last_name": "Louis",
     "first_name": "Wilbert",
     "rank": "DET",
@@ -3825,7 +3825,7 @@
   },
   {
     "command": "1",
-    "sector": "Red Hook/Gowanus (76)",
+    "sector": "Red Hook/Gowanus (76 Precinct)",
     "last_name": "Balram",
     "first_name": "Kevin",
     "rank": "PO",
@@ -3833,7 +3833,7 @@
   },
   {
     "command": "1",
-    "sector": "Red Hook/Gowanus (76)",
+    "sector": "Red Hook/Gowanus (76 Precinct)",
     "last_name": "Lali",
     "first_name": "Deepnoor",
     "rank": "PO",
@@ -5369,7 +5369,7 @@
   },
   {
     "command": "2",
-    "sector": "Albany/Park Rock/Crown Heights (77)",
+    "sector": "Albany/Park Rock/Crown Heights (77 Precinct)",
     "last_name": "Osagie",
     "first_name": "Ashley",
     "rank": "PO",
@@ -5377,7 +5377,7 @@
   },
   {
     "command": "2",
-    "sector": "Boulevard/LIB/Unity (75)",
+    "sector": "Boulevard/LIB/Unity (75 Precinct)",
     "last_name": "Morel",
     "first_name": "Maximo",
     "rank": "PO",
@@ -5385,7 +5385,7 @@
   },
   {
     "command": "2",
-    "sector": "Boulevard/LIB/Unity (75)",
+    "sector": "Boulevard/LIB/Unity (75 Precinct)",
     "last_name": "Serraty",
     "first_name": "Brandon",
     "rank": "PO",
@@ -5393,7 +5393,7 @@
   },
   {
     "command": "2",
-    "sector": "Brownsville (73)",
+    "sector": "Brownsville (73 Precinct)",
     "last_name": "Garciamendez",
     "first_name": "Juan",
     "rank": "PO",
@@ -5401,7 +5401,7 @@
   },
   {
     "command": "2",
-    "sector": "Cypress/ENY City Line (75)",
+    "sector": "Cypress/ENY City Line (75 Precinct)",
     "last_name": "Vargas",
     "first_name": "Miguel",
     "rank": "DET",
@@ -5409,7 +5409,7 @@
   },
   {
     "command": "2",
-    "sector": "Kingsborough/Ocean Hill/Brownsville (75)",
+    "sector": "Kingsborough/Ocean Hill/Brownsville (75 Precinct)",
     "last_name": "Venza",
     "first_name": "Jerome",
     "rank": "PO",
@@ -5417,7 +5417,7 @@
   },
   {
     "command": "2",
-    "sector": "Langston Hughes/Ralph Ave (73)",
+    "sector": "Langston Hughes/Ralph Ave (73 Precinct)",
     "last_name": "Reynolds",
     "first_name": "Lori",
     "rank": "PO",
@@ -5425,7 +5425,7 @@
   },
   {
     "command": "2",
-    "sector": "Marcus Garvey/Brownsite 115 (73)",
+    "sector": "Marcus Garvey/Brownsite 115 (73 Precinct)",
     "last_name": "Brown",
     "first_name": "Joshua",
     "rank": "PO",
@@ -5457,7 +5457,7 @@
   },
   {
     "command": "2",
-    "sector": "Ocean Hill/Saratoga Village/Howard Ave (73)",
+    "sector": "Ocean Hill/Saratoga Village/Howard Ave (73 Precinct)",
     "last_name": "Mercorio",
     "first_name": "Michael",
     "rank": "PO",
@@ -5465,7 +5465,7 @@
   },
   {
     "command": "2",
-    "sector": "Pink/Florentino/Belmont-Sutter (75)",
+    "sector": "Pink/Florentino/Belmont-Sutter (75 Precinct)",
     "last_name": "Romero",
     "first_name": "Brian",
     "rank": "PO",
@@ -5473,7 +5473,7 @@
   },
   {
     "command": "2",
-    "sector": "Seth Low/Glenmore",
+    "sector": "Seth Low/Glenmore (73 Precinct)",
     "last_name": "Ardouin",
     "first_name": "Roodjery",
     "rank": "PO",
@@ -5481,7 +5481,7 @@
   },
   {
     "command": "2",
-    "sector": "Sutter Union/Howard (73)",
+    "sector": "Sutter Union/Howard (73 Precinct)",
     "last_name": "Demin",
     "first_name": "Igor",
     "rank": "PO",
@@ -5489,7 +5489,7 @@
   },
   {
     "command": "2",
-    "sector": "Tapscott/104-14 Tapscott/Howard Ave (73)",
+    "sector": "Tapscott/104-14 Tapscott/Howard Ave (73 Precinct)",
     "last_name": "Kalwa",
     "first_name": "Mark",
     "rank": "PO",
@@ -5497,7 +5497,7 @@
   },
   {
     "command": "2",
-    "sector": "Tilden (73)",
+    "sector": "Tilden (73 Precinct)",
     "last_name": "Perez",
     "first_name": "Pedro",
     "rank": "PO",
@@ -5505,7 +5505,7 @@
   },
   {
     "command": "2",
-    "sector": "Van Dyke/Woodson (73)",
+    "sector": "Van Dyke/Woodson (73 Precinct)",
     "last_name": "Rallo",
     "first_name": "Vincenzo",
     "rank": "PO",
@@ -5513,7 +5513,7 @@
   },
   {
     "command": "2",
-    "sector": "Weeksville/Sterling PL/Sterling/Buffalo (77)",
+    "sector": "Weeksville/Sterling PL/Sterling/Buffalo (77 Precinct)",
     "last_name": "Andre",
     "first_name": "Gregory",
     "rank": "DET",
@@ -5521,7 +5521,7 @@
   },
   {
     "command": "3",
-    "sector": "Bushwick/Borenquin/Williamsburg (90)",
+    "sector": "Bushwick/Borinquen/Williamsburg (90 Precinct)",
     "last_name": "Galarza",
     "first_name": "Sabrina",
     "rank": "PO",
@@ -5529,7 +5529,7 @@
   },
   {
     "command": "3",
-    "sector": "Bushwick/Borenquin/Williamsburg (90)",
+    "sector": "Bushwick/Borinquen/Williamsburg (90 Precinct)",
     "last_name": "Salcedo",
     "first_name": "Isaiah",
     "rank": "PO",
@@ -5537,7 +5537,7 @@
   },
   {
     "command": "3",
-    "sector": "Independence/Taylor Wythe/Williams Plaza/Berry (90)",
+    "sector": "Independence/Taylor Wythe/Williams Plaza/Berry                      (90 Precinct)",
     "last_name": "Ahmemulic",
     "first_name": "Haris",
     "rank": "PO",
@@ -5545,7 +5545,7 @@
   },
   {
     "command": "3",
-    "sector": "Independence/Taylor Wythe/Williams Plaza/Berry (90)",
+    "sector": "Independence/Taylor Wythe/Williams Plaza/Berry                      (90 Precinct)",
     "last_name": "Jones",
     "first_name": "Jazeel",
     "rank": "PO",
@@ -5553,7 +5553,7 @@
   },
   {
     "command": "3",
-    "sector": "Ingersoll/Walt/Whitman/Farragt/Atlantic Terminal (88)",
+    "sector": "Ingersoll/Whitman/Farragut/Atlantic Terminal                              (88 Precinct)",
     "last_name": "Kania",
     "first_name": "Olivia",
     "rank": "PO",
@@ -5561,7 +5561,7 @@
   },
   {
     "command": "3",
-    "sector": "Ingersoll/Walt/Whitman/Farragt/Atlantic Terminal (88)",
+    "sector": "Ingersoll/Whitman/Farragut/Atlantic Terminal                              (88 Precinct)",
     "last_name": "Martinez",
     "first_name": "Jairo",
     "rank": "PO",
@@ -5569,7 +5569,7 @@
   },
   {
     "command": "3",
-    "sector": "Lafayette/Louis Armstrong/Sumner/ Gardens (79)",
+    "sector": "Lafayette/Louis Armstrong/Sumner/ Gardens (79 Precinct)",
     "last_name": "Wright",
     "first_name": "Jauneil",
     "rank": "PO",
@@ -5577,7 +5577,7 @@
   },
   {
     "command": "3",
-    "sector": "Lafayette/Louis Armstrong/Sumner/Gardens (79)",
+    "sector": "Lafayette/Louis Armstrong/Sumner/Gardens (79 Precinct)",
     "last_name": "Gray",
     "first_name": "Sheena",
     "rank": "PO",
@@ -5585,7 +5585,7 @@
   },
   {
     "command": "3",
-    "sector": "Marcy/Tompkins/303 Vernon/Bed Stuy Rehab (79)",
+    "sector": "Marcy/Tompkins/303 Vernon (79 Precinct)",
     "last_name": "Acevedo",
     "first_name": "Natalie",
     "rank": "PO",
@@ -5593,7 +5593,7 @@
   },
   {
     "command": "3",
-    "sector": "Marcy/Tompkins/303 Vernon/Bed Stuy Rehab (79)",
+    "sector": "Marcy/Tompkins/303 Vernon (79 Precinct)",
     "last_name": "St.Pierre",
     "first_name": "Jeffrey",
     "rank": "PO",
@@ -5609,7 +5609,7 @@
   },
   {
     "command": "3",
-    "sector": "Roosevelt/Brevort/Stuy Gardens (81)",
+    "sector": "Roosevelt/Brevoort/Stuy Gardens (81 Precinct)",
     "last_name": "Espinoza",
     "first_name": "Jesenia",
     "rank": "PO",
@@ -5617,7 +5617,7 @@
   },
   {
     "command": "3",
-    "sector": "Roosevelt/Brevort/Stuy Gardens (81)",
+    "sector": "Roosevelt/Brevoort/Stuy Gardens (81 Precinct)",
     "last_name": "Moore",
     "first_name": "Ivan",
     "rank": "PO",
@@ -5625,7 +5625,7 @@
   },
   {
     "command": "4",
-    "sector": "45 Allen/Hernandez/LES1/Smith (5)",
+    "sector": "45 Allen/Hernandez/LES1/Smith (5 Precinct)",
     "last_name": "Mangal",
     "first_name": "Jude",
     "rank": "PO",
@@ -5633,7 +5633,7 @@
   },
   {
     "command": "4",
-    "sector": "Fulton/Chelsea/Elliot (10)",
+    "sector": "Fulton/Chelsea/Elliot (10 Precinct)",
     "last_name": "Perricone",
     "first_name": "Vincent",
     "rank": "PO",
@@ -5641,7 +5641,7 @@
   },
   {
     "command": "4",
-    "sector": "Fulton/Chelsea/Elliot (10)",
+    "sector": "Fulton/Chelsea/Elliot (10 Precinct)",
     "last_name": "Tutku",
     "first_name": "Ercan",
     "rank": "PO",
@@ -5657,7 +5657,7 @@
   },
   {
     "command": "4",
-    "sector": "RIIS/Campos/LES 3,5 (9)",
+    "sector": "RIIS/Campos/LES 3,5 (9 Precinct)",
     "last_name": "Cappuccio",
     "first_name": "Joseph",
     "rank": "PO",
@@ -5665,7 +5665,7 @@
   },
   {
     "command": "4",
-    "sector": "RIIS/Campos/LES 3,5 (9)",
+    "sector": "RIIS/Campos/LES 3,5 (9 Precinct)",
     "last_name": "Haynes",
     "first_name": "Willie",
     "rank": "PO",
@@ -5673,7 +5673,7 @@
   },
   {
     "command": "4",
-    "sector": "Rutgers/La Guardia/Seward Park/Two Bridges (7)",
+    "sector": "Rutgers/La Guardia/Seward Park/Two Bridges (7 Precinct)",
     "last_name": "Goldberg",
     "first_name": "David",
     "rank": "PO",
@@ -5681,7 +5681,7 @@
   },
   {
     "command": "5",
-    "sector": "Clinton/Carver/Lehman (23)",
+    "sector": "Clinton/Carver/Lehman (23 Precinct)",
     "last_name": "Galvan",
     "first_name": "Ana",
     "rank": "PO",
@@ -5689,7 +5689,7 @@
   },
   {
     "command": "5",
-    "sector": "Clinton/Carver/Lehman (23)",
+    "sector": "Clinton/Carver/Lehman (23 Precinct)",
     "last_name": "Gomez",
     "first_name": "Kelvin",
     "rank": "PO",
@@ -5697,7 +5697,7 @@
   },
   {
     "command": "5",
-    "sector": "East River/Wilson (23)",
+    "sector": "East River/Wilson (23 Precinct)",
     "last_name": "Billotto",
     "first_name": "Nicholas",
     "rank": "PO",
@@ -5705,7 +5705,7 @@
   },
   {
     "command": "5",
-    "sector": "East River/Wilson (23)",
+    "sector": "East River/Wilson (23 Precinct)",
     "last_name": "Chowdhury",
     "first_name": "Imdadul",
     "rank": "PO",
@@ -5713,7 +5713,7 @@
   },
   {
     "command": "5",
-    "sector": "Jefferson/Corsi/Johnson/Upaca (23)",
+    "sector": "Jefferson/Corsi/Johnson/Upaca (23 Precinct)",
     "last_name": "Lambrou",
     "first_name": "Dimitrios",
     "rank": "PO",
@@ -5721,7 +5721,7 @@
   },
   {
     "command": "5",
-    "sector": "Jefferson/Corsi/Johnson/Upaca (23)",
+    "sector": "Jefferson/Corsi/Johnson/Upaca (23 Precinct)",
     "last_name": "Orellana",
     "first_name": "Richard",
     "rank": "PO",
@@ -5729,7 +5729,7 @@
   },
   {
     "command": "5",
-    "sector": "King/131 Saint Nicholas/Taft Rehab/Taft (28)",
+    "sector": "King/131 Saint Nicholas/Taft Rehab/Taft (28 Precinct)",
     "last_name": "Medina",
     "first_name": "Pedro",
     "rank": "PO",
@@ -5737,7 +5737,7 @@
   },
   {
     "command": "5",
-    "sector": "King/131 Saint Nicholas/Taft Rehab/Taft (28)",
+    "sector": "King/131 Saint Nicholas/Taft Rehab/Taft (28 Precinct)",
     "last_name": "Santini",
     "first_name": "Jose",
     "rank": "PO",
@@ -5753,7 +5753,7 @@
   },
   {
     "command": "5",
-    "sector": "Wagner/Lincoln/Jackie Robinson (25)",
+    "sector": "Wagner/Lincoln/Jackie Robinson/ Mt.Morris (25 Precinct)",
     "last_name": "Mayol",
     "first_name": "Giovanni",
     "rank": "PO",
@@ -5761,7 +5761,7 @@
   },
   {
     "command": "5",
-    "sector": "Washington/Lexington/White/Metro (23)",
+    "sector": "Washington/Lexington/White/Metro (23 Precinct)",
     "last_name": "Duarte",
     "first_name": "Chabeli",
     "rank": "PO",
@@ -5769,7 +5769,7 @@
   },
   {
     "command": "5",
-    "sector": "Washington/Lexington/White/Metro (23)",
+    "sector": "Washington/Lexington/White/Metro (23 Precinct)",
     "last_name": "Sanchez",
     "first_name": "Alexander",
     "rank": "PO",
@@ -5777,7 +5777,7 @@
   },
   {
     "command": "6",
-    "sector": "Grant/Manhattanville (26)",
+    "sector": "Grant/Manhattanville (26 Precinct)",
     "last_name": "Sharma",
     "first_name": "Narinder",
     "rank": "PO",
@@ -5785,7 +5785,7 @@
   },
   {
     "command": "6",
-    "sector": "Harlem River/Polo Grounds/Rangel (32)",
+    "sector": "Harlem River/Polo Grounds/Rangel (32 Precinct)",
     "last_name": "Calcano",
     "first_name": "Oscar",
     "rank": "PO",
@@ -5793,7 +5793,7 @@
   },
   {
     "command": "6",
-    "sector": "Harlem River/Polo Grounds/Rangel (32)",
+    "sector": "Harlem River/Polo Grounds/Rangel (32 Precinct)",
     "last_name": "Siciliano",
     "first_name": "William",
     "rank": "PO",
@@ -5809,7 +5809,7 @@
   },
   {
     "command": "6",
-    "sector": "St.Nicholas/Drew Hamilton/Frederick Samuel (32)",
+    "sector": "St.Nicholas/Drew Hamilton/Frederick Samuel (32 Precinct)",
     "last_name": "Argudo",
     "first_name": "Karla",
     "rank": "PO",
@@ -5817,7 +5817,7 @@
   },
   {
     "command": "6",
-    "sector": "St.Nicholas/Drew Hamilton/Frederick Samuel (32)",
+    "sector": "St.Nicholas/Drew Hamilton/Frederick Samuel (32 Precinct)",
     "last_name": "Dorsey",
     "first_name": "Deandre",
     "rank": "PO",
@@ -5825,7 +5825,7 @@
   },
   {
     "command": "7",
-    "sector": "Adams/St Marys/Moore/Union/Millbrook  (40)",
+    "sector": "Adams/St Marys/Moore/Union/Millbrook  (40 Precinct)",
     "last_name": "Amarantepolanco",
     "first_name": "Nestor",
     "rank": "PO",
@@ -5833,7 +5833,7 @@
   },
   {
     "command": "7",
-    "sector": "Adams/St Marys/Moore/Union/Millbrook  (40)",
+    "sector": "Adams/St Marys/Moore/Union/Millbrook  (40 Precinct)",
     "last_name": "Dominguez",
     "first_name": "Christopher",
     "rank": "PO",
@@ -5841,7 +5841,7 @@
   },
   {
     "command": "7",
-    "sector": "Butler/Webster/Morrisania (42)",
+    "sector": "Butler/Webster/Morrisania (42 Precinct)",
     "last_name": "Martinez",
     "first_name": "keven",
     "rank": "PO",
@@ -5849,7 +5849,7 @@
   },
   {
     "command": "7",
-    "sector": "Butler/Webster/Morrisania (42)",
+    "sector": "Butler/Webster/Morrisania (42 Precinct)",
     "last_name": "Vasquez",
     "first_name": "Bolivar",
     "rank": "PO",
@@ -5857,7 +5857,7 @@
   },
   {
     "command": "7",
-    "sector": "Forest/Mckinley/Davidson/Murphy (42)",
+    "sector": "Forest/Mckinley/Davidson/Murphy (42 Precinct)",
     "last_name": "Hadaad",
     "first_name": "Jamil",
     "rank": "PO",
@@ -5865,7 +5865,7 @@
   },
   {
     "command": "7",
-    "sector": "Forest/Mckinley/Davidson/Murphy (42)",
+    "sector": "Forest/Mckinley/Davidson/Murphy (42 Precinct)",
     "last_name": "Marshall",
     "first_name": "Quincy",
     "rank": "PO",
@@ -5873,7 +5873,7 @@
   },
   {
     "command": "7",
-    "sector": "Melrose/Jackson/Betances (40)",
+    "sector": "Melrose/Jackson/Betances (40 Precinct)",
     "last_name": "Arguetalinares",
     "first_name": "Manuel",
     "rank": "PO",
@@ -5881,7 +5881,7 @@
   },
   {
     "command": "7",
-    "sector": "Melrose/Jackson/Betances (40)",
+    "sector": "Melrose/Jackson/Betances (40 Precinct)",
     "last_name": "Moncion",
     "first_name": "Anthony",
     "rank": "PO",
@@ -5905,7 +5905,7 @@
   },
   {
     "command": "7",
-    "sector": "Patterson/Mott Haven/Millbrook (40)",
+    "sector": "Patterson/Mott Haven/Millbrook (40 Precinct)",
     "last_name": "Correa",
     "first_name": "Edward",
     "rank": "PO",
@@ -5913,7 +5913,7 @@
   },
   {
     "command": "7",
-    "sector": "Patterson/Mott Haven/Millbrook (40)",
+    "sector": "Patterson/Mott Haven/Millbrook (40 Precinct)",
     "last_name": "Vasquez",
     "first_name": "Lorangy",
     "rank": "PO",
@@ -5921,7 +5921,7 @@
   },
   {
     "command": "8",
-    "sector": "Bronx River/Sotomayor/Watson Ave/Boynton (43 & 45)",
+    "sector": "Bronx River/Sotomayor/Watson Ave/Boynton                          (43 Precinct & 45 Precinct)",
     "last_name": "Antoine",
     "first_name": "James",
     "rank": "DET",
@@ -5929,7 +5929,7 @@
   },
   {
     "command": "8",
-    "sector": "Castle Hill/Throggs neck/Middltetown/Glebe (43 & 45)",
+    "sector": "Castle Hill/Throggs neck/Middltetown/Glebe                           (43 Precinct & 45 Precinct)",
     "last_name": "Posch",
     "first_name": "Richard",
     "rank": "PO",
@@ -5937,7 +5937,7 @@
   },
   {
     "command": "8",
-    "sector": "Castle Hill/Throggs neck/Middltetown/Glebe (43 & 45)",
+    "sector": "Castle Hill/Throggs neck/Middltetown/Glebe                           (43 Precinct & 45 Precinct)",
     "last_name": "Ruizcarrillos",
     "first_name": "Jorge",
     "rank": "PO",
@@ -5945,7 +5945,7 @@
   },
   {
     "command": "8",
-    "sector": "Edenwald/Baychester/Gun Hill/Boston Secor (47)",
+    "sector": "Edenwald/Baychester/Gun Hill/Boston Secor (47 Precinct)",
     "last_name": "Dwyer",
     "first_name": "Robert",
     "rank": "PO",
@@ -5953,7 +5953,7 @@
   },
   {
     "command": "8",
-    "sector": "Edenwald/Baychester/Gun Hill/Boston Secor (47)",
+    "sector": "Edenwald/Baychester/Gun Hill/Boston Secor (47 Precinct)",
     "last_name": "Rocha",
     "first_name": "Hansel",
     "rank": "PO",
@@ -5977,7 +5977,7 @@
   },
   {
     "command": "8",
-    "sector": "Soundview/Monroe/Clason Point/Sackwern (43)",
+    "sector": "Soundview/Monroe/Clason Point/Sackwern (43 Precinct)",
     "last_name": "Francis",
     "first_name": "Lincoln",
     "rank": "PO",
@@ -5985,7 +5985,7 @@
   },
   {
     "command": "8",
-    "sector": "Soundview/Monroe/Clason Point/Sackwern (43)",
+    "sector": "Soundview/Monroe/Clason Point/Sackwern (43 Precinct)",
     "last_name": "Shota",
     "first_name": "Erigert",
     "rank": "PO",
@@ -5993,7 +5993,7 @@
   },
   {
     "command": "9",
-    "sector": "Astoria (114)",
+    "sector": "Astoria (114 Precinct)",
     "last_name": "Halis",
     "first_name": "Mahmut",
     "rank": "PO",
@@ -6001,7 +6001,7 @@
   },
   {
     "command": "9",
-    "sector": "Astoria (114)",
+    "sector": "Astoria (114 Precinct)",
     "last_name": "Parisi",
     "first_name": "Joseph",
     "rank": "PO",
@@ -6009,7 +6009,7 @@
   },
   {
     "command": "9",
-    "sector": "Baisley Park/Conlon Life (113 & 103)",
+    "sector": "Baisley Park/Conlon Life (113 Precinct & 103 Precinct)",
     "last_name": "Danseglio",
     "first_name": "Hunter",
     "rank": "PO",
@@ -6017,7 +6017,7 @@
   },
   {
     "command": "9",
-    "sector": "Baisley Park/Conlon Life (113 & 103)",
+    "sector": "Baisley Park/Conlon Life (113 Precinct & 103 Precinct)",
     "last_name": "Mashriqi",
     "first_name": "Hakeem",
     "rank": "PO",
@@ -6041,7 +6041,7 @@
   },
   {
     "command": "9",
-    "sector": "Pomonok/Shelton (107 & 103)",
+    "sector": "Pomonok/Shelton (107 Precinct & 103 Precinct)",
     "last_name": "Collado",
     "first_name": "Irving",
     "rank": "PO",
@@ -6049,7 +6049,7 @@
   },
   {
     "command": "9",
-    "sector": "Pomonok/Shelton (107 & 103)",
+    "sector": "Pomonok/Shelton (107 Precinct & 103Precinct)",
     "last_name": "Milito",
     "first_name": "Shaun",
     "rank": "PO",
@@ -6057,7 +6057,7 @@
   },
   {
     "command": "9",
-    "sector": "Queensbridge (114)",
+    "sector": "Queensbridge (114 Precinct)",
     "last_name": "Alvarez",
     "first_name": "Dorian",
     "rank": "PO",
@@ -6065,7 +6065,7 @@
   },
   {
     "command": "9",
-    "sector": "Queensbridge (114)",
+    "sector": "Queensbridge (114 Precinct)",
     "last_name": "Batista",
     "first_name": "Genesis",
     "rank": "PO",
@@ -6073,7 +6073,7 @@
   },
   {
     "command": "9",
-    "sector": "Ravenswood/Woodside (114)",
+    "sector": "Ravenswood/Woodside (114 Precinct)",
     "last_name": "Chadli",
     "first_name": "Alexander",
     "rank": "PO",
@@ -6081,7 +6081,7 @@
   },
   {
     "command": "9",
-    "sector": "Ravenswood/Woodside (114)",
+    "sector": "Ravenswood/Woodside (114 Precinct)",
     "last_name": "Miranda",
     "first_name": "Luis",
     "rank": "PO",
@@ -6089,7 +6089,7 @@
   },
   {
     "command": "9",
-    "sector": "South Jamaica/ International Towers (103)",
+    "sector": "South Jamaica/ International Towers (103Precinct)",
     "last_name": "Ajesulas",
     "first_name": "Oldson",
     "rank": "DET",
@@ -6097,7 +6097,7 @@
   },
   {
     "command": "9",
-    "sector": "South Jamaica/ International Towers (103)",
+    "sector": "South Jamaica/ International Towers (103Precinct)",
     "last_name": "Camera",
     "first_name": "Richard",
     "rank": "PO",
